@@ -1,9781 +1,1587 @@
-<article class="markdown-body entry-content container-lg" itemprop="text">
-  <div class="markdown-heading" dir="auto">
-    <h1 tabindex="-1" class="heading-element" dir="auto">Emoji Cheat Sheet</h1><a id="emoji-cheat-sheet"
-      class="anchor" aria-label="Permalink: Emoji Cheat Sheet" href="#emoji-cheat-sheet"></a>
-  </div>
-  <p dir="auto">原文：<a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">emoji-cheat-sheet</a>
-  </p>
-  <div class="markdown-heading" dir="auto">
-    <h2 tabindex="-1" class="heading-element" dir="auto">Table of Contents</h2><a id="table-of-contents"
-      class="anchor" aria-label="Permalink: Table of Contents" href="#table-of-contents"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#smileys--emotion">Smileys &amp; Emotion</a></li>
-    <li><a href="#people--body">People &amp; Body</a></li>
-    <li><a href="#animals--nature">Animals &amp; Nature</a></li>
-    <li><a href="#food--drink">Food &amp; Drink</a></li>
-    <li><a href="#travel--places">Travel &amp; Places</a></li>
-    <li><a href="#activities">Activities</a></li>
-    <li><a href="#objects">Objects</a></li>
-    <li><a href="#symbols">Symbols</a></li>
-    <li><a href="#flags">Flags</a></li>
-    <li><a href="#github-custom-emoji">GitHub Custom Emoji</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Smileys &amp; Emotion</h3><a id="smileys--emotion"
-      class="anchor" aria-label="Permalink: Smileys &amp; Emotion" href="#smileys--emotion"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#face-smiling">Face Smiling</a></li>
-    <li><a href="#face-affection">Face Affection</a></li>
-    <li><a href="#face-tongue">Face Tongue</a></li>
-    <li><a href="#face-hand">Face Hand</a></li>
-    <li><a href="#face-neutral-skeptical">Face Neutral Skeptical</a></li>
-    <li><a href="#face-sleepy">Face Sleepy</a></li>
-    <li><a href="#face-unwell">Face Unwell</a></li>
-    <li><a href="#face-hat">Face Hat</a></li>
-    <li><a href="#face-glasses">Face Glasses</a></li>
-    <li><a href="#face-concerned">Face Concerned</a></li>
-    <li><a href="#face-negative">Face Negative</a></li>
-    <li><a href="#face-costume">Face Costume</a></li>
-    <li><a href="#cat-face">Cat Face</a></li>
-    <li><a href="#monkey-face">Monkey Face</a></li>
-    <li><a href="#heart">Heart</a></li>
-    <li><a href="#emotion">Emotion</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Smiling</h4><a id="face-smiling"
-      class="anchor" aria-label="Permalink: Face Smiling" href="#face-smiling"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😀</td>
-          <td><code>:grinning:</code></td>
-          <td align="center">😃</td>
-          <td><code>:smiley:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😄</td>
-          <td><code>:smile:</code></td>
-          <td align="center">😁</td>
-          <td><code>:grin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😆</td>
-          <td><code>:laughing:</code> <br> <code>:satisfied:</code></td>
-          <td align="center">😅</td>
-          <td><code>:sweat_smile:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤣</td>
-          <td><code>:rofl:</code></td>
-          <td align="center">😂</td>
-          <td><code>:joy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙂</td>
-          <td><code>:slightly_smiling_face:</code></td>
-          <td align="center">🙃</td>
-          <td><code>:upside_down_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😉</td>
-          <td><code>:wink:</code></td>
-          <td align="center">😊</td>
-          <td><code>:blush:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😇</td>
-          <td><code>:innocent:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Affection</h4><a id="face-affection"
-      class="anchor" aria-label="Permalink: Face Affection" href="#face-affection"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥰</td>
-          <td><code>:smiling_face_with_three_hearts:</code></td>
-          <td align="center">😍</td>
-          <td><code>:heart_eyes:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤩</td>
-          <td><code>:star_struck:</code></td>
-          <td align="center">😘</td>
-          <td><code>:kissing_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😗</td>
-          <td><code>:kissing:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="relaxed">☺️</g-emoji></td>
-          <td><code>:relaxed:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😚</td>
-          <td><code>:kissing_closed_eyes:</code></td>
-          <td align="center">😙</td>
-          <td><code>:kissing_smiling_eyes:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥲</td>
-          <td><code>:smiling_face_with_tear:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Tongue</h4><a id="face-tongue" class="anchor"
-      aria-label="Permalink: Face Tongue" href="#face-tongue"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😋</td>
-          <td><code>:yum:</code></td>
-          <td align="center">😛</td>
-          <td><code>:stuck_out_tongue:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😜</td>
-          <td><code>:stuck_out_tongue_winking_eye:</code></td>
-          <td align="center">🤪</td>
-          <td><code>:zany_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😝</td>
-          <td><code>:stuck_out_tongue_closed_eyes:</code></td>
-          <td align="center">🤑</td>
-          <td><code>:money_mouth_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Hand</h4><a id="face-hand" class="anchor"
-      aria-label="Permalink: Face Hand" href="#face-hand"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤗</td>
-          <td><code>:hugs:</code></td>
-          <td align="center">🤭</td>
-          <td><code>:hand_over_mouth:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤫</td>
-          <td><code>:shushing_face:</code></td>
-          <td align="center">🤔</td>
-          <td><code>:thinking:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Neutral Skeptical</h4><a
-      id="face-neutral-skeptical" class="anchor" aria-label="Permalink: Face Neutral Skeptical"
-      href="#face-neutral-skeptical"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤐</td>
-          <td><code>:zipper_mouth_face:</code></td>
-          <td align="center">🤨</td>
-          <td><code>:raised_eyebrow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😐</td>
-          <td><code>:neutral_face:</code></td>
-          <td align="center">😑</td>
-          <td><code>:expressionless:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😶</td>
-          <td><code>:no_mouth:</code></td>
-          <td align="center">😶‍🌫️</td>
-          <td><code>:face_in_clouds:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😏</td>
-          <td><code>:smirk:</code></td>
-          <td align="center">😒</td>
-          <td><code>:unamused:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙄</td>
-          <td><code>:roll_eyes:</code></td>
-          <td align="center">😬</td>
-          <td><code>:grimacing:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😮‍💨</td>
-          <td><code>:face_exhaling:</code></td>
-          <td align="center">🤥</td>
-          <td><code>:lying_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Sleepy</h4><a id="face-sleepy" class="anchor"
-      aria-label="Permalink: Face Sleepy" href="#face-sleepy"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😌</td>
-          <td><code>:relieved:</code></td>
-          <td align="center">😔</td>
-          <td><code>:pensive:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😪</td>
-          <td><code>:sleepy:</code></td>
-          <td align="center">🤤</td>
-          <td><code>:drooling_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😴</td>
-          <td><code>:sleeping:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Unwell</h4><a id="face-unwell" class="anchor"
-      aria-label="Permalink: Face Unwell" href="#face-unwell"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😷</td>
-          <td><code>:mask:</code></td>
-          <td align="center">🤒</td>
-          <td><code>:face_with_thermometer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤕</td>
-          <td><code>:face_with_head_bandage:</code></td>
-          <td align="center">🤢</td>
-          <td><code>:nauseated_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤮</td>
-          <td><code>:vomiting_face:</code></td>
-          <td align="center">🤧</td>
-          <td><code>:sneezing_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥵</td>
-          <td><code>:hot_face:</code></td>
-          <td align="center">🥶</td>
-          <td><code>:cold_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥴</td>
-          <td><code>:woozy_face:</code></td>
-          <td align="center">😵</td>
-          <td><code>:dizzy_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😵‍💫</td>
-          <td><code>:face_with_spiral_eyes:</code></td>
-          <td align="center">🤯</td>
-          <td><code>:exploding_head:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Hat</h4><a id="face-hat" class="anchor"
-      aria-label="Permalink: Face Hat" href="#face-hat"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🤠</td>
-          <td><code>:cowboy_hat_face:</code></td>
-          <td align="center">🥳</td>
-          <td><code>:partying_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥸</td>
-          <td><code>:disguised_face:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Glasses</h4><a id="face-glasses"
-      class="anchor" aria-label="Permalink: Face Glasses" href="#face-glasses"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😎</td>
-          <td><code>:sunglasses:</code></td>
-          <td align="center">🤓</td>
-          <td><code>:nerd_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🧐</td>
-          <td><code>:monocle_face:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Concerned</h4><a id="face-concerned"
-      class="anchor" aria-label="Permalink: Face Concerned" href="#face-concerned"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😕</td>
-          <td><code>:confused:</code></td>
-          <td align="center">😟</td>
-          <td><code>:worried:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙁</td>
-          <td><code>:slightly_frowning_face:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="frowning_face">☹️</g-emoji></td>
-          <td><code>:frowning_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😮</td>
-          <td><code>:open_mouth:</code></td>
-          <td align="center">😯</td>
-          <td><code>:hushed:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😲</td>
-          <td><code>:astonished:</code></td>
-          <td align="center">😳</td>
-          <td><code>:flushed:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🥺</td>
-          <td><code>:pleading_face:</code></td>
-          <td align="center">😦</td>
-          <td><code>:frowning:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😧</td>
-          <td><code>:anguished:</code></td>
-          <td align="center">😨</td>
-          <td><code>:fearful:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😰</td>
-          <td><code>:cold_sweat:</code></td>
-          <td align="center">😥</td>
-          <td><code>:disappointed_relieved:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😢</td>
-          <td><code>:cry:</code></td>
-          <td align="center">😭</td>
-          <td><code>:sob:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😱</td>
-          <td><code>:scream:</code></td>
-          <td align="center">😖</td>
-          <td><code>:confounded:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😣</td>
-          <td><code>:persevere:</code></td>
-          <td align="center">😞</td>
-          <td><code>:disappointed:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😓</td>
-          <td><code>:sweat:</code></td>
-          <td align="center">😩</td>
-          <td><code>:weary:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😫</td>
-          <td><code>:tired_face:</code></td>
-          <td align="center">🥱</td>
-          <td><code>:yawning_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Negative</h4><a id="face-negative"
-      class="anchor" aria-label="Permalink: Face Negative" href="#face-negative"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😤</td>
-          <td><code>:triumph:</code></td>
-          <td align="center">😡</td>
-          <td><code>:pout:</code> <br> <code>:rage:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😠</td>
-          <td><code>:angry:</code></td>
-          <td align="center">🤬</td>
-          <td><code>:cursing_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😈</td>
-          <td><code>:smiling_imp:</code></td>
-          <td align="center">👿</td>
-          <td><code>:imp:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💀</td>
-          <td><code>:skull:</code></td>
-          <td align="center">☠️</td>
-          <td><code>:skull_and_crossbones:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Face Costume</h4><a id="face-costume"
-      class="anchor" aria-label="Permalink: Face Costume" href="#face-costume"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💩</td>
-          <td><code>:hankey:</code> <br> <code>:poop:</code> <br> <code>:shit:</code></td>
-          <td align="center">🤡</td>
-          <td><code>:clown_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">👹</td>
-          <td><code>:japanese_ogre:</code></td>
-          <td align="center">👺</td>
-          <td><code>:japanese_goblin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">👻</td>
-          <td><code>:ghost:</code></td>
-          <td align="center">👽</td>
-          <td><code>:alien:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">👾</td>
-          <td><code>:space_invader:</code></td>
-          <td align="center">🤖</td>
-          <td><code>:robot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Cat Face</h4><a id="cat-face" class="anchor"
-      aria-label="Permalink: Cat Face" href="#cat-face"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😺</td>
-          <td><code>:smiley_cat:</code></td>
-          <td align="center">😸</td>
-          <td><code>:smile_cat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😹</td>
-          <td><code>:joy_cat:</code></td>
-          <td align="center">😻</td>
-          <td><code>:heart_eyes_cat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😼</td>
-          <td><code>:smirk_cat:</code></td>
-          <td align="center">😽</td>
-          <td><code>:kissing_cat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙀</td>
-          <td><code>:scream_cat:</code></td>
-          <td align="center">😿</td>
-          <td><code>:crying_cat_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">😾</td>
-          <td><code>:pouting_cat:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Monkey Face</h4><a id="monkey-face" class="anchor"
-      aria-label="Permalink: Monkey Face" href="#monkey-face"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙈</td>
-          <td><code>:see_no_evil:</code></td>
-          <td align="center">🙉</td>
-          <td><code>:hear_no_evil:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🙊</td>
-          <td><code>:speak_no_evil:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Heart</h4><a id="heart" class="anchor"
-      aria-label="Permalink: Heart" href="#heart"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💌</td>
-          <td><code>:love_letter:</code></td>
-          <td align="center">💘</td>
-          <td><code>:cupid:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💝</td>
-          <td><code>:gift_heart:</code></td>
-          <td align="center">💖</td>
-          <td><code>:sparkling_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💗</td>
-          <td><code>:heartpulse:</code></td>
-          <td align="center">💓</td>
-          <td><code>:heartbeat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💞</td>
-          <td><code>:revolving_hearts:</code></td>
-          <td align="center">💕</td>
-          <td><code>:two_hearts:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💟</td>
-          <td><code>:heart_decoration:</code></td>
-          <td align="center">❣️</td>
-          <td><code>:heavy_heart_exclamation:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💔</td>
-          <td><code>:broken_heart:</code></td>
-          <td align="center">❤️‍🔥</td>
-          <td><code>:heart_on_fire:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">❤️‍🩹</td>
-          <td><code>:mending_heart:</code></td>
-          <td align="center">❤️</td>
-          <td><code>:heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🧡</td>
-          <td><code>:orange_heart:</code></td>
-          <td align="center">💛</td>
-          <td><code>:yellow_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💚</td>
-          <td><code>:green_heart:</code></td>
-          <td align="center">💙</td>
-          <td><code>:blue_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💜</td>
-          <td><code>:purple_heart:</code></td>
-          <td align="center">🤎</td>
-          <td><code>:brown_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🖤</td>
-          <td><code>:black_heart:</code></td>
-          <td align="center">🤍</td>
-          <td><code>:white_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Emotion</h4><a id="emotion" class="anchor"
-      aria-label="Permalink: Emotion" href="#emotion"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💋</td>
-          <td><code>:kiss:</code></td>
-          <td align="center">💯</td>
-          <td><code>:100:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💢</td>
-          <td><code>:anger:</code></td>
-          <td align="center">💥</td>
-          <td><code>:boom:</code> <br> <code>:collision:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💫</td>
-          <td><code>:dizzy:</code></td>
-          <td align="center">💦</td>
-          <td><code>:sweat_drops:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💨</td>
-          <td><code>:dash:</code></td>
-          <td align="center">🕳️</td>
-          <td><code>:hole:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💬</td>
-          <td><code>:speech_balloon:</code></td>
-          <td align="center">👁️‍🗨️</td>
-          <td><code>:eye_speech_bubble:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">🗨️</td>
-          <td><code>:left_speech_bubble:</code></td>
-          <td align="center">🗯️</td>
-          <td><code>:right_anger_bubble:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#smileys--emotion">top</a></td>
-          <td align="center">💭</td>
-          <td><code>:thought_balloon:</code></td>
-          <td align="center">💤</td>
-          <td><code>:zzz:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">People &amp; Body</h3><a id="people--body"
-      class="anchor" aria-label="Permalink: People &amp; Body" href="#people--body"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#hand-fingers-open">Hand Fingers Open</a></li>
-    <li><a href="#hand-fingers-partial">Hand Fingers Partial</a></li>
-    <li><a href="#hand-single-finger">Hand Single Finger</a></li>
-    <li><a href="#hand-fingers-closed">Hand Fingers Closed</a></li>
-    <li><a href="#hands">Hands</a></li>
-    <li><a href="#hand-prop">Hand Prop</a></li>
-    <li><a href="#body-parts">Body Parts</a></li>
-    <li><a href="#person">Person</a></li>
-    <li><a href="#person-gesture">Person Gesture</a></li>
-    <li><a href="#person-role">Person Role</a></li>
-    <li><a href="#person-fantasy">Person Fantasy</a></li>
-    <li><a href="#person-activity">Person Activity</a></li>
-    <li><a href="#person-sport">Person Sport</a></li>
-    <li><a href="#person-resting">Person Resting</a></li>
-    <li><a href="#family">Family</a></li>
-    <li><a href="#person-symbol">Person Symbol</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hand Fingers Open</h4><a id="hand-fingers-open"
-      class="anchor" aria-label="Permalink: Hand Fingers Open" href="#hand-fingers-open"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👋</td>
-          <td><code>:wave:</code></td>
-          <td align="center">🤚</td>
-          <td><code>:raised_back_of_hand:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🖐️</td>
-          <td><code>:raised_hand_with_fingers_splayed:</code></td>
-          <td align="center">✋</td>
-          <td><code>:hand:</code> <br> <code>:raised_hand:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🖖</td>
-          <td><code>:vulcan_salute:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hand Fingers Partial</h4><a
-      id="hand-fingers-partial" class="anchor" aria-label="Permalink: Hand Fingers Partial"
-      href="#hand-fingers-partial"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👌</td>
-          <td><code>:ok_hand:</code></td>
-          <td align="center">🤌</td>
-          <td><code>:pinched_fingers:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤏</td>
-          <td><code>:pinching_hand:</code></td>
-          <td align="center">✌️</td>
-          <td><code>:v:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤞</td>
-          <td><code>:crossed_fingers:</code></td>
-          <td align="center">🤟</td>
-          <td><code>:love_you_gesture:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤘</td>
-          <td><code>:metal:</code></td>
-          <td align="center">🤙</td>
-          <td><code>:call_me_hand:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hand Single Finger</h4><a id="hand-single-finger"
-      class="anchor" aria-label="Permalink: Hand Single Finger" href="#hand-single-finger"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👈</td>
-          <td><code>:point_left:</code></td>
-          <td align="center">👉</td>
-          <td><code>:point_right:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👆</td>
-          <td><code>:point_up_2:</code></td>
-          <td align="center">🖕</td>
-          <td><code>:fu:</code> <br> <code>:middle_finger:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👇</td>
-          <td><code>:point_down:</code></td>
-          <td align="center">☝️</td>
-          <td><code>:point_up:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hand Fingers Closed</h4><a
-      id="hand-fingers-closed" class="anchor" aria-label="Permalink: Hand Fingers Closed"
-      href="#hand-fingers-closed"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👍</td>
-          <td><code>:+1:</code> <br> <code>:thumbsup:</code></td>
-          <td align="center">👎</td>
-          <td><code>:-1:</code> <br> <code>:thumbsdown:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">✊</td>
-          <td><code>:fist:</code> <br> <code>:fist_raised:</code></td>
-          <td align="center">👊</td>
-          <td><code>:facepunch:</code> <br> <code>:fist_oncoming:</code> <br> <code>:punch:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤛</td>
-          <td><code>:fist_left:</code></td>
-          <td align="center">🤜</td>
-          <td><code>:fist_right:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hands</h4><a id="hands" class="anchor"
-      aria-label="Permalink: Hands" href="#hands"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👏</td>
-          <td><code>:clap:</code></td>
-          <td align="center">🙌</td>
-          <td><code>:raised_hands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👐</td>
-          <td><code>:open_hands:</code></td>
-          <td align="center">🤲</td>
-          <td><code>:palms_up_together:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤝</td>
-          <td><code>:handshake:</code></td>
-          <td align="center">🙏</td>
-          <td><code>:pray:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hand Prop</h4><a id="hand-prop" class="anchor"
-      aria-label="Permalink: Hand Prop" href="#hand-prop"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">✍️</td>
-          <td><code>:writing_hand:</code></td>
-          <td align="center">💅</td>
-          <td><code>:nail_care:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤳</td>
-          <td><code>:selfie:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Body Parts</h4><a id="body-parts" class="anchor"
-      aria-label="Permalink: Body Parts" href="#body-parts"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💪</td>
-          <td><code>:muscle:</code></td>
-          <td align="center">🦾</td>
-          <td><code>:mechanical_arm:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦿</td>
-          <td><code>:mechanical_leg:</code></td>
-          <td align="center">🦵</td>
-          <td><code>:leg:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦶</td>
-          <td><code>:foot:</code></td>
-          <td align="center">👂</td>
-          <td><code>:ear:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦻</td>
-          <td><code>:ear_with_hearing_aid:</code></td>
-          <td align="center">👃</td>
-          <td><code>:nose:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧠</td>
-          <td><code>:brain:</code></td>
-          <td align="center">🫀</td>
-          <td><code>:anatomical_heart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🫁</td>
-          <td><code>:lungs:</code></td>
-          <td align="center">🦷</td>
-          <td><code>:tooth:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦴</td>
-          <td><code>:bone:</code></td>
-          <td align="center">👀</td>
-          <td><code>:eyes:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👁️</td>
-          <td><code>:eye:</code></td>
-          <td align="center">👅</td>
-          <td><code>:tongue:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👄</td>
-          <td><code>:lips:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person</h4><a id="person" class="anchor"
-      aria-label="Permalink: Person" href="#person"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👶</td>
-          <td><code>:baby:</code></td>
-          <td align="center">🧒</td>
-          <td><code>:child:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👦</td>
-          <td><code>:boy:</code></td>
-          <td align="center">👧</td>
-          <td><code>:girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑</td>
-          <td><code>:adult:</code></td>
-          <td align="center">👱</td>
-          <td><code>:blond_haired_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨</td>
-          <td><code>:man:</code></td>
-          <td align="center">🧔</td>
-          <td><code>:bearded_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧔‍♂️</td>
-          <td><code>:man_beard:</code></td>
-          <td align="center">🧔‍♀️</td>
-          <td><code>:woman_beard:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🦰</td>
-          <td><code>:red_haired_man:</code></td>
-          <td align="center">👨‍🦱</td>
-          <td><code>:curly_haired_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🦳</td>
-          <td><code>:white_haired_man:</code></td>
-          <td align="center">👨‍🦲</td>
-          <td><code>:bald_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩</td>
-          <td><code>:woman:</code></td>
-          <td align="center">👩‍🦰</td>
-          <td><code>:red_haired_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🦰</td>
-          <td><code>:person_red_hair:</code></td>
-          <td align="center">👩‍🦱</td>
-          <td><code>:curly_haired_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🦱</td>
-          <td><code>:person_curly_hair:</code></td>
-          <td align="center">👩‍🦳</td>
-          <td><code>:white_haired_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🦳</td>
-          <td><code>:person_white_hair:</code></td>
-          <td align="center">👩‍🦲</td>
-          <td><code>:bald_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🦲</td>
-          <td><code>:person_bald:</code></td>
-          <td align="center">👱‍♀️</td>
-          <td><code>:blond_haired_woman:</code> <br> <code>:blonde_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👱‍♂️</td>
-          <td><code>:blond_haired_man:</code></td>
-          <td align="center">🧓</td>
-          <td><code>:older_adult:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👴</td>
-          <td><code>:older_man:</code></td>
-          <td align="center">👵</td>
-          <td><code>:older_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Gesture</h4><a id="person-gesture"
-      class="anchor" aria-label="Permalink: Person Gesture" href="#person-gesture"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙍</td>
-          <td><code>:frowning_person:</code></td>
-          <td align="center">🙍‍♂️</td>
-          <td><code>:frowning_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙍‍♀️</td>
-          <td><code>:frowning_woman:</code></td>
-          <td align="center">🙎</td>
-          <td><code>:pouting_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙎‍♂️</td>
-          <td><code>:pouting_man:</code></td>
-          <td align="center">🙎‍♀️</td>
-          <td><code>:pouting_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙅</td>
-          <td><code>:no_good:</code></td>
-          <td align="center">🙅‍♂️</td>
-          <td><code>:ng_man:</code> <br> <code>:no_good_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙅‍♀️</td>
-          <td><code>:ng_woman:</code> <br> <code>:no_good_woman:</code></td>
-          <td align="center">🙆</td>
-          <td><code>:ok_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙆‍♂️</td>
-          <td><code>:ok_man:</code></td>
-          <td align="center">🙆‍♀️</td>
-          <td><code>:ok_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💁</td>
-          <td><code>:information_desk_person:</code> <br> <code>:tipping_hand_person:</code></td>
-          <td align="center">💁‍♂️</td>
-          <td><code>:sassy_man:</code> <br> <code>:tipping_hand_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💁‍♀️</td>
-          <td><code>:sassy_woman:</code> <br> <code>:tipping_hand_woman:</code></td>
-          <td align="center">🙋</td>
-          <td><code>:raising_hand:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙋‍♂️</td>
-          <td><code>:raising_hand_man:</code></td>
-          <td align="center">🙋‍♀️</td>
-          <td><code>:raising_hand_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧏</td>
-          <td><code>:deaf_person:</code></td>
-          <td align="center">🧏‍♂️</td>
-          <td><code>:deaf_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧏‍♀️</td>
-          <td><code>:deaf_woman:</code></td>
-          <td align="center">🙇</td>
-          <td><code>:bow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🙇‍♂️</td>
-          <td><code>:bowing_man:</code></td>
-          <td align="center">🙇‍♀️</td>
-          <td><code>:bowing_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤦</td>
-          <td><code>:facepalm:</code></td>
-          <td align="center">🤦‍♂️</td>
-          <td><code>:man_facepalming:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤦‍♀️</td>
-          <td><code>:woman_facepalming:</code></td>
-          <td align="center">🤷</td>
-          <td><code>:shrug:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤷‍♂️</td>
-          <td><code>:man_shrugging:</code></td>
-          <td align="center">🤷‍♀️</td>
-          <td><code>:woman_shrugging:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Role</h4><a id="person-role" class="anchor"
-      aria-label="Permalink: Person Role" href="#person-role"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍⚕️</td>
-          <td><code>:health_worker:</code></td>
-          <td align="center">👨‍⚕️</td>
-          <td><code>:man_health_worker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍⚕️</td>
-          <td><code>:woman_health_worker:</code></td>
-          <td align="center">🧑‍🎓</td>
-          <td><code>:student:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🎓</td>
-          <td><code>:man_student:</code></td>
-          <td align="center">👩‍🎓</td>
-          <td><code>:woman_student:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🏫</td>
-          <td><code>:teacher:</code></td>
-          <td align="center">👨‍🏫</td>
-          <td><code>:man_teacher:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🏫</td>
-          <td><code>:woman_teacher:</code></td>
-          <td align="center">🧑‍⚖️</td>
-          <td><code>:judge:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍⚖️</td>
-          <td><code>:man_judge:</code></td>
-          <td align="center">👩‍⚖️</td>
-          <td><code>:woman_judge:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🌾</td>
-          <td><code>:farmer:</code></td>
-          <td align="center">👨‍🌾</td>
-          <td><code>:man_farmer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🌾</td>
-          <td><code>:woman_farmer:</code></td>
-          <td align="center">🧑‍🍳</td>
-          <td><code>:cook:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🍳</td>
-          <td><code>:man_cook:</code></td>
-          <td align="center">👩‍🍳</td>
-          <td><code>:woman_cook:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🔧</td>
-          <td><code>:mechanic:</code></td>
-          <td align="center">👨‍🔧</td>
-          <td><code>:man_mechanic:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🔧</td>
-          <td><code>:woman_mechanic:</code></td>
-          <td align="center">🧑‍🏭</td>
-          <td><code>:factory_worker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🏭</td>
-          <td><code>:man_factory_worker:</code></td>
-          <td align="center">👩‍🏭</td>
-          <td><code>:woman_factory_worker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍💼</td>
-          <td><code>:office_worker:</code></td>
-          <td align="center">👨‍💼</td>
-          <td><code>:man_office_worker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍💼</td>
-          <td><code>:woman_office_worker:</code></td>
-          <td align="center">🧑‍🔬</td>
-          <td><code>:scientist:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🔬</td>
-          <td><code>:man_scientist:</code></td>
-          <td align="center">👩‍🔬</td>
-          <td><code>:woman_scientist:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍💻</td>
-          <td><code>:technologist:</code></td>
-          <td align="center">👨‍💻</td>
-          <td><code>:man_technologist:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍💻</td>
-          <td><code>:woman_technologist:</code></td>
-          <td align="center">🧑‍🎤</td>
-          <td><code>:singer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🎤</td>
-          <td><code>:man_singer:</code></td>
-          <td align="center">👩‍🎤</td>
-          <td><code>:woman_singer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🎨</td>
-          <td><code>:artist:</code></td>
-          <td align="center">👨‍🎨</td>
-          <td><code>:man_artist:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🎨</td>
-          <td><code>:woman_artist:</code></td>
-          <td align="center">🧑‍<g-emoji class="g-emoji" alias="airplane">✈️</g-emoji></td>
-          <td><code>:pilot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍<g-emoji class="g-emoji" alias="airplane">✈️</g-emoji></td>
-          <td><code>:man_pilot:</code></td>
-          <td align="center">👩‍<g-emoji class="g-emoji" alias="airplane">✈️</g-emoji></td>
-          <td><code>:woman_pilot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🚀</td>
-          <td><code>:astronaut:</code></td>
-          <td align="center">👨‍🚀</td>
-          <td><code>:man_astronaut:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🚀</td>
-          <td><code>:woman_astronaut:</code></td>
-          <td align="center">🧑‍🚒</td>
-          <td><code>:firefighter:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🚒</td>
-          <td><code>:man_firefighter:</code></td>
-          <td align="center">👩‍🚒</td>
-          <td><code>:woman_firefighter:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👮</td>
-          <td><code>:cop:</code> <br> <code>:police_officer:</code></td>
-          <td align="center">👮‍♂️</td>
-          <td><code>:policeman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👮‍♀️</td>
-          <td><code>:policewoman:</code></td>
-          <td align="center">🕵️</td>
-          <td><code>:detective:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🕵️‍♂️</td>
-          <td><code>:male_detective:</code></td>
-          <td align="center">🕵️‍♀️</td>
-          <td><code>:female_detective:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💂</td>
-          <td><code>:guard:</code></td>
-          <td align="center">💂‍♂️</td>
-          <td><code>:guardsman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💂‍♀️</td>
-          <td><code>:guardswoman:</code></td>
-          <td align="center">🥷</td>
-          <td><code>:ninja:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👷</td>
-          <td><code>:construction_worker:</code></td>
-          <td align="center">👷‍♂️</td>
-          <td><code>:construction_worker_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👷‍♀️</td>
-          <td><code>:construction_worker_woman:</code></td>
-          <td align="center">🤴</td>
-          <td><code>:prince:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👸</td>
-          <td><code>:princess:</code></td>
-          <td align="center">👳</td>
-          <td><code>:person_with_turban:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👳‍♂️</td>
-          <td><code>:man_with_turban:</code></td>
-          <td align="center">👳‍♀️</td>
-          <td><code>:woman_with_turban:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👲</td>
-          <td><code>:man_with_gua_pi_mao:</code></td>
-          <td align="center">🧕</td>
-          <td><code>:woman_with_headscarf:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤵</td>
-          <td><code>:person_in_tuxedo:</code></td>
-          <td align="center">🤵‍♂️</td>
-          <td><code>:man_in_tuxedo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤵‍♀️</td>
-          <td><code>:woman_in_tuxedo:</code></td>
-          <td align="center">👰</td>
-          <td><code>:person_with_veil:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👰‍♂️</td>
-          <td><code>:man_with_veil:</code></td>
-          <td align="center">👰‍♀️</td>
-          <td><code>:bride_with_veil:</code> <br> <code>:woman_with_veil:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤰</td>
-          <td><code>:pregnant_woman:</code></td>
-          <td align="center">🤱</td>
-          <td><code>:breast_feeding:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🍼</td>
-          <td><code>:woman_feeding_baby:</code></td>
-          <td align="center">👨‍🍼</td>
-          <td><code>:man_feeding_baby:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🍼</td>
-          <td><code>:person_feeding_baby:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Fantasy</h4><a id="person-fantasy"
-      class="anchor" aria-label="Permalink: Person Fantasy" href="#person-fantasy"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👼</td>
-          <td><code>:angel:</code></td>
-          <td align="center">🎅</td>
-          <td><code>:santa:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤶</td>
-          <td><code>:mrs_claus:</code></td>
-          <td align="center">🧑‍🎄</td>
-          <td><code>:mx_claus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦸</td>
-          <td><code>:superhero:</code></td>
-          <td align="center">🦸‍♂️</td>
-          <td><code>:superhero_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦸‍♀️</td>
-          <td><code>:superhero_woman:</code></td>
-          <td align="center">🦹</td>
-          <td><code>:supervillain:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🦹‍♂️</td>
-          <td><code>:supervillain_man:</code></td>
-          <td align="center">🦹‍♀️</td>
-          <td><code>:supervillain_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧙</td>
-          <td><code>:mage:</code></td>
-          <td align="center">🧙‍♂️</td>
-          <td><code>:mage_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧙‍♀️</td>
-          <td><code>:mage_woman:</code></td>
-          <td align="center">🧚</td>
-          <td><code>:fairy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧚‍♂️</td>
-          <td><code>:fairy_man:</code></td>
-          <td align="center">🧚‍♀️</td>
-          <td><code>:fairy_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧛</td>
-          <td><code>:vampire:</code></td>
-          <td align="center">🧛‍♂️</td>
-          <td><code>:vampire_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧛‍♀️</td>
-          <td><code>:vampire_woman:</code></td>
-          <td align="center">🧜</td>
-          <td><code>:merperson:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧜‍♂️</td>
-          <td><code>:merman:</code></td>
-          <td align="center">🧜‍♀️</td>
-          <td><code>:mermaid:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧝</td>
-          <td><code>:elf:</code></td>
-          <td align="center">🧝‍♂️</td>
-          <td><code>:elf_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧝‍♀️</td>
-          <td><code>:elf_woman:</code></td>
-          <td align="center">🧞</td>
-          <td><code>:genie:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧞‍♂️</td>
-          <td><code>:genie_man:</code></td>
-          <td align="center">🧞‍♀️</td>
-          <td><code>:genie_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧟</td>
-          <td><code>:zombie:</code></td>
-          <td align="center">🧟‍♂️</td>
-          <td><code>:zombie_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧟‍♀️</td>
-          <td><code>:zombie_woman:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Activity</h4><a id="person-activity"
-      class="anchor" aria-label="Permalink: Person Activity" href="#person-activity"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💆</td>
-          <td><code>:massage:</code></td>
-          <td align="center">💆‍♂️</td>
-          <td><code>:massage_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💆‍♀️</td>
-          <td><code>:massage_woman:</code></td>
-          <td align="center">💇</td>
-          <td><code>:haircut:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💇‍♂️</td>
-          <td><code>:haircut_man:</code></td>
-          <td align="center">💇‍♀️</td>
-          <td><code>:haircut_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚶</td>
-          <td><code>:walking:</code></td>
-          <td align="center">🚶‍♂️</td>
-          <td><code>:walking_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚶‍♀️</td>
-          <td><code>:walking_woman:</code></td>
-          <td align="center">🧍</td>
-          <td><code>:standing_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧍‍♂️</td>
-          <td><code>:standing_man:</code></td>
-          <td align="center">🧍‍♀️</td>
-          <td><code>:standing_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧎</td>
-          <td><code>:kneeling_person:</code></td>
-          <td align="center">🧎‍♂️</td>
-          <td><code>:kneeling_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧎‍♀️</td>
-          <td><code>:kneeling_woman:</code></td>
-          <td align="center">🧑‍🦯</td>
-          <td><code>:person_with_probing_cane:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🦯</td>
-          <td><code>:man_with_probing_cane:</code></td>
-          <td align="center">👩‍🦯</td>
-          <td><code>:woman_with_probing_cane:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🦼</td>
-          <td><code>:person_in_motorized_wheelchair:</code></td>
-          <td align="center">👨‍🦼</td>
-          <td><code>:man_in_motorized_wheelchair:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍🦼</td>
-          <td><code>:woman_in_motorized_wheelchair:</code></td>
-          <td align="center">🧑‍🦽</td>
-          <td><code>:person_in_manual_wheelchair:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍🦽</td>
-          <td><code>:man_in_manual_wheelchair:</code></td>
-          <td align="center">👩‍🦽</td>
-          <td><code>:woman_in_manual_wheelchair:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏃</td>
-          <td><code>:runner:</code> <br> <code>:running:</code></td>
-          <td align="center">🏃‍♂️</td>
-          <td><code>:running_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏃‍♀️</td>
-          <td><code>:running_woman:</code></td>
-          <td align="center">💃</td>
-          <td><code>:dancer:</code> <br> <code>:woman_dancing:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🕺</td>
-          <td><code>:man_dancing:</code></td>
-          <td align="center">🕴️</td>
-          <td><code>:business_suit_levitating:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👯</td>
-          <td><code>:dancers:</code></td>
-          <td align="center">👯‍♂️</td>
-          <td><code>:dancing_men:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👯‍♀️</td>
-          <td><code>:dancing_women:</code></td>
-          <td align="center">🧖</td>
-          <td><code>:sauna_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧖‍♂️</td>
-          <td><code>:sauna_man:</code></td>
-          <td align="center">🧖‍♀️</td>
-          <td><code>:sauna_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧗</td>
-          <td><code>:climbing:</code></td>
-          <td align="center">🧗‍♂️</td>
-          <td><code>:climbing_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧗‍♀️</td>
-          <td><code>:climbing_woman:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Sport</h4><a id="person-sport"
-      class="anchor" aria-label="Permalink: Person Sport" href="#person-sport"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤺</td>
-          <td><code>:person_fencing:</code></td>
-          <td align="center">🏇</td>
-          <td><code>:horse_racing:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">⛷️</td>
-          <td><code>:skier:</code></td>
-          <td align="center">🏂</td>
-          <td><code>:snowboarder:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏌️</td>
-          <td><code>:golfing:</code></td>
-          <td align="center">🏌️‍♂️</td>
-          <td><code>:golfing_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏌️‍♀️</td>
-          <td><code>:golfing_woman:</code></td>
-          <td align="center">🏄</td>
-          <td><code>:surfer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏄‍♂️</td>
-          <td><code>:surfing_man:</code></td>
-          <td align="center">🏄‍♀️</td>
-          <td><code>:surfing_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚣</td>
-          <td><code>:rowboat:</code></td>
-          <td align="center">🚣‍♂️</td>
-          <td><code>:rowing_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚣‍♀️</td>
-          <td><code>:rowing_woman:</code></td>
-          <td align="center">🏊</td>
-          <td><code>:swimmer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏊‍♂️</td>
-          <td><code>:swimming_man:</code></td>
-          <td align="center">🏊‍♀️</td>
-          <td><code>:swimming_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">⛹️</td>
-          <td><code>:bouncing_ball_person:</code></td>
-          <td align="center">⛹️‍♂️</td>
-          <td><code>:basketball_man:</code> <br> <code>:bouncing_ball_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">⛹️‍♀️</td>
-          <td><code>:basketball_woman:</code> <br> <code>:bouncing_ball_woman:</code></td>
-          <td align="center">🏋️</td>
-          <td><code>:weight_lifting:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🏋️‍♂️</td>
-          <td><code>:weight_lifting_man:</code></td>
-          <td align="center">🏋️‍♀️</td>
-          <td><code>:weight_lifting_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚴</td>
-          <td><code>:bicyclist:</code></td>
-          <td align="center">🚴‍♂️</td>
-          <td><code>:biking_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚴‍♀️</td>
-          <td><code>:biking_woman:</code></td>
-          <td align="center">🚵</td>
-          <td><code>:mountain_bicyclist:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🚵‍♂️</td>
-          <td><code>:mountain_biking_man:</code></td>
-          <td align="center">🚵‍♀️</td>
-          <td><code>:mountain_biking_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤸</td>
-          <td><code>:cartwheeling:</code></td>
-          <td align="center">🤸‍♂️</td>
-          <td><code>:man_cartwheeling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤸‍♀️</td>
-          <td><code>:woman_cartwheeling:</code></td>
-          <td align="center">🤼</td>
-          <td><code>:wrestling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤼‍♂️</td>
-          <td><code>:men_wrestling:</code></td>
-          <td align="center">🤼‍♀️</td>
-          <td><code>:women_wrestling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤽</td>
-          <td><code>:water_polo:</code></td>
-          <td align="center">🤽‍♂️</td>
-          <td><code>:man_playing_water_polo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤽‍♀️</td>
-          <td><code>:woman_playing_water_polo:</code></td>
-          <td align="center">🤾</td>
-          <td><code>:handball_person:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤾‍♂️</td>
-          <td><code>:man_playing_handball:</code></td>
-          <td align="center">🤾‍♀️</td>
-          <td><code>:woman_playing_handball:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤹</td>
-          <td><code>:juggling_person:</code></td>
-          <td align="center">🤹‍♂️</td>
-          <td><code>:man_juggling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🤹‍♀️</td>
-          <td><code>:woman_juggling:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Resting</h4><a id="person-resting"
-      class="anchor" aria-label="Permalink: Person Resting" href="#person-resting"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧘</td>
-          <td><code>:lotus_position:</code></td>
-          <td align="center">🧘‍♂️</td>
-          <td><code>:lotus_position_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧘‍♀️</td>
-          <td><code>:lotus_position_woman:</code></td>
-          <td align="center">🛀</td>
-          <td><code>:bath:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🛌</td>
-          <td><code>:sleeping_bed:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Family</h4><a id="family" class="anchor"
-      aria-label="Permalink: Family" href="#family"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🧑‍🤝‍🧑</td>
-          <td><code>:people_holding_hands:</code></td>
-          <td align="center">👭</td>
-          <td><code>:two_women_holding_hands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👫</td>
-          <td><code>:couple:</code></td>
-          <td align="center">👬</td>
-          <td><code>:two_men_holding_hands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💏</td>
-          <td><code>:couplekiss:</code></td>
-          <td align="center">👩‍❤️‍💋‍👨</td>
-          <td><code>:couplekiss_man_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍❤️‍💋‍👨</td>
-          <td><code>:couplekiss_man_man:</code></td>
-          <td align="center">👩‍❤️‍💋‍👩</td>
-          <td><code>:couplekiss_woman_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">💑</td>
-          <td><code>:couple_with_heart:</code></td>
-          <td align="center">👩‍❤️‍👨</td>
-          <td><code>:couple_with_heart_woman_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍❤️‍👨</td>
-          <td><code>:couple_with_heart_man_man:</code></td>
-          <td align="center">👩‍❤️‍👩</td>
-          <td><code>:couple_with_heart_woman_woman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👩‍👦</td>
-          <td><code>:family_man_woman_boy:</code></td>
-          <td align="center">👨‍👩‍👧</td>
-          <td><code>:family_man_woman_girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👩‍👧‍👦</td>
-          <td><code>:family_man_woman_girl_boy:</code></td>
-          <td align="center">👨‍👩‍👦‍👦</td>
-          <td><code>:family_man_woman_boy_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👩‍👧‍👧</td>
-          <td><code>:family_man_woman_girl_girl:</code></td>
-          <td align="center">👨‍👨‍👦</td>
-          <td><code>:family_man_man_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👨‍👧</td>
-          <td><code>:family_man_man_girl:</code></td>
-          <td align="center">👨‍👨‍👧‍👦</td>
-          <td><code>:family_man_man_girl_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👨‍👦‍👦</td>
-          <td><code>:family_man_man_boy_boy:</code></td>
-          <td align="center">👨‍👨‍👧‍👧</td>
-          <td><code>:family_man_man_girl_girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👩‍👦</td>
-          <td><code>:family_woman_woman_boy:</code></td>
-          <td align="center">👩‍👩‍👧</td>
-          <td><code>:family_woman_woman_girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👩‍👧‍👦</td>
-          <td><code>:family_woman_woman_girl_boy:</code></td>
-          <td align="center">👩‍👩‍👦‍👦</td>
-          <td><code>:family_woman_woman_boy_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👩‍👧‍👧</td>
-          <td><code>:family_woman_woman_girl_girl:</code></td>
-          <td align="center">👨‍👦</td>
-          <td><code>:family_man_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👦‍👦</td>
-          <td><code>:family_man_boy_boy:</code></td>
-          <td align="center">👨‍👧</td>
-          <td><code>:family_man_girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👨‍👧‍👦</td>
-          <td><code>:family_man_girl_boy:</code></td>
-          <td align="center">👨‍👧‍👧</td>
-          <td><code>:family_man_girl_girl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👦</td>
-          <td><code>:family_woman_boy:</code></td>
-          <td align="center">👩‍👦‍👦</td>
-          <td><code>:family_woman_boy_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👧</td>
-          <td><code>:family_woman_girl:</code></td>
-          <td align="center">👩‍👧‍👦</td>
-          <td><code>:family_woman_girl_boy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👩‍👧‍👧</td>
-          <td><code>:family_woman_girl_girl:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Person Symbol</h4><a id="person-symbol"
-      class="anchor" aria-label="Permalink: Person Symbol" href="#person-symbol"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">🗣️</td>
-          <td><code>:speaking_head:</code></td>
-          <td align="center">👤</td>
-          <td><code>:bust_in_silhouette:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👥</td>
-          <td><code>:busts_in_silhouette:</code></td>
-          <td align="center">🫂</td>
-          <td><code>:people_hugging:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#people--body">top</a></td>
-          <td align="center">👪</td>
-          <td><code>:family:</code></td>
-          <td align="center">👣</td>
-          <td><code>:footprints:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Animals &amp; Nature</h3><a id="animals--nature"
-      class="anchor" aria-label="Permalink: Animals &amp; Nature" href="#animals--nature"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#animal-mammal">Animal Mammal</a></li>
-    <li><a href="#animal-bird">Animal Bird</a></li>
-    <li><a href="#animal-amphibian">Animal Amphibian</a></li>
-    <li><a href="#animal-reptile">Animal Reptile</a></li>
-    <li><a href="#animal-marine">Animal Marine</a></li>
-    <li><a href="#animal-bug">Animal Bug</a></li>
-    <li><a href="#plant-flower">Plant Flower</a></li>
-    <li><a href="#plant-other">Plant Other</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Mammal</h4><a id="animal-mammal"
-      class="anchor" aria-label="Permalink: Animal Mammal" href="#animal-mammal"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐵</td>
-          <td><code>:monkey_face:</code></td>
-          <td align="center">🐒</td>
-          <td><code>:monkey:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦍</td>
-          <td><code>:gorilla:</code></td>
-          <td align="center">🦧</td>
-          <td><code>:orangutan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐶</td>
-          <td><code>:dog:</code></td>
-          <td align="center">🐕</td>
-          <td><code>:dog2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦮</td>
-          <td><code>:guide_dog:</code></td>
-          <td align="center">🐕‍🦺</td>
-          <td><code>:service_dog:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐩</td>
-          <td><code>:poodle:</code></td>
-          <td align="center">🐺</td>
-          <td><code>:wolf:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦊</td>
-          <td><code>:fox_face:</code></td>
-          <td align="center">🦝</td>
-          <td><code>:raccoon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐱</td>
-          <td><code>:cat:</code></td>
-          <td align="center">🐈</td>
-          <td><code>:cat2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐈‍⬛</td>
-          <td><code>:black_cat:</code></td>
-          <td align="center">🦁</td>
-          <td><code>:lion:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐯</td>
-          <td><code>:tiger:</code></td>
-          <td align="center">🐅</td>
-          <td><code>:tiger2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐆</td>
-          <td><code>:leopard:</code></td>
-          <td align="center">🐴</td>
-          <td><code>:horse:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐎</td>
-          <td><code>:racehorse:</code></td>
-          <td align="center">🦄</td>
-          <td><code>:unicorn:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦓</td>
-          <td><code>:zebra:</code></td>
-          <td align="center">🦌</td>
-          <td><code>:deer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦬</td>
-          <td><code>:bison:</code></td>
-          <td align="center">🐮</td>
-          <td><code>:cow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐂</td>
-          <td><code>:ox:</code></td>
-          <td align="center">🐃</td>
-          <td><code>:water_buffalo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐄</td>
-          <td><code>:cow2:</code></td>
-          <td align="center">🐷</td>
-          <td><code>:pig:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐖</td>
-          <td><code>:pig2:</code></td>
-          <td align="center">🐗</td>
-          <td><code>:boar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐽</td>
-          <td><code>:pig_nose:</code></td>
-          <td align="center">🐏</td>
-          <td><code>:ram:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐑</td>
-          <td><code>:sheep:</code></td>
-          <td align="center">🐐</td>
-          <td><code>:goat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐪</td>
-          <td><code>:dromedary_camel:</code></td>
-          <td align="center">🐫</td>
-          <td><code>:camel:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦙</td>
-          <td><code>:llama:</code></td>
-          <td align="center">🦒</td>
-          <td><code>:giraffe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐘</td>
-          <td><code>:elephant:</code></td>
-          <td align="center">🦣</td>
-          <td><code>:mammoth:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦏</td>
-          <td><code>:rhinoceros:</code></td>
-          <td align="center">🦛</td>
-          <td><code>:hippopotamus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐭</td>
-          <td><code>:mouse:</code></td>
-          <td align="center">🐁</td>
-          <td><code>:mouse2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐀</td>
-          <td><code>:rat:</code></td>
-          <td align="center">🐹</td>
-          <td><code>:hamster:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐰</td>
-          <td><code>:rabbit:</code></td>
-          <td align="center">🐇</td>
-          <td><code>:rabbit2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐿️</td>
-          <td><code>:chipmunk:</code></td>
-          <td align="center">🦫</td>
-          <td><code>:beaver:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦔</td>
-          <td><code>:hedgehog:</code></td>
-          <td align="center">🦇</td>
-          <td><code>:bat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐻</td>
-          <td><code>:bear:</code></td>
-          <td align="center">🐻‍❄️</td>
-          <td><code>:polar_bear:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐨</td>
-          <td><code>:koala:</code></td>
-          <td align="center">🐼</td>
-          <td><code>:panda_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦥</td>
-          <td><code>:sloth:</code></td>
-          <td align="center">🦦</td>
-          <td><code>:otter:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦨</td>
-          <td><code>:skunk:</code></td>
-          <td align="center">🦘</td>
-          <td><code>:kangaroo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦡</td>
-          <td><code>:badger:</code></td>
-          <td align="center">🐾</td>
-          <td><code>:feet:</code> <br> <code>:paw_prints:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Bird</h4><a id="animal-bird" class="anchor"
-      aria-label="Permalink: Animal Bird" href="#animal-bird"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦃</td>
-          <td><code>:turkey:</code></td>
-          <td align="center">🐔</td>
-          <td><code>:chicken:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐓</td>
-          <td><code>:rooster:</code></td>
-          <td align="center">🐣</td>
-          <td><code>:hatching_chick:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐤</td>
-          <td><code>:baby_chick:</code></td>
-          <td align="center">🐥</td>
-          <td><code>:hatched_chick:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐦</td>
-          <td><code>:bird:</code></td>
-          <td align="center">🐧</td>
-          <td><code>:penguin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🕊️</td>
-          <td><code>:dove:</code></td>
-          <td align="center">🦅</td>
-          <td><code>:eagle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦆</td>
-          <td><code>:duck:</code></td>
-          <td align="center">🦢</td>
-          <td><code>:swan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦉</td>
-          <td><code>:owl:</code></td>
-          <td align="center">🦤</td>
-          <td><code>:dodo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🪶</td>
-          <td><code>:feather:</code></td>
-          <td align="center">🦩</td>
-          <td><code>:flamingo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦚</td>
-          <td><code>:peacock:</code></td>
-          <td align="center">🦜</td>
-          <td><code>:parrot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Amphibian</h4><a id="animal-amphibian"
-      class="anchor" aria-label="Permalink: Animal Amphibian" href="#animal-amphibian"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐸</td>
-          <td><code>:frog:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Reptile</h4><a id="animal-reptile"
-      class="anchor" aria-label="Permalink: Animal Reptile" href="#animal-reptile"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐊</td>
-          <td><code>:crocodile:</code></td>
-          <td align="center">🐢</td>
-          <td><code>:turtle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦎</td>
-          <td><code>:lizard:</code></td>
-          <td align="center">🐍</td>
-          <td><code>:snake:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐲</td>
-          <td><code>:dragon_face:</code></td>
-          <td align="center">🐉</td>
-          <td><code>:dragon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦕</td>
-          <td><code>:sauropod:</code></td>
-          <td align="center">🦖</td>
-          <td><code>:t-rex:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Marine</h4><a id="animal-marine"
-      class="anchor" aria-label="Permalink: Animal Marine" href="#animal-marine"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐳</td>
-          <td><code>:whale:</code></td>
-          <td align="center">🐋</td>
-          <td><code>:whale2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐬</td>
-          <td><code>:dolphin:</code> <br> <code>:flipper:</code></td>
-          <td align="center">🦭</td>
-          <td><code>:seal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐟</td>
-          <td><code>:fish:</code></td>
-          <td align="center">🐠</td>
-          <td><code>:tropical_fish:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐡</td>
-          <td><code>:blowfish:</code></td>
-          <td align="center">🦈</td>
-          <td><code>:shark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐙</td>
-          <td><code>:octopus:</code></td>
-          <td align="center">🐚</td>
-          <td><code>:shell:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Animal Bug</h4><a id="animal-bug" class="anchor"
-      aria-label="Permalink: Animal Bug" href="#animal-bug"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐌</td>
-          <td><code>:snail:</code></td>
-          <td align="center">🦋</td>
-          <td><code>:butterfly:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐛</td>
-          <td><code>:bug:</code></td>
-          <td align="center">🐜</td>
-          <td><code>:ant:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐝</td>
-          <td><code>:bee:</code> <br> <code>:honeybee:</code></td>
-          <td align="center">🪲</td>
-          <td><code>:beetle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🐞</td>
-          <td><code>:lady_beetle:</code></td>
-          <td align="center">🦗</td>
-          <td><code>:cricket:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🪳</td>
-          <td><code>:cockroach:</code></td>
-          <td align="center">🕷️</td>
-          <td><code>:spider:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🕸️</td>
-          <td><code>:spider_web:</code></td>
-          <td align="center">🦂</td>
-          <td><code>:scorpion:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🦟</td>
-          <td><code>:mosquito:</code></td>
-          <td align="center">🪰</td>
-          <td><code>:fly:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🪱</td>
-          <td><code>:worm:</code></td>
-          <td align="center">🦠</td>
-          <td><code>:microbe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Plant Flower</h4><a id="plant-flower"
-      class="anchor" aria-label="Permalink: Plant Flower" href="#plant-flower"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">💐</td>
-          <td><code>:bouquet:</code></td>
-          <td align="center">🌸</td>
-          <td><code>:cherry_blossom:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">💮</td>
-          <td><code>:white_flower:</code></td>
-          <td align="center">🏵️</td>
-          <td><code>:rosette:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌹</td>
-          <td><code>:rose:</code></td>
-          <td align="center">🥀</td>
-          <td><code>:wilted_flower:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌺</td>
-          <td><code>:hibiscus:</code></td>
-          <td align="center">🌻</td>
-          <td><code>:sunflower:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌼</td>
-          <td><code>:blossom:</code></td>
-          <td align="center">🌷</td>
-          <td><code>:tulip:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Plant Other</h4><a id="plant-other" class="anchor"
-      aria-label="Permalink: Plant Other" href="#plant-other"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌱</td>
-          <td><code>:seedling:</code></td>
-          <td align="center">🪴</td>
-          <td><code>:potted_plant:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌲</td>
-          <td><code>:evergreen_tree:</code></td>
-          <td align="center">🌳</td>
-          <td><code>:deciduous_tree:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌴</td>
-          <td><code>:palm_tree:</code></td>
-          <td align="center">🌵</td>
-          <td><code>:cactus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🌾</td>
-          <td><code>:ear_of_rice:</code></td>
-          <td align="center">🌿</td>
-          <td><code>:herb:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">☘️</td>
-          <td><code>:shamrock:</code></td>
-          <td align="center">🍀</td>
-          <td><code>:four_leaf_clover:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🍁</td>
-          <td><code>:maple_leaf:</code></td>
-          <td align="center">🍂</td>
-          <td><code>:fallen_leaf:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#animals--nature">top</a></td>
-          <td align="center">🍃</td>
-          <td><code>:leaves:</code></td>
-          <td align="center">🍄</td>
-          <td><code>:mushroom:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Food &amp; Drink</h3><a id="food--drink"
-      class="anchor" aria-label="Permalink: Food &amp; Drink" href="#food--drink"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#food-fruit">Food Fruit</a></li>
-    <li><a href="#food-vegetable">Food Vegetable</a></li>
-    <li><a href="#food-prepared">Food Prepared</a></li>
-    <li><a href="#food-asian">Food Asian</a></li>
-    <li><a href="#food-marine">Food Marine</a></li>
-    <li><a href="#food-sweet">Food Sweet</a></li>
-    <li><a href="#drink">Drink</a></li>
-    <li><a href="#dishware">Dishware</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Fruit</h4><a id="food-fruit" class="anchor"
-      aria-label="Permalink: Food Fruit" href="#food-fruit"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍇</td>
-          <td><code>:grapes:</code></td>
-          <td align="center">🍈</td>
-          <td><code>:melon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍉</td>
-          <td><code>:watermelon:</code></td>
-          <td align="center">🍊</td>
-          <td><code>:mandarin:</code> <br> <code>:orange:</code> <br> <code>:tangerine:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍋</td>
-          <td><code>:lemon:</code></td>
-          <td align="center">🍌</td>
-          <td><code>:banana:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍍</td>
-          <td><code>:pineapple:</code></td>
-          <td align="center">🥭</td>
-          <td><code>:mango:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍎</td>
-          <td><code>:apple:</code></td>
-          <td align="center">🍏</td>
-          <td><code>:green_apple:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍐</td>
-          <td><code>:pear:</code></td>
-          <td align="center">🍑</td>
-          <td><code>:peach:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍒</td>
-          <td><code>:cherries:</code></td>
-          <td align="center">🍓</td>
-          <td><code>:strawberry:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🫐</td>
-          <td><code>:blueberries:</code></td>
-          <td align="center">🥝</td>
-          <td><code>:kiwi_fruit:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍅</td>
-          <td><code>:tomato:</code></td>
-          <td align="center">🫒</td>
-          <td><code>:olive:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥥</td>
-          <td><code>:coconut:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Vegetable</h4><a id="food-vegetable"
-      class="anchor" aria-label="Permalink: Food Vegetable" href="#food-vegetable"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥑</td>
-          <td><code>:avocado:</code></td>
-          <td align="center">🍆</td>
-          <td><code>:eggplant:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥔</td>
-          <td><code>:potato:</code></td>
-          <td align="center">🥕</td>
-          <td><code>:carrot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🌽</td>
-          <td><code>:corn:</code></td>
-          <td align="center">🌶️</td>
-          <td><code>:hot_pepper:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🫑</td>
-          <td><code>:bell_pepper:</code></td>
-          <td align="center">🥒</td>
-          <td><code>:cucumber:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥬</td>
-          <td><code>:leafy_green:</code></td>
-          <td align="center">🥦</td>
-          <td><code>:broccoli:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧄</td>
-          <td><code>:garlic:</code></td>
-          <td align="center">🧅</td>
-          <td><code>:onion:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥜</td>
-          <td><code>:peanuts:</code></td>
-          <td align="center">🌰</td>
-          <td><code>:chestnut:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Prepared</h4><a id="food-prepared"
-      class="anchor" aria-label="Permalink: Food Prepared" href="#food-prepared"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍞</td>
-          <td><code>:bread:</code></td>
-          <td align="center">🥐</td>
-          <td><code>:croissant:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥖</td>
-          <td><code>:baguette_bread:</code></td>
-          <td align="center">🫓</td>
-          <td><code>:flatbread:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥨</td>
-          <td><code>:pretzel:</code></td>
-          <td align="center">🥯</td>
-          <td><code>:bagel:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥞</td>
-          <td><code>:pancakes:</code></td>
-          <td align="center">🧇</td>
-          <td><code>:waffle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧀</td>
-          <td><code>:cheese:</code></td>
-          <td align="center">🍖</td>
-          <td><code>:meat_on_bone:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍗</td>
-          <td><code>:poultry_leg:</code></td>
-          <td align="center">🥩</td>
-          <td><code>:cut_of_meat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥓</td>
-          <td><code>:bacon:</code></td>
-          <td align="center">🍔</td>
-          <td><code>:hamburger:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍟</td>
-          <td><code>:fries:</code></td>
-          <td align="center">🍕</td>
-          <td><code>:pizza:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🌭</td>
-          <td><code>:hotdog:</code></td>
-          <td align="center">🥪</td>
-          <td><code>:sandwich:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🌮</td>
-          <td><code>:taco:</code></td>
-          <td align="center">🌯</td>
-          <td><code>:burrito:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🫔</td>
-          <td><code>:tamale:</code></td>
-          <td align="center">🥙</td>
-          <td><code>:stuffed_flatbread:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧆</td>
-          <td><code>:falafel:</code></td>
-          <td align="center">🥚</td>
-          <td><code>:egg:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍳</td>
-          <td><code>:fried_egg:</code></td>
-          <td align="center">🥘</td>
-          <td><code>:shallow_pan_of_food:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍲</td>
-          <td><code>:stew:</code></td>
-          <td align="center">🫕</td>
-          <td><code>:fondue:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥣</td>
-          <td><code>:bowl_with_spoon:</code></td>
-          <td align="center">🥗</td>
-          <td><code>:green_salad:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍿</td>
-          <td><code>:popcorn:</code></td>
-          <td align="center">🧈</td>
-          <td><code>:butter:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧂</td>
-          <td><code>:salt:</code></td>
-          <td align="center">🥫</td>
-          <td><code>:canned_food:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Asian</h4><a id="food-asian" class="anchor"
-      aria-label="Permalink: Food Asian" href="#food-asian"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍱</td>
-          <td><code>:bento:</code></td>
-          <td align="center">🍘</td>
-          <td><code>:rice_cracker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍙</td>
-          <td><code>:rice_ball:</code></td>
-          <td align="center">🍚</td>
-          <td><code>:rice:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍛</td>
-          <td><code>:curry:</code></td>
-          <td align="center">🍜</td>
-          <td><code>:ramen:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍝</td>
-          <td><code>:spaghetti:</code></td>
-          <td align="center">🍠</td>
-          <td><code>:sweet_potato:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍢</td>
-          <td><code>:oden:</code></td>
-          <td align="center">🍣</td>
-          <td><code>:sushi:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍤</td>
-          <td><code>:fried_shrimp:</code></td>
-          <td align="center">🍥</td>
-          <td><code>:fish_cake:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥮</td>
-          <td><code>:moon_cake:</code></td>
-          <td align="center">🍡</td>
-          <td><code>:dango:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥟</td>
-          <td><code>:dumpling:</code></td>
-          <td align="center">🥠</td>
-          <td><code>:fortune_cookie:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥡</td>
-          <td><code>:takeout_box:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Marine</h4><a id="food-marine" class="anchor"
-      aria-label="Permalink: Food Marine" href="#food-marine"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🦀</td>
-          <td><code>:crab:</code></td>
-          <td align="center">🦞</td>
-          <td><code>:lobster:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🦐</td>
-          <td><code>:shrimp:</code></td>
-          <td align="center">🦑</td>
-          <td><code>:squid:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🦪</td>
-          <td><code>:oyster:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Food Sweet</h4><a id="food-sweet" class="anchor"
-      aria-label="Permalink: Food Sweet" href="#food-sweet"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍦</td>
-          <td><code>:icecream:</code></td>
-          <td align="center">🍧</td>
-          <td><code>:shaved_ice:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍨</td>
-          <td><code>:ice_cream:</code></td>
-          <td align="center">🍩</td>
-          <td><code>:doughnut:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍪</td>
-          <td><code>:cookie:</code></td>
-          <td align="center">🎂</td>
-          <td><code>:birthday:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍰</td>
-          <td><code>:cake:</code></td>
-          <td align="center">🧁</td>
-          <td><code>:cupcake:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥧</td>
-          <td><code>:pie:</code></td>
-          <td align="center">🍫</td>
-          <td><code>:chocolate_bar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍬</td>
-          <td><code>:candy:</code></td>
-          <td align="center">🍭</td>
-          <td><code>:lollipop:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍮</td>
-          <td><code>:custard:</code></td>
-          <td align="center">🍯</td>
-          <td><code>:honey_pot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Drink</h4><a id="drink" class="anchor"
-      aria-label="Permalink: Drink" href="#drink"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍼</td>
-          <td><code>:baby_bottle:</code></td>
-          <td align="center">🥛</td>
-          <td><code>:milk_glass:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">☕</td>
-          <td><code>:coffee:</code></td>
-          <td align="center">🫖</td>
-          <td><code>:teapot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍵</td>
-          <td><code>:tea:</code></td>
-          <td align="center">🍶</td>
-          <td><code>:sake:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍾</td>
-          <td><code>:champagne:</code></td>
-          <td align="center">🍷</td>
-          <td><code>:wine_glass:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍸</td>
-          <td><code>:cocktail:</code></td>
-          <td align="center">🍹</td>
-          <td><code>:tropical_drink:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍺</td>
-          <td><code>:beer:</code></td>
-          <td align="center">🍻</td>
-          <td><code>:beers:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥂</td>
-          <td><code>:clinking_glasses:</code></td>
-          <td align="center">🥃</td>
-          <td><code>:tumbler_glass:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥤</td>
-          <td><code>:cup_with_straw:</code></td>
-          <td align="center">🧋</td>
-          <td><code>:bubble_tea:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧃</td>
-          <td><code>:beverage_box:</code></td>
-          <td align="center">🧉</td>
-          <td><code>:mate:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🧊</td>
-          <td><code>:ice_cube:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Dishware</h4><a id="dishware" class="anchor"
-      aria-label="Permalink: Dishware" href="#dishware"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🥢</td>
-          <td><code>:chopsticks:</code></td>
-          <td align="center">🍽️</td>
-          <td><code>:plate_with_cutlery:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🍴</td>
-          <td><code>:fork_and_knife:</code></td>
-          <td align="center">🥄</td>
-          <td><code>:spoon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#food--drink">top</a></td>
-          <td align="center">🔪</td>
-          <td><code>:hocho:</code> <br> <code>:knife:</code></td>
-          <td align="center">🏺</td>
-          <td><code>:amphora:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Travel &amp; Places</h3><a id="travel--places"
-      class="anchor" aria-label="Permalink: Travel &amp; Places" href="#travel--places"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#place-map">Place Map</a></li>
-    <li><a href="#place-geographic">Place Geographic</a></li>
-    <li><a href="#place-building">Place Building</a></li>
-    <li><a href="#place-religious">Place Religious</a></li>
-    <li><a href="#place-other">Place Other</a></li>
-    <li><a href="#transport-ground">Transport Ground</a></li>
-    <li><a href="#transport-water">Transport Water</a></li>
-    <li><a href="#transport-air">Transport Air</a></li>
-    <li><a href="#hotel">Hotel</a></li>
-    <li><a href="#time">Time</a></li>
-    <li><a href="#sky--weather">Sky &amp; Weather</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Place Map</h4><a id="place-map" class="anchor"
-      aria-label="Permalink: Place Map" href="#place-map"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌍</td>
-          <td><code>:earth_africa:</code></td>
-          <td align="center">🌎</td>
-          <td><code>:earth_americas:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌏</td>
-          <td><code>:earth_asia:</code></td>
-          <td align="center">🌐</td>
-          <td><code>:globe_with_meridians:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🗺️</td>
-          <td><code>:world_map:</code></td>
-          <td align="center">🗾</td>
-          <td><code>:japan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🧭</td>
-          <td><code>:compass:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Place Geographic</h4><a id="place-geographic"
-      class="anchor" aria-label="Permalink: Place Geographic" href="#place-geographic"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏔️</td>
-          <td><code>:mountain_snow:</code></td>
-          <td align="center">⛰️</td>
-          <td><code>:mountain:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌋</td>
-          <td><code>:volcano:</code></td>
-          <td align="center">🗻</td>
-          <td><code>:mount_fuji:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏕️</td>
-          <td><code>:camping:</code></td>
-          <td align="center">🏖️</td>
-          <td><code>:beach_umbrella:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏜️</td>
-          <td><code>:desert:</code></td>
-          <td align="center">🏝️</td>
-          <td><code>:desert_island:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏞️</td>
-          <td><code>:national_park:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Place Building</h4><a id="place-building"
-      class="anchor" aria-label="Permalink: Place Building" href="#place-building"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏟️</td>
-          <td><code>:stadium:</code></td>
-          <td align="center">🏛️</td>
-          <td><code>:classical_building:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏗️</td>
-          <td><code>:building_construction:</code></td>
-          <td align="center">🧱</td>
-          <td><code>:bricks:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🪨</td>
-          <td><code>:rock:</code></td>
-          <td align="center">🪵</td>
-          <td><code>:wood:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛖</td>
-          <td><code>:hut:</code></td>
-          <td align="center">🏘️</td>
-          <td><code>:houses:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏚️</td>
-          <td><code>:derelict_house:</code></td>
-          <td align="center">🏠</td>
-          <td><code>:house:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏡</td>
-          <td><code>:house_with_garden:</code></td>
-          <td align="center">🏢</td>
-          <td><code>:office:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏣</td>
-          <td><code>:post_office:</code></td>
-          <td align="center">🏤</td>
-          <td><code>:european_post_office:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏥</td>
-          <td><code>:hospital:</code></td>
-          <td align="center">🏦</td>
-          <td><code>:bank:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏨</td>
-          <td><code>:hotel:</code></td>
-          <td align="center">🏩</td>
-          <td><code>:love_hotel:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏪</td>
-          <td><code>:convenience_store:</code></td>
-          <td align="center">🏫</td>
-          <td><code>:school:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏬</td>
-          <td><code>:department_store:</code></td>
-          <td align="center">🏭</td>
-          <td><code>:factory:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏯</td>
-          <td><code>:japanese_castle:</code></td>
-          <td align="center">🏰</td>
-          <td><code>:european_castle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">💒</td>
-          <td><code>:wedding:</code></td>
-          <td align="center">🗼</td>
-          <td><code>:tokyo_tower:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🗽</td>
-          <td><code>:statue_of_liberty:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Place Religious</h4><a id="place-religious"
-      class="anchor" aria-label="Permalink: Place Religious" href="#place-religious"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛪</td>
-          <td><code>:church:</code></td>
-          <td align="center">🕌</td>
-          <td><code>:mosque:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛕</td>
-          <td><code>:hindu_temple:</code></td>
-          <td align="center">🕍</td>
-          <td><code>:synagogue:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛩️</td>
-          <td><code>:shinto_shrine:</code></td>
-          <td align="center">🕋</td>
-          <td><code>:kaaba:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Place Other</h4><a id="place-other" class="anchor"
-      aria-label="Permalink: Place Other" href="#place-other"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛲</td>
-          <td><code>:fountain:</code></td>
-          <td align="center">⛺</td>
-          <td><code>:tent:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌁</td>
-          <td><code>:foggy:</code></td>
-          <td align="center">🌃</td>
-          <td><code>:night_with_stars:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏙️</td>
-          <td><code>:cityscape:</code></td>
-          <td align="center">🌄</td>
-          <td><code>:sunrise_over_mountains:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌅</td>
-          <td><code>:sunrise:</code></td>
-          <td align="center">🌆</td>
-          <td><code>:city_sunset:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌇</td>
-          <td><code>:city_sunrise:</code></td>
-          <td align="center">🌉</td>
-          <td><code>:bridge_at_night:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">♨️</td>
-          <td><code>:hotsprings:</code></td>
-          <td align="center">🎠</td>
-          <td><code>:carousel_horse:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🎡</td>
-          <td><code>:ferris_wheel:</code></td>
-          <td align="center">🎢</td>
-          <td><code>:roller_coaster:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">💈</td>
-          <td><code>:barber:</code></td>
-          <td align="center">🎪</td>
-          <td><code>:circus_tent:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Transport Ground</h4><a id="transport-ground"
-      class="anchor" aria-label="Permalink: Transport Ground" href="#transport-ground"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚂</td>
-          <td><code>:steam_locomotive:</code></td>
-          <td align="center">🚃</td>
-          <td><code>:railway_car:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚄</td>
-          <td><code>:bullettrain_side:</code></td>
-          <td align="center">🚅</td>
-          <td><code>:bullettrain_front:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚆</td>
-          <td><code>:train2:</code></td>
-          <td align="center">🚇</td>
-          <td><code>:metro:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚈</td>
-          <td><code>:light_rail:</code></td>
-          <td align="center">🚉</td>
-          <td><code>:station:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚊</td>
-          <td><code>:tram:</code></td>
-          <td align="center">🚝</td>
-          <td><code>:monorail:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚞</td>
-          <td><code>:mountain_railway:</code></td>
-          <td align="center">🚋</td>
-          <td><code>:train:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚌</td>
-          <td><code>:bus:</code></td>
-          <td align="center">🚍</td>
-          <td><code>:oncoming_bus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚎</td>
-          <td><code>:trolleybus:</code></td>
-          <td align="center">🚐</td>
-          <td><code>:minibus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚑</td>
-          <td><code>:ambulance:</code></td>
-          <td align="center">🚒</td>
-          <td><code>:fire_engine:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚓</td>
-          <td><code>:police_car:</code></td>
-          <td align="center">🚔</td>
-          <td><code>:oncoming_police_car:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚕</td>
-          <td><code>:taxi:</code></td>
-          <td align="center">🚖</td>
-          <td><code>:oncoming_taxi:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚗</td>
-          <td><code>:car:</code> <br> <code>:red_car:</code></td>
-          <td align="center">🚘</td>
-          <td><code>:oncoming_automobile:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚙</td>
-          <td><code>:blue_car:</code></td>
-          <td align="center">🛻</td>
-          <td><code>:pickup_truck:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚚</td>
-          <td><code>:truck:</code></td>
-          <td align="center">🚛</td>
-          <td><code>:articulated_lorry:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚜</td>
-          <td><code>:tractor:</code></td>
-          <td align="center">🏎️</td>
-          <td><code>:racing_car:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🏍️</td>
-          <td><code>:motorcycle:</code></td>
-          <td align="center">🛵</td>
-          <td><code>:motor_scooter:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🦽</td>
-          <td><code>:manual_wheelchair:</code></td>
-          <td align="center">🦼</td>
-          <td><code>:motorized_wheelchair:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛺</td>
-          <td><code>:auto_rickshaw:</code></td>
-          <td align="center">🚲</td>
-          <td><code>:bike:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛴</td>
-          <td><code>:kick_scooter:</code></td>
-          <td align="center">🛹</td>
-          <td><code>:skateboard:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛼</td>
-          <td><code>:roller_skate:</code></td>
-          <td align="center">🚏</td>
-          <td><code>:busstop:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛣️</td>
-          <td><code>:motorway:</code></td>
-          <td align="center">🛤️</td>
-          <td><code>:railway_track:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛢️</td>
-          <td><code>:oil_drum:</code></td>
-          <td align="center">⛽</td>
-          <td><code>:fuelpump:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚨</td>
-          <td><code>:rotating_light:</code></td>
-          <td align="center">🚥</td>
-          <td><code>:traffic_light:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚦</td>
-          <td><code>:vertical_traffic_light:</code></td>
-          <td align="center">🛑</td>
-          <td><code>:stop_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚧</td>
-          <td><code>:construction:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Transport Water</h4><a id="transport-water"
-      class="anchor" aria-label="Permalink: Transport Water" href="#transport-water"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⚓</td>
-          <td><code>:anchor:</code></td>
-          <td align="center">⛵</td>
-          <td><code>:boat:</code> <br> <code>:sailboat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛶</td>
-          <td><code>:canoe:</code></td>
-          <td align="center">🚤</td>
-          <td><code>:speedboat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛳️</td>
-          <td><code>:passenger_ship:</code></td>
-          <td align="center">⛴️</td>
-          <td><code>:ferry:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛥️</td>
-          <td><code>:motor_boat:</code></td>
-          <td align="center">🚢</td>
-          <td><code>:ship:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Transport Air</h4><a id="transport-air"
-      class="anchor" aria-label="Permalink: Transport Air" href="#transport-air"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="airplane">✈️</g-emoji></td>
-          <td><code>:airplane:</code></td>
-          <td align="center">🛩️</td>
-          <td><code>:small_airplane:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛫</td>
-          <td><code>:flight_departure:</code></td>
-          <td align="center">🛬</td>
-          <td><code>:flight_arrival:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🪂</td>
-          <td><code>:parachute:</code></td>
-          <td align="center">💺</td>
-          <td><code>:seat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚁</td>
-          <td><code>:helicopter:</code></td>
-          <td align="center">🚟</td>
-          <td><code>:suspension_railway:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🚠</td>
-          <td><code>:mountain_cableway:</code></td>
-          <td align="center">🚡</td>
-          <td><code>:aerial_tramway:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛰️</td>
-          <td><code>:artificial_satellite:</code></td>
-          <td align="center">🚀</td>
-          <td><code>:rocket:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛸</td>
-          <td><code>:flying_saucer:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Hotel</h4><a id="hotel" class="anchor"
-      aria-label="Permalink: Hotel" href="#hotel"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🛎️</td>
-          <td><code>:bellhop_bell:</code></td>
-          <td align="center">🧳</td>
-          <td><code>:luggage:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Time</h4><a id="time" class="anchor"
-      aria-label="Permalink: Time" href="#time"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⌛</td>
-          <td><code>:hourglass:</code></td>
-          <td align="center">⏳</td>
-          <td><code>:hourglass_flowing_sand:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⌚</td>
-          <td><code>:watch:</code></td>
-          <td align="center">⏰</td>
-          <td><code>:alarm_clock:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⏱️</td>
-          <td><code>:stopwatch:</code></td>
-          <td align="center">⏲️</td>
-          <td><code>:timer_clock:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕰️</td>
-          <td><code>:mantelpiece_clock:</code></td>
-          <td align="center">🕛</td>
-          <td><code>:clock12:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕧</td>
-          <td><code>:clock1230:</code></td>
-          <td align="center">🕐</td>
-          <td><code>:clock1:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕜</td>
-          <td><code>:clock130:</code></td>
-          <td align="center">🕑</td>
-          <td><code>:clock2:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕝</td>
-          <td><code>:clock230:</code></td>
-          <td align="center">🕒</td>
-          <td><code>:clock3:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕞</td>
-          <td><code>:clock330:</code></td>
-          <td align="center">🕓</td>
-          <td><code>:clock4:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕟</td>
-          <td><code>:clock430:</code></td>
-          <td align="center">🕔</td>
-          <td><code>:clock5:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕠</td>
-          <td><code>:clock530:</code></td>
-          <td align="center">🕕</td>
-          <td><code>:clock6:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕡</td>
-          <td><code>:clock630:</code></td>
-          <td align="center">🕖</td>
-          <td><code>:clock7:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕢</td>
-          <td><code>:clock730:</code></td>
-          <td align="center">🕗</td>
-          <td><code>:clock8:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕣</td>
-          <td><code>:clock830:</code></td>
-          <td align="center">🕘</td>
-          <td><code>:clock9:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕤</td>
-          <td><code>:clock930:</code></td>
-          <td align="center">🕙</td>
-          <td><code>:clock10:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕥</td>
-          <td><code>:clock1030:</code></td>
-          <td align="center">🕚</td>
-          <td><code>:clock11:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🕦</td>
-          <td><code>:clock1130:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Sky &amp; Weather</h4><a id="sky--weather"
-      class="anchor" aria-label="Permalink: Sky &amp; Weather" href="#sky--weather"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌑</td>
-          <td><code>:new_moon:</code></td>
-          <td align="center">🌒</td>
-          <td><code>:waxing_crescent_moon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌓</td>
-          <td><code>:first_quarter_moon:</code></td>
-          <td align="center">🌔</td>
-          <td><code>:moon:</code> <br> <code>:waxing_gibbous_moon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌕</td>
-          <td><code>:full_moon:</code></td>
-          <td align="center">🌖</td>
-          <td><code>:waning_gibbous_moon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌗</td>
-          <td><code>:last_quarter_moon:</code></td>
-          <td align="center">🌘</td>
-          <td><code>:waning_crescent_moon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌙</td>
-          <td><code>:crescent_moon:</code></td>
-          <td align="center">🌚</td>
-          <td><code>:new_moon_with_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌛</td>
-          <td><code>:first_quarter_moon_with_face:</code></td>
-          <td align="center">🌜</td>
-          <td><code>:last_quarter_moon_with_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌡️</td>
-          <td><code>:thermometer:</code></td>
-          <td align="center">☀️</td>
-          <td><code>:sunny:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌝</td>
-          <td><code>:full_moon_with_face:</code></td>
-          <td align="center">🌞</td>
-          <td><code>:sun_with_face:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🪐</td>
-          <td><code>:ringed_planet:</code></td>
-          <td align="center">⭐</td>
-          <td><code>:star:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌟</td>
-          <td><code>:star2:</code></td>
-          <td align="center">🌠</td>
-          <td><code>:stars:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌌</td>
-          <td><code>:milky_way:</code></td>
-          <td align="center">☁️</td>
-          <td><code>:cloud:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛅</td>
-          <td><code>:partly_sunny:</code></td>
-          <td align="center">⛈️</td>
-          <td><code>:cloud_with_lightning_and_rain:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌤️</td>
-          <td><code>:sun_behind_small_cloud:</code></td>
-          <td align="center">🌥️</td>
-          <td><code>:sun_behind_large_cloud:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌦️</td>
-          <td><code>:sun_behind_rain_cloud:</code></td>
-          <td align="center">🌧️</td>
-          <td><code>:cloud_with_rain:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌨️</td>
-          <td><code>:cloud_with_snow:</code></td>
-          <td align="center">🌩️</td>
-          <td><code>:cloud_with_lightning:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌪️</td>
-          <td><code>:tornado:</code></td>
-          <td align="center">🌫️</td>
-          <td><code>:fog:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌬️</td>
-          <td><code>:wind_face:</code></td>
-          <td align="center">🌀</td>
-          <td><code>:cyclone:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌈</td>
-          <td><code>:rainbow:</code></td>
-          <td align="center">🌂</td>
-          <td><code>:closed_umbrella:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">☂️</td>
-          <td><code>:open_umbrella:</code></td>
-          <td align="center">☔</td>
-          <td><code>:umbrella:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛱️</td>
-          <td><code>:parasol_on_ground:</code></td>
-          <td align="center">⚡</td>
-          <td><code>:zap:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">❄️</td>
-          <td><code>:snowflake:</code></td>
-          <td align="center">☃️</td>
-          <td><code>:snowman_with_snow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">⛄</td>
-          <td><code>:snowman:</code></td>
-          <td align="center">☄️</td>
-          <td><code>:comet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🔥</td>
-          <td><code>:fire:</code></td>
-          <td align="center">💧</td>
-          <td><code>:droplet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#travel--places">top</a></td>
-          <td align="center">🌊</td>
-          <td><code>:ocean:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Activities</h3><a id="activities" class="anchor"
-      aria-label="Permalink: Activities" href="#activities"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#event">Event</a></li>
-    <li><a href="#award-medal">Award Medal</a></li>
-    <li><a href="#sport">Sport</a></li>
-    <li><a href="#game">Game</a></li>
-    <li><a href="#arts--crafts">Arts &amp; Crafts</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Event</h4><a id="event" class="anchor"
-      aria-label="Permalink: Event" href="#event"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎃</td>
-          <td><code>:jack_o_lantern:</code></td>
-          <td align="center">🎄</td>
-          <td><code>:christmas_tree:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎆</td>
-          <td><code>:fireworks:</code></td>
-          <td align="center">🎇</td>
-          <td><code>:sparkler:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🧨</td>
-          <td><code>:firecracker:</code></td>
-          <td align="center">✨</td>
-          <td><code>:sparkles:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎈</td>
-          <td><code>:balloon:</code></td>
-          <td align="center">🎉</td>
-          <td><code>:tada:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎊</td>
-          <td><code>:confetti_ball:</code></td>
-          <td align="center">🎋</td>
-          <td><code>:tanabata_tree:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎍</td>
-          <td><code>:bamboo:</code></td>
-          <td align="center">🎎</td>
-          <td><code>:dolls:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎏</td>
-          <td><code>:flags:</code></td>
-          <td align="center">🎐</td>
-          <td><code>:wind_chime:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎑</td>
-          <td><code>:rice_scene:</code></td>
-          <td align="center">🧧</td>
-          <td><code>:red_envelope:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎀</td>
-          <td><code>:ribbon:</code></td>
-          <td align="center">🎁</td>
-          <td><code>:gift:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎗️</td>
-          <td><code>:reminder_ribbon:</code></td>
-          <td align="center">🎟️</td>
-          <td><code>:tickets:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎫</td>
-          <td><code>:ticket:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Award Medal</h4><a id="award-medal" class="anchor"
-      aria-label="Permalink: Award Medal" href="#award-medal"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎖️</td>
-          <td><code>:medal_military:</code></td>
-          <td align="center">🏆</td>
-          <td><code>:trophy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏅</td>
-          <td><code>:medal_sports:</code></td>
-          <td align="center">🥇</td>
-          <td><code>:1st_place_medal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥈</td>
-          <td><code>:2nd_place_medal:</code></td>
-          <td align="center">🥉</td>
-          <td><code>:3rd_place_medal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Sport</h4><a id="sport" class="anchor"
-      aria-label="Permalink: Sport" href="#sport"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">⚽</td>
-          <td><code>:soccer:</code></td>
-          <td align="center">⚾</td>
-          <td><code>:baseball:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥎</td>
-          <td><code>:softball:</code></td>
-          <td align="center">🏀</td>
-          <td><code>:basketball:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏐</td>
-          <td><code>:volleyball:</code></td>
-          <td align="center">🏈</td>
-          <td><code>:football:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏉</td>
-          <td><code>:rugby_football:</code></td>
-          <td align="center">🎾</td>
-          <td><code>:tennis:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥏</td>
-          <td><code>:flying_disc:</code></td>
-          <td align="center">🎳</td>
-          <td><code>:bowling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏏</td>
-          <td><code>:cricket_game:</code></td>
-          <td align="center">🏑</td>
-          <td><code>:field_hockey:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏒</td>
-          <td><code>:ice_hockey:</code></td>
-          <td align="center">🥍</td>
-          <td><code>:lacrosse:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🏓</td>
-          <td><code>:ping_pong:</code></td>
-          <td align="center">🏸</td>
-          <td><code>:badminton:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥊</td>
-          <td><code>:boxing_glove:</code></td>
-          <td align="center">🥋</td>
-          <td><code>:martial_arts_uniform:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥅</td>
-          <td><code>:goal_net:</code></td>
-          <td align="center">⛳</td>
-          <td><code>:golf:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">⛸️</td>
-          <td><code>:ice_skate:</code></td>
-          <td align="center">🎣</td>
-          <td><code>:fishing_pole_and_fish:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🤿</td>
-          <td><code>:diving_mask:</code></td>
-          <td align="center">🎽</td>
-          <td><code>:running_shirt_with_sash:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎿</td>
-          <td><code>:ski:</code></td>
-          <td align="center">🛷</td>
-          <td><code>:sled:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🥌</td>
-          <td><code>:curling_stone:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Game</h4><a id="game" class="anchor"
-      aria-label="Permalink: Game" href="#game"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎯</td>
-          <td><code>:dart:</code></td>
-          <td align="center">🪀</td>
-          <td><code>:yo_yo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🪁</td>
-          <td><code>:kite:</code></td>
-          <td align="center">🔫</td>
-          <td><code>:gun:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎱</td>
-          <td><code>:8ball:</code></td>
-          <td align="center">🔮</td>
-          <td><code>:crystal_ball:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🪄</td>
-          <td><code>:magic_wand:</code></td>
-          <td align="center">🎮</td>
-          <td><code>:video_game:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🕹️</td>
-          <td><code>:joystick:</code></td>
-          <td align="center">🎰</td>
-          <td><code>:slot_machine:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎲</td>
-          <td><code>:game_die:</code></td>
-          <td align="center">🧩</td>
-          <td><code>:jigsaw:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🧸</td>
-          <td><code>:teddy_bear:</code></td>
-          <td align="center">🪅</td>
-          <td><code>:pinata:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🪆</td>
-          <td><code>:nesting_dolls:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="spades">♠️</g-emoji></td>
-          <td><code>:spades:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="hearts">♥️</g-emoji></td>
-          <td><code>:hearts:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="diamonds">♦️</g-emoji></td>
-          <td><code>:diamonds:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="clubs">♣️</g-emoji></td>
-          <td><code>:clubs:</code></td>
-          <td align="center">♟️</td>
-          <td><code>:chess_pawn:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🃏</td>
-          <td><code>:black_joker:</code></td>
-          <td align="center">🀄</td>
-          <td><code>:mahjong:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎴</td>
-          <td><code>:flower_playing_cards:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Arts &amp; Crafts</h4><a id="arts--crafts"
-      class="anchor" aria-label="Permalink: Arts &amp; Crafts" href="#arts--crafts"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎭</td>
-          <td><code>:performing_arts:</code></td>
-          <td align="center">🖼️</td>
-          <td><code>:framed_picture:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🎨</td>
-          <td><code>:art:</code></td>
-          <td align="center">🧵</td>
-          <td><code>:thread:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🪡</td>
-          <td><code>:sewing_needle:</code></td>
-          <td align="center">🧶</td>
-          <td><code>:yarn:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#activities">top</a></td>
-          <td align="center">🪢</td>
-          <td><code>:knot:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Objects</h3><a id="objects" class="anchor"
-      aria-label="Permalink: Objects" href="#objects"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#clothing">Clothing</a></li>
-    <li><a href="#sound">Sound</a></li>
-    <li><a href="#music">Music</a></li>
-    <li><a href="#musical-instrument">Musical Instrument</a></li>
-    <li><a href="#phone">Phone</a></li>
-    <li><a href="#computer">Computer</a></li>
-    <li><a href="#light--video">Light &amp; Video</a></li>
-    <li><a href="#book-paper">Book Paper</a></li>
-    <li><a href="#money">Money</a></li>
-    <li><a href="#mail">Mail</a></li>
-    <li><a href="#writing">Writing</a></li>
-    <li><a href="#office">Office</a></li>
-    <li><a href="#lock">Lock</a></li>
-    <li><a href="#tool">Tool</a></li>
-    <li><a href="#science">Science</a></li>
-    <li><a href="#medical">Medical</a></li>
-    <li><a href="#household">Household</a></li>
-    <li><a href="#other-object">Other Object</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Clothing</h4><a id="clothing" class="anchor"
-      aria-label="Permalink: Clothing" href="#clothing"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👓</td>
-          <td><code>:eyeglasses:</code></td>
-          <td align="center">🕶️</td>
-          <td><code>:dark_sunglasses:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🥽</td>
-          <td><code>:goggles:</code></td>
-          <td align="center">🥼</td>
-          <td><code>:lab_coat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🦺</td>
-          <td><code>:safety_vest:</code></td>
-          <td align="center">👔</td>
-          <td><code>:necktie:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👕</td>
-          <td><code>:shirt:</code> <br> <code>:tshirt:</code></td>
-          <td align="center">👖</td>
-          <td><code>:jeans:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧣</td>
-          <td><code>:scarf:</code></td>
-          <td align="center">🧤</td>
-          <td><code>:gloves:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧥</td>
-          <td><code>:coat:</code></td>
-          <td align="center">🧦</td>
-          <td><code>:socks:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👗</td>
-          <td><code>:dress:</code></td>
-          <td align="center">👘</td>
-          <td><code>:kimono:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🥻</td>
-          <td><code>:sari:</code></td>
-          <td align="center">🩱</td>
-          <td><code>:one_piece_swimsuit:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🩲</td>
-          <td><code>:swim_brief:</code></td>
-          <td align="center">🩳</td>
-          <td><code>:shorts:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👙</td>
-          <td><code>:bikini:</code></td>
-          <td align="center">👚</td>
-          <td><code>:womans_clothes:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👛</td>
-          <td><code>:purse:</code></td>
-          <td align="center">👜</td>
-          <td><code>:handbag:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👝</td>
-          <td><code>:pouch:</code></td>
-          <td align="center">🛍️</td>
-          <td><code>:shopping:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎒</td>
-          <td><code>:school_satchel:</code></td>
-          <td align="center">🩴</td>
-          <td><code>:thong_sandal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👞</td>
-          <td><code>:mans_shoe:</code> <br> <code>:shoe:</code></td>
-          <td align="center">👟</td>
-          <td><code>:athletic_shoe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🥾</td>
-          <td><code>:hiking_boot:</code></td>
-          <td align="center">🥿</td>
-          <td><code>:flat_shoe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👠</td>
-          <td><code>:high_heel:</code></td>
-          <td align="center">👡</td>
-          <td><code>:sandal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🩰</td>
-          <td><code>:ballet_shoes:</code></td>
-          <td align="center">👢</td>
-          <td><code>:boot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">👑</td>
-          <td><code>:crown:</code></td>
-          <td align="center">👒</td>
-          <td><code>:womans_hat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎩</td>
-          <td><code>:tophat:</code></td>
-          <td align="center">🎓</td>
-          <td><code>:mortar_board:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧢</td>
-          <td><code>:billed_cap:</code></td>
-          <td align="center">🪖</td>
-          <td><code>:military_helmet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">⛑️</td>
-          <td><code>:rescue_worker_helmet:</code></td>
-          <td align="center">📿</td>
-          <td><code>:prayer_beads:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💄</td>
-          <td><code>:lipstick:</code></td>
-          <td align="center">💍</td>
-          <td><code>:ring:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💎</td>
-          <td><code>:gem:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Sound</h4><a id="sound" class="anchor"
-      aria-label="Permalink: Sound" href="#sound"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔇</td>
-          <td><code>:mute:</code></td>
-          <td align="center">🔈</td>
-          <td><code>:speaker:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔉</td>
-          <td><code>:sound:</code></td>
-          <td align="center">🔊</td>
-          <td><code>:loud_sound:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📢</td>
-          <td><code>:loudspeaker:</code></td>
-          <td align="center">📣</td>
-          <td><code>:mega:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📯</td>
-          <td><code>:postal_horn:</code></td>
-          <td align="center">🔔</td>
-          <td><code>:bell:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔕</td>
-          <td><code>:no_bell:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Music</h4><a id="music" class="anchor"
-      aria-label="Permalink: Music" href="#music"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎼</td>
-          <td><code>:musical_score:</code></td>
-          <td align="center">🎵</td>
-          <td><code>:musical_note:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎶</td>
-          <td><code>:notes:</code></td>
-          <td align="center">🎙️</td>
-          <td><code>:studio_microphone:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎚️</td>
-          <td><code>:level_slider:</code></td>
-          <td align="center">🎛️</td>
-          <td><code>:control_knobs:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎤</td>
-          <td><code>:microphone:</code></td>
-          <td align="center">🎧</td>
-          <td><code>:headphones:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📻</td>
-          <td><code>:radio:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Musical Instrument</h4><a id="musical-instrument"
-      class="anchor" aria-label="Permalink: Musical Instrument" href="#musical-instrument"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎷</td>
-          <td><code>:saxophone:</code></td>
-          <td align="center">🪗</td>
-          <td><code>:accordion:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎸</td>
-          <td><code>:guitar:</code></td>
-          <td align="center">🎹</td>
-          <td><code>:musical_keyboard:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎺</td>
-          <td><code>:trumpet:</code></td>
-          <td align="center">🎻</td>
-          <td><code>:violin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪕</td>
-          <td><code>:banjo:</code></td>
-          <td align="center">🥁</td>
-          <td><code>:drum:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪘</td>
-          <td><code>:long_drum:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Phone</h4><a id="phone" class="anchor"
-      aria-label="Permalink: Phone" href="#phone"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📱</td>
-          <td><code>:iphone:</code></td>
-          <td align="center">📲</td>
-          <td><code>:calling:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">☎️</td>
-          <td><code>:phone:</code> <br> <code>:telephone:</code></td>
-          <td align="center">📞</td>
-          <td><code>:telephone_receiver:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📟</td>
-          <td><code>:pager:</code></td>
-          <td align="center">📠</td>
-          <td><code>:fax:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Computer</h4><a id="computer" class="anchor"
-      aria-label="Permalink: Computer" href="#computer"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔋</td>
-          <td><code>:battery:</code></td>
-          <td align="center">🔌</td>
-          <td><code>:electric_plug:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💻</td>
-          <td><code>:computer:</code></td>
-          <td align="center">🖥️</td>
-          <td><code>:desktop_computer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🖨️</td>
-          <td><code>:printer:</code></td>
-          <td align="center">⌨️</td>
-          <td><code>:keyboard:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🖱️</td>
-          <td><code>:computer_mouse:</code></td>
-          <td align="center">🖲️</td>
-          <td><code>:trackball:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💽</td>
-          <td><code>:minidisc:</code></td>
-          <td align="center">💾</td>
-          <td><code>:floppy_disk:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💿</td>
-          <td><code>:cd:</code></td>
-          <td align="center">📀</td>
-          <td><code>:dvd:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧮</td>
-          <td><code>:abacus:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Light &amp; Video</h4><a id="light--video"
-      class="anchor" aria-label="Permalink: Light &amp; Video" href="#light--video"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🎥</td>
-          <td><code>:movie_camera:</code></td>
-          <td align="center">🎞️</td>
-          <td><code>:film_strip:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📽️</td>
-          <td><code>:film_projector:</code></td>
-          <td align="center">🎬</td>
-          <td><code>:clapper:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📺</td>
-          <td><code>:tv:</code></td>
-          <td align="center">📷</td>
-          <td><code>:camera:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📸</td>
-          <td><code>:camera_flash:</code></td>
-          <td align="center">📹</td>
-          <td><code>:video_camera:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📼</td>
-          <td><code>:vhs:</code></td>
-          <td align="center">🔍</td>
-          <td><code>:mag:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔎</td>
-          <td><code>:mag_right:</code></td>
-          <td align="center">🕯️</td>
-          <td><code>:candle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💡</td>
-          <td><code>:bulb:</code></td>
-          <td align="center">🔦</td>
-          <td><code>:flashlight:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🏮</td>
-          <td><code>:izakaya_lantern:</code> <br> <code>:lantern:</code></td>
-          <td align="center">🪔</td>
-          <td><code>:diya_lamp:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Book Paper</h4><a id="book-paper" class="anchor"
-      aria-label="Permalink: Book Paper" href="#book-paper"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📔</td>
-          <td><code>:notebook_with_decorative_cover:</code></td>
-          <td align="center">📕</td>
-          <td><code>:closed_book:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📖</td>
-          <td><code>:book:</code> <br> <code>:open_book:</code></td>
-          <td align="center">📗</td>
-          <td><code>:green_book:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📘</td>
-          <td><code>:blue_book:</code></td>
-          <td align="center">📙</td>
-          <td><code>:orange_book:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📚</td>
-          <td><code>:books:</code></td>
-          <td align="center">📓</td>
-          <td><code>:notebook:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📒</td>
-          <td><code>:ledger:</code></td>
-          <td align="center">📃</td>
-          <td><code>:page_with_curl:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📜</td>
-          <td><code>:scroll:</code></td>
-          <td align="center">📄</td>
-          <td><code>:page_facing_up:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📰</td>
-          <td><code>:newspaper:</code></td>
-          <td align="center">🗞️</td>
-          <td><code>:newspaper_roll:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📑</td>
-          <td><code>:bookmark_tabs:</code></td>
-          <td align="center">🔖</td>
-          <td><code>:bookmark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🏷️</td>
-          <td><code>:label:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Money</h4><a id="money" class="anchor"
-      aria-label="Permalink: Money" href="#money"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💰</td>
-          <td><code>:moneybag:</code></td>
-          <td align="center">🪙</td>
-          <td><code>:coin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💴</td>
-          <td><code>:yen:</code></td>
-          <td align="center">💵</td>
-          <td><code>:dollar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💶</td>
-          <td><code>:euro:</code></td>
-          <td align="center">💷</td>
-          <td><code>:pound:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💸</td>
-          <td><code>:money_with_wings:</code></td>
-          <td align="center">💳</td>
-          <td><code>:credit_card:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧾</td>
-          <td><code>:receipt:</code></td>
-          <td align="center">💹</td>
-          <td><code>:chart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Mail</h4><a id="mail" class="anchor"
-      aria-label="Permalink: Mail" href="#mail"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">✉️</td>
-          <td><code>:envelope:</code></td>
-          <td align="center">📧</td>
-          <td><code>:e-mail:</code> <br> <code>:email:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📨</td>
-          <td><code>:incoming_envelope:</code></td>
-          <td align="center">📩</td>
-          <td><code>:envelope_with_arrow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📤</td>
-          <td><code>:outbox_tray:</code></td>
-          <td align="center">📥</td>
-          <td><code>:inbox_tray:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📦</td>
-          <td><code>:package:</code></td>
-          <td align="center">📫</td>
-          <td><code>:mailbox:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📪</td>
-          <td><code>:mailbox_closed:</code></td>
-          <td align="center">📬</td>
-          <td><code>:mailbox_with_mail:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📭</td>
-          <td><code>:mailbox_with_no_mail:</code></td>
-          <td align="center">📮</td>
-          <td><code>:postbox:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🗳️</td>
-          <td><code>:ballot_box:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Writing</h4><a id="writing" class="anchor"
-      aria-label="Permalink: Writing" href="#writing"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">✏️</td>
-          <td><code>:pencil2:</code></td>
-          <td align="center">✒️</td>
-          <td><code>:black_nib:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🖋️</td>
-          <td><code>:fountain_pen:</code></td>
-          <td align="center">🖊️</td>
-          <td><code>:pen:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🖌️</td>
-          <td><code>:paintbrush:</code></td>
-          <td align="center">🖍️</td>
-          <td><code>:crayon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📝</td>
-          <td><code>:memo:</code> <br> <code>:pencil:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Office</h4><a id="office" class="anchor"
-      aria-label="Permalink: Office" href="#office"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💼</td>
-          <td><code>:briefcase:</code></td>
-          <td align="center">📁</td>
-          <td><code>:file_folder:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📂</td>
-          <td><code>:open_file_folder:</code></td>
-          <td align="center">🗂️</td>
-          <td><code>:card_index_dividers:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📅</td>
-          <td><code>:date:</code></td>
-          <td align="center">📆</td>
-          <td><code>:calendar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🗒️</td>
-          <td><code>:spiral_notepad:</code></td>
-          <td align="center">🗓️</td>
-          <td><code>:spiral_calendar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📇</td>
-          <td><code>:card_index:</code></td>
-          <td align="center">📈</td>
-          <td><code>:chart_with_upwards_trend:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📉</td>
-          <td><code>:chart_with_downwards_trend:</code></td>
-          <td align="center">📊</td>
-          <td><code>:bar_chart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📋</td>
-          <td><code>:clipboard:</code></td>
-          <td align="center">📌</td>
-          <td><code>:pushpin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📍</td>
-          <td><code>:round_pushpin:</code></td>
-          <td align="center">📎</td>
-          <td><code>:paperclip:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🖇️</td>
-          <td><code>:paperclips:</code></td>
-          <td align="center">📏</td>
-          <td><code>:straight_ruler:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📐</td>
-          <td><code>:triangular_ruler:</code></td>
-          <td align="center">✂️</td>
-          <td><code>:scissors:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🗃️</td>
-          <td><code>:card_file_box:</code></td>
-          <td align="center">🗄️</td>
-          <td><code>:file_cabinet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🗑️</td>
-          <td><code>:wastebasket:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Lock</h4><a id="lock" class="anchor"
-      aria-label="Permalink: Lock" href="#lock"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔒</td>
-          <td><code>:lock:</code></td>
-          <td align="center">🔓</td>
-          <td><code>:unlock:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔏</td>
-          <td><code>:lock_with_ink_pen:</code></td>
-          <td align="center">🔐</td>
-          <td><code>:closed_lock_with_key:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔑</td>
-          <td><code>:key:</code></td>
-          <td align="center">🗝️</td>
-          <td><code>:old_key:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Tool</h4><a id="tool" class="anchor"
-      aria-label="Permalink: Tool" href="#tool"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔨</td>
-          <td><code>:hammer:</code></td>
-          <td align="center">🪓</td>
-          <td><code>:axe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">⛏️</td>
-          <td><code>:pick:</code></td>
-          <td align="center">⚒️</td>
-          <td><code>:hammer_and_pick:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🛠️</td>
-          <td><code>:hammer_and_wrench:</code></td>
-          <td align="center">🗡️</td>
-          <td><code>:dagger:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">⚔️</td>
-          <td><code>:crossed_swords:</code></td>
-          <td align="center">💣</td>
-          <td><code>:bomb:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪃</td>
-          <td><code>:boomerang:</code></td>
-          <td align="center">🏹</td>
-          <td><code>:bow_and_arrow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🛡️</td>
-          <td><code>:shield:</code></td>
-          <td align="center">🪚</td>
-          <td><code>:carpentry_saw:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔧</td>
-          <td><code>:wrench:</code></td>
-          <td align="center">🪛</td>
-          <td><code>:screwdriver:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔩</td>
-          <td><code>:nut_and_bolt:</code></td>
-          <td align="center">⚙️</td>
-          <td><code>:gear:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🗜️</td>
-          <td><code>:clamp:</code></td>
-          <td align="center">⚖️</td>
-          <td><code>:balance_scale:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🦯</td>
-          <td><code>:probing_cane:</code></td>
-          <td align="center">🔗</td>
-          <td><code>:link:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">⛓️</td>
-          <td><code>:chains:</code></td>
-          <td align="center">🪝</td>
-          <td><code>:hook:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧰</td>
-          <td><code>:toolbox:</code></td>
-          <td align="center">🧲</td>
-          <td><code>:magnet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪜</td>
-          <td><code>:ladder:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Science</h4><a id="science" class="anchor"
-      aria-label="Permalink: Science" href="#science"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">⚗️</td>
-          <td><code>:alembic:</code></td>
-          <td align="center">🧪</td>
-          <td><code>:test_tube:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧫</td>
-          <td><code>:petri_dish:</code></td>
-          <td align="center">🧬</td>
-          <td><code>:dna:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🔬</td>
-          <td><code>:microscope:</code></td>
-          <td align="center">🔭</td>
-          <td><code>:telescope:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">📡</td>
-          <td><code>:satellite:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Medical</h4><a id="medical" class="anchor"
-      aria-label="Permalink: Medical" href="#medical"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💉</td>
-          <td><code>:syringe:</code></td>
-          <td align="center">🩸</td>
-          <td><code>:drop_of_blood:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">💊</td>
-          <td><code>:pill:</code></td>
-          <td align="center">🩹</td>
-          <td><code>:adhesive_bandage:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🩺</td>
-          <td><code>:stethoscope:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Household</h4><a id="household" class="anchor"
-      aria-label="Permalink: Household" href="#household"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🚪</td>
-          <td><code>:door:</code></td>
-          <td align="center">🛗</td>
-          <td><code>:elevator:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪞</td>
-          <td><code>:mirror:</code></td>
-          <td align="center">🪟</td>
-          <td><code>:window:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🛏️</td>
-          <td><code>:bed:</code></td>
-          <td align="center">🛋️</td>
-          <td><code>:couch_and_lamp:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪑</td>
-          <td><code>:chair:</code></td>
-          <td align="center">🚽</td>
-          <td><code>:toilet:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪠</td>
-          <td><code>:plunger:</code></td>
-          <td align="center">🚿</td>
-          <td><code>:shower:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🛁</td>
-          <td><code>:bathtub:</code></td>
-          <td align="center">🪤</td>
-          <td><code>:mouse_trap:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪒</td>
-          <td><code>:razor:</code></td>
-          <td align="center">🧴</td>
-          <td><code>:lotion_bottle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧷</td>
-          <td><code>:safety_pin:</code></td>
-          <td align="center">🧹</td>
-          <td><code>:broom:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧺</td>
-          <td><code>:basket:</code></td>
-          <td align="center">🧻</td>
-          <td><code>:roll_of_paper:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪣</td>
-          <td><code>:bucket:</code></td>
-          <td align="center">🧼</td>
-          <td><code>:soap:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪥</td>
-          <td><code>:toothbrush:</code></td>
-          <td align="center">🧽</td>
-          <td><code>:sponge:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧯</td>
-          <td><code>:fire_extinguisher:</code></td>
-          <td align="center">🛒</td>
-          <td><code>:shopping_cart:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Other Object</h4><a id="other-object"
-      class="anchor" aria-label="Permalink: Other Object" href="#other-object"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🚬</td>
-          <td><code>:smoking:</code></td>
-          <td align="center">⚰️</td>
-          <td><code>:coffin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪦</td>
-          <td><code>:headstone:</code></td>
-          <td align="center">⚱️</td>
-          <td><code>:funeral_urn:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🧿</td>
-          <td><code>:nazar_amulet:</code></td>
-          <td align="center">🗿</td>
-          <td><code>:moyai:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#objects">top</a></td>
-          <td align="center">🪧</td>
-          <td><code>:placard:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Symbols</h3><a id="symbols" class="anchor"
-      aria-label="Permalink: Symbols" href="#symbols"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#transport-sign">Transport Sign</a></li>
-    <li><a href="#warning">Warning</a></li>
-    <li><a href="#arrow">Arrow</a></li>
-    <li><a href="#religion">Religion</a></li>
-    <li><a href="#zodiac">Zodiac</a></li>
-    <li><a href="#audio-video-symbol">Audio & Video</a></li>
-    <li><a href="#gender">Gender</a></li>
-    <li><a href="#math">Math</a></li>
-    <li><a href="#punctuation">Punctuation</a></li>
-    <li><a href="#currency">Currency</a></li>
-    <li><a href="#other-symbol">Other Symbol</a></li>
-    <li><a href="#keycap">Keycap</a></li>
-    <li><a href="#alphanum">Alphanum</a></li>
-    <li><a href="#geometric">Geometric</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Transport Sign</h4><a id="transport-sign"
-      class="anchor" aria-label="Permalink: Transport Sign" href="#transport-sign"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🏧</td>
-          <td><code>:atm:</code></td>
-          <td align="center">🚮</td>
-          <td><code>:put_litter_in_its_place:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚰</td>
-          <td><code>:potable_water:</code></td>
-          <td align="center">♿</td>
-          <td><code>:wheelchair:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚹</td>
-          <td><code>:mens:</code></td>
-          <td align="center">🚺</td>
-          <td><code>:womens:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚻</td>
-          <td><code>:restroom:</code></td>
-          <td align="center">🚼</td>
-          <td><code>:baby_symbol:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚾</td>
-          <td><code>:wc:</code></td>
-          <td align="center">🛂</td>
-          <td><code>:passport_control:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🛃</td>
-          <td><code>:customs:</code></td>
-          <td align="center">🛄</td>
-          <td><code>:baggage_claim:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🛅</td>
-          <td><code>:left_luggage:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Warning</h4><a id="warning" class="anchor"
-      aria-label="Permalink: Warning" href="#warning"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="warning">⚠️</g-emoji></td>
-          <td><code>:warning:</code></td>
-          <td align="center">🚸</td>
-          <td><code>:children_crossing:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⛔</td>
-          <td><code>:no_entry:</code></td>
-          <td align="center">🚫</td>
-          <td><code>:no_entry_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚳</td>
-          <td><code>:no_bicycles:</code></td>
-          <td align="center">🚭</td>
-          <td><code>:no_smoking:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚯</td>
-          <td><code>:do_not_litter:</code></td>
-          <td align="center">🚱</td>
-          <td><code>:non-potable_water:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🚷</td>
-          <td><code>:no_pedestrians:</code></td>
-          <td align="center">📵</td>
-          <td><code>:no_mobile_phones:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔞</td>
-          <td><code>:underage:</code></td>
-          <td align="center">☢️</td>
-          <td><code>:radioactive:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">☣️</td>
-          <td><code>:biohazard:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Arrow</h4><a id="arrow" class="anchor"
-      aria-label="Permalink: Arrow" href="#arrow"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⬆️</td>
-          <td><code>:arrow_up:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_upper_right">↗️</g-emoji></td>
-          <td><code>:arrow_upper_right:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">➡️</td>
-          <td><code>:arrow_right:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_lower_right">↘️</g-emoji></td>
-          <td><code>:arrow_lower_right:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⬇️</td>
-          <td><code>:arrow_down:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_lower_left">↙️</g-emoji></td>
-          <td><code>:arrow_lower_left:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⬅️</td>
-          <td><code>:arrow_left:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_upper_left">↖️</g-emoji></td>
-          <td><code>:arrow_upper_left:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_up_down">↕️</g-emoji></td>
-          <td><code>:arrow_up_down:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="left_right_arrow">↔️</g-emoji></td>
-          <td><code>:left_right_arrow:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">↩️</td>
-          <td><code>:leftwards_arrow_with_hook:</code></td>
-          <td align="center">↪️</td>
-          <td><code>:arrow_right_hook:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_heading_up">⤴️</g-emoji></td>
-          <td><code>:arrow_heading_up:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_heading_down">⤵️</g-emoji></td>
-          <td><code>:arrow_heading_down:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔃</td>
-          <td><code>:arrows_clockwise:</code></td>
-          <td align="center">🔄</td>
-          <td><code>:arrows_counterclockwise:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔙</td>
-          <td><code>:back:</code></td>
-          <td align="center">🔚</td>
-          <td><code>:end:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔛</td>
-          <td><code>:on:</code></td>
-          <td align="center">🔜</td>
-          <td><code>:soon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔝</td>
-          <td><code>:top:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Religion</h4><a id="religion" class="anchor"
-      aria-label="Permalink: Religion" href="#religion"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🛐</td>
-          <td><code>:place_of_worship:</code></td>
-          <td align="center">⚛️</td>
-          <td><code>:atom_symbol:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🕉️</td>
-          <td><code>:om:</code></td>
-          <td align="center">✡️</td>
-          <td><code>:star_of_david:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">☸️</td>
-          <td><code>:wheel_of_dharma:</code></td>
-          <td align="center">☯️</td>
-          <td><code>:yin_yang:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">✝️</td>
-          <td><code>:latin_cross:</code></td>
-          <td align="center">☦️</td>
-          <td><code>:orthodox_cross:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">☪️</td>
-          <td><code>:star_and_crescent:</code></td>
-          <td align="center">☮️</td>
-          <td><code>:peace_symbol:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🕎</td>
-          <td><code>:menorah:</code></td>
-          <td align="center">🔯</td>
-          <td><code>:six_pointed_star:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Zodiac</h4><a id="zodiac" class="anchor"
-      aria-label="Permalink: Zodiac" href="#zodiac"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♈</td>
-          <td><code>:aries:</code></td>
-          <td align="center">♉</td>
-          <td><code>:taurus:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♊</td>
-          <td><code>:gemini:</code></td>
-          <td align="center">♋</td>
-          <td><code>:cancer:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♌</td>
-          <td><code>:leo:</code></td>
-          <td align="center">♍</td>
-          <td><code>:virgo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♎</td>
-          <td><code>:libra:</code></td>
-          <td align="center">♏</td>
-          <td><code>:scorpius:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♐</td>
-          <td><code>:sagittarius:</code></td>
-          <td align="center">♑</td>
-          <td><code>:capricorn:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♒</td>
-          <td><code>:aquarius:</code></td>
-          <td align="center">♓</td>
-          <td><code>:pisces:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⛎</td>
-          <td><code>:ophiuchus:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Audio & Video</h4><a id="audio-video-symbol" class="anchor"
-      aria-label="Permalink: Audio & Video" href="#audio-video-symbol"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔀</td>
-          <td><code>:twisted_rightwards_arrows:</code></td>
-          <td align="center">🔁</td>
-          <td><code>:repeat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔂</td>
-          <td><code>:repeat_one:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_forward">▶️</g-emoji></td>
-          <td><code>:arrow_forward:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⏩</td>
-          <td><code>:fast_forward:</code></td>
-          <td align="center">⏭️</td>
-          <td><code>:next_track_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⏯️</td>
-          <td><code>:play_or_pause_button:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="arrow_backward">◀️</g-emoji></td>
-          <td><code>:arrow_backward:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⏪</td>
-          <td><code>:rewind:</code></td>
-          <td align="center">⏮️</td>
-          <td><code>:previous_track_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔼</td>
-          <td><code>:arrow_up_small:</code></td>
-          <td align="center">⏫</td>
-          <td><code>:arrow_double_up:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔽</td>
-          <td><code>:arrow_down_small:</code></td>
-          <td align="center">⏬</td>
-          <td><code>:arrow_double_down:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⏸️</td>
-          <td><code>:pause_button:</code></td>
-          <td align="center">⏹️</td>
-          <td><code>:stop_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⏺️</td>
-          <td><code>:record_button:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="eject_button">⏏️</g-emoji></td>
-          <td><code>:eject_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🎦</td>
-          <td><code>:cinema:</code></td>
-          <td align="center">🔅</td>
-          <td><code>:low_brightness:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔆</td>
-          <td><code>:high_brightness:</code></td>
-          <td align="center">📶</td>
-          <td><code>:signal_strength:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">📳</td>
-          <td><code>:vibration_mode:</code></td>
-          <td align="center">📴</td>
-          <td><code>:mobile_phone_off:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Gender</h4><a id="gender" class="anchor"
-      aria-label="Permalink: Gender" href="#gender"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♀️</td>
-          <td><code>:female_sign:</code></td>
-          <td align="center">♂️</td>
-          <td><code>:male_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⚧️</td>
-          <td><code>:transgender_symbol:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Math</h4><a id="math" class="anchor"
-      aria-label="Permalink: Math" href="#math"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">✖️</td>
-          <td><code>:heavy_multiplication_x:</code></td>
-          <td align="center">➕</td>
-          <td><code>:heavy_plus_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">➖</td>
-          <td><code>:heavy_minus_sign:</code></td>
-          <td align="center">➗</td>
-          <td><code>:heavy_division_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">♾️</td>
-          <td><code>:infinity:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Punctuation</h4><a id="punctuation" class="anchor"
-      aria-label="Permalink: Punctuation" href="#punctuation"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="bangbang">‼️</g-emoji></td>
-          <td><code>:bangbang:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="interrobang">⁉️</g-emoji></td>
-          <td><code>:interrobang:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">❓</td>
-          <td><code>:question:</code></td>
-          <td align="center">❔</td>
-          <td><code>:grey_question:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">❕</td>
-          <td><code>:grey_exclamation:</code></td>
-          <td align="center">❗</td>
-          <td><code>:exclamation:</code> <br> <code>:heavy_exclamation_mark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">〰️</td>
-          <td><code>:wavy_dash:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Currency</h4><a id="currency" class="anchor"
-      aria-label="Permalink: Currency" href="#currency"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">💱</td>
-          <td><code>:currency_exchange:</code></td>
-          <td align="center">💲</td>
-          <td><code>:heavy_dollar_sign:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Other Symbol</h4><a id="other-symbol"
-      class="anchor" aria-label="Permalink: Other Symbol" href="#other-symbol"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⚕️</td>
-          <td><code>:medical_symbol:</code></td>
-          <td align="center">♻️</td>
-          <td><code>:recycle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⚜️</td>
-          <td><code>:fleur_de_lis:</code></td>
-          <td align="center">🔱</td>
-          <td><code>:trident:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">📛</td>
-          <td><code>:name_badge:</code></td>
-          <td align="center">🔰</td>
-          <td><code>:beginner:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⭕</td>
-          <td><code>:o:</code></td>
-          <td align="center">✅</td>
-          <td><code>:white_check_mark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">☑️</td>
-          <td><code>:ballot_box_with_check:</code></td>
-          <td align="center">✔️</td>
-          <td><code>:heavy_check_mark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">❌</td>
-          <td><code>:x:</code></td>
-          <td align="center">❎</td>
-          <td><code>:negative_squared_cross_mark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">➰</td>
-          <td><code>:curly_loop:</code></td>
-          <td align="center">➿</td>
-          <td><code>:loop:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">〽️</td>
-          <td><code>:part_alternation_mark:</code></td>
-          <td align="center">✳️</td>
-          <td><code>:eight_spoked_asterisk:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">✴️</td>
-          <td><code>:eight_pointed_black_star:</code></td>
-          <td align="center">❇️</td>
-          <td><code>:sparkle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">©️</td>
-          <td><code>:copyright:</code></td>
-          <td align="center">®️</td>
-          <td><code>:registered:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">™️</td>
-          <td><code>:tm:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Keycap</h4><a id="keycap" class="anchor"
-      aria-label="Permalink: Keycap" href="#keycap"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">#️⃣</td>
-          <td><code>:hash:</code></td>
-          <td align="center">*️⃣</td>
-          <td><code>:asterisk:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">0️⃣</td>
-          <td><code>:zero:</code></td>
-          <td align="center">1️⃣</td>
-          <td><code>:one:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">2️⃣</td>
-          <td><code>:two:</code></td>
-          <td align="center">3️⃣</td>
-          <td><code>:three:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">4️⃣</td>
-          <td><code>:four:</code></td>
-          <td align="center">5️⃣</td>
-          <td><code>:five:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">6️⃣</td>
-          <td><code>:six:</code></td>
-          <td align="center">7️⃣</td>
-          <td><code>:seven:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">8️⃣</td>
-          <td><code>:eight:</code></td>
-          <td align="center">9️⃣</td>
-          <td><code>:nine:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔟</td>
-          <td><code>:keycap_ten:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Alphanum</h4><a id="alphanum" class="anchor"
-      aria-label="Permalink: Alphanum" href="#alphanum"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔠</td>
-          <td><code>:capital_abcd:</code></td>
-          <td align="center">🔡</td>
-          <td><code>:abcd:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔢</td>
-          <td><code>:1234:</code></td>
-          <td align="center">🔣</td>
-          <td><code>:symbols:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔤</td>
-          <td><code>:abc:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="a">🅰️</g-emoji></td>
-          <td><code>:a:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆎</td>
-          <td><code>:ab:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="b">🅱️</g-emoji></td>
-          <td><code>:b:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆑</td>
-          <td><code>:cl:</code></td>
-          <td align="center">🆒</td>
-          <td><code>:cool:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆓</td>
-          <td><code>:free:</code></td>
-          <td align="center">ℹ️</td>
-          <td><code>:information_source:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆔</td>
-          <td><code>:id:</code></td>
-          <td align="center"><g-emoji class="g-emoji" alias="m">Ⓜ️</g-emoji></td>
-          <td><code>:m:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆕</td>
-          <td><code>:new:</code></td>
-          <td align="center">🆖</td>
-          <td><code>:ng:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="o2">🅾️</g-emoji></td>
-          <td><code>:o2:</code></td>
-          <td align="center">🆗</td>
-          <td><code>:ok:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center"><g-emoji class="g-emoji" alias="parking">🅿️</g-emoji></td>
-          <td><code>:parking:</code></td>
-          <td align="center">🆘</td>
-          <td><code>:sos:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🆙</td>
-          <td><code>:up:</code></td>
-          <td align="center">🆚</td>
-          <td><code>:vs:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈁</td>
-          <td><code>:koko:</code></td>
-          <td align="center">🈂️</td>
-          <td><code>:sa:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈷️</td>
-          <td><code>:u6708:</code></td>
-          <td align="center">🈶</td>
-          <td><code>:u6709:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈯</td>
-          <td><code>:u6307:</code></td>
-          <td align="center">🉐</td>
-          <td><code>:ideograph_advantage:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈹</td>
-          <td><code>:u5272:</code></td>
-          <td align="center">🈚</td>
-          <td><code>:u7121:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈲</td>
-          <td><code>:u7981:</code></td>
-          <td align="center">🉑</td>
-          <td><code>:accept:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈸</td>
-          <td><code>:u7533:</code></td>
-          <td align="center">🈴</td>
-          <td><code>:u5408:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈳</td>
-          <td><code>:u7a7a:</code></td>
-          <td align="center">㊗️</td>
-          <td><code>:congratulations:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">㊙️</td>
-          <td><code>:secret:</code></td>
-          <td align="center">🈺</td>
-          <td><code>:u55b6:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🈵</td>
-          <td><code>:u6e80:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Geometric</h4><a id="geometric" class="anchor"
-      aria-label="Permalink: Geometric" href="#geometric"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔴</td>
-          <td><code>:red_circle:</code></td>
-          <td align="center">🟠</td>
-          <td><code>:orange_circle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🟡</td>
-          <td><code>:yellow_circle:</code></td>
-          <td align="center">🟢</td>
-          <td><code>:green_circle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔵</td>
-          <td><code>:large_blue_circle:</code></td>
-          <td align="center">🟣</td>
-          <td><code>:purple_circle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🟤</td>
-          <td><code>:brown_circle:</code></td>
-          <td align="center">⚫</td>
-          <td><code>:black_circle:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⚪</td>
-          <td><code>:white_circle:</code></td>
-          <td align="center">🟥</td>
-          <td><code>:red_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🟧</td>
-          <td><code>:orange_square:</code></td>
-          <td align="center">🟨</td>
-          <td><code>:yellow_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🟩</td>
-          <td><code>:green_square:</code></td>
-          <td align="center">🟦</td>
-          <td><code>:blue_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🟪</td>
-          <td><code>:purple_square:</code></td>
-          <td align="center">🟫</td>
-          <td><code>:brown_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">⬛</td>
-          <td><code>:black_large_square:</code></td>
-          <td align="center">⬜</td>
-          <td><code>:white_large_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">◼️</td>
-          <td><code>:black_medium_square:</code></td>
-          <td align="center">◻️</td>
-          <td><code>:white_medium_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">◾</td>
-          <td><code>:black_medium_small_square:</code></td>
-          <td align="center">◽</td>
-          <td><code>:white_medium_small_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">▪️</td>
-          <td><code>:black_small_square:</code></td>
-          <td align="center">▫️</td>
-          <td><code>:white_small_square:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔶</td>
-          <td><code>:large_orange_diamond:</code></td>
-          <td align="center">🔷</td>
-          <td><code>:large_blue_diamond:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔸</td>
-          <td><code>:small_orange_diamond:</code></td>
-          <td align="center">🔹</td>
-          <td><code>:small_blue_diamond:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔺</td>
-          <td><code>:small_red_triangle:</code></td>
-          <td align="center">🔻</td>
-          <td><code>:small_red_triangle_down:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">💠</td>
-          <td><code>:diamond_shape_with_a_dot_inside:</code></td>
-          <td align="center">🔘</td>
-          <td><code>:radio_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#symbols">top</a></td>
-          <td align="center">🔳</td>
-          <td><code>:white_square_button:</code></td>
-          <td align="center">🔲</td>
-          <td><code>:black_square_button:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Flags</h3><a id="flags" class="anchor"
-      aria-label="Permalink: Flags" href="#flags"></a>
-  </div>
-  <ul dir="auto">
-    <li><a href="#flag">Flag</a></li>
-    <li><a href="#country-flag">Country Flag</a></li>
-    <li><a href="#subdivision-flag">Subdivision Flag</a></li>
-  </ul>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Flag</h4><a id="flag" class="anchor"
-      aria-label="Permalink: Flag" href="#flag"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🏁</td>
-          <td><code>:checkered_flag:</code></td>
-          <td align="center">🚩</td>
-          <td><code>:triangular_flag_on_post:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🎌</td>
-          <td><code>:crossed_flags:</code></td>
-          <td align="center">🏴</td>
-          <td><code>:black_flag:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🏳️</td>
-          <td><code>:white_flag:</code></td>
-          <td align="center">🏳️‍🌈</td>
-          <td><code>:rainbow_flag:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🏳️‍⚧️</td>
-          <td><code>:transgender_flag:</code></td>
-          <td align="center">🏴‍☠️</td>
-          <td><code>:pirate_flag:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Country Flag</h4><a id="country-flag"
-      class="anchor" aria-label="Permalink: Country Flag" href="#country-flag"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇨</td>
-          <td><code>:ascension_island:</code></td>
-          <td align="center">🇦🇩</td>
-          <td><code>:andorra:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇪</td>
-          <td><code>:united_arab_emirates:</code></td>
-          <td align="center">🇦🇫</td>
-          <td><code>:afghanistan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇬</td>
-          <td><code>:antigua_barbuda:</code></td>
-          <td align="center">🇦🇮</td>
-          <td><code>:anguilla:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇱</td>
-          <td><code>:albania:</code></td>
-          <td align="center">🇦🇲</td>
-          <td><code>:armenia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇴</td>
-          <td><code>:angola:</code></td>
-          <td align="center">🇦🇶</td>
-          <td><code>:antarctica:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇷</td>
-          <td><code>:argentina:</code></td>
-          <td align="center">🇦🇸</td>
-          <td><code>:american_samoa:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇹</td>
-          <td><code>:austria:</code></td>
-          <td align="center">🇦🇺</td>
-          <td><code>:australia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇼</td>
-          <td><code>:aruba:</code></td>
-          <td align="center">🇦🇽</td>
-          <td><code>:aland_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇦🇿</td>
-          <td><code>:azerbaijan:</code></td>
-          <td align="center">🇧🇦</td>
-          <td><code>:bosnia_herzegovina:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇧</td>
-          <td><code>:barbados:</code></td>
-          <td align="center">🇧🇩</td>
-          <td><code>:bangladesh:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇪</td>
-          <td><code>:belgium:</code></td>
-          <td align="center">🇧🇫</td>
-          <td><code>:burkina_faso:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇬</td>
-          <td><code>:bulgaria:</code></td>
-          <td align="center">🇧🇭</td>
-          <td><code>:bahrain:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇮</td>
-          <td><code>:burundi:</code></td>
-          <td align="center">🇧🇯</td>
-          <td><code>:benin:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇱</td>
-          <td><code>:st_barthelemy:</code></td>
-          <td align="center">🇧🇲</td>
-          <td><code>:bermuda:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇳</td>
-          <td><code>:brunei:</code></td>
-          <td align="center">🇧🇴</td>
-          <td><code>:bolivia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇶</td>
-          <td><code>:caribbean_netherlands:</code></td>
-          <td align="center">🇧🇷</td>
-          <td><code>:brazil:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇸</td>
-          <td><code>:bahamas:</code></td>
-          <td align="center">🇧🇹</td>
-          <td><code>:bhutan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇻</td>
-          <td><code>:bouvet_island:</code></td>
-          <td align="center">🇧🇼</td>
-          <td><code>:botswana:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇧🇾</td>
-          <td><code>:belarus:</code></td>
-          <td align="center">🇧🇿</td>
-          <td><code>:belize:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇦</td>
-          <td><code>:canada:</code></td>
-          <td align="center">🇨🇨</td>
-          <td><code>:cocos_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇩</td>
-          <td><code>:congo_kinshasa:</code></td>
-          <td align="center">🇨🇫</td>
-          <td><code>:central_african_republic:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇬</td>
-          <td><code>:congo_brazzaville:</code></td>
-          <td align="center">🇨🇭</td>
-          <td><code>:switzerland:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇮</td>
-          <td><code>:cote_divoire:</code></td>
-          <td align="center">🇨🇰</td>
-          <td><code>:cook_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇱</td>
-          <td><code>:chile:</code></td>
-          <td align="center">🇨🇲</td>
-          <td><code>:cameroon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇳</td>
-          <td><code>:cn:</code></td>
-          <td align="center">🇨🇴</td>
-          <td><code>:colombia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇵</td>
-          <td><code>:clipperton_island:</code></td>
-          <td align="center">🇨🇷</td>
-          <td><code>:costa_rica:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇺</td>
-          <td><code>:cuba:</code></td>
-          <td align="center">🇨🇻</td>
-          <td><code>:cape_verde:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇼</td>
-          <td><code>:curacao:</code></td>
-          <td align="center">🇨🇽</td>
-          <td><code>:christmas_island:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇨🇾</td>
-          <td><code>:cyprus:</code></td>
-          <td align="center">🇨🇿</td>
-          <td><code>:czech_republic:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇩🇪</td>
-          <td><code>:de:</code></td>
-          <td align="center">🇩🇬</td>
-          <td><code>:diego_garcia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇩🇯</td>
-          <td><code>:djibouti:</code></td>
-          <td align="center">🇩🇰</td>
-          <td><code>:denmark:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇩🇲</td>
-          <td><code>:dominica:</code></td>
-          <td align="center">🇩🇴</td>
-          <td><code>:dominican_republic:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇩🇿</td>
-          <td><code>:algeria:</code></td>
-          <td align="center">🇪🇦</td>
-          <td><code>:ceuta_melilla:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇪🇨</td>
-          <td><code>:ecuador:</code></td>
-          <td align="center">🇪🇪</td>
-          <td><code>:estonia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇪🇬</td>
-          <td><code>:egypt:</code></td>
-          <td align="center">🇪🇭</td>
-          <td><code>:western_sahara:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇪🇷</td>
-          <td><code>:eritrea:</code></td>
-          <td align="center">🇪🇸</td>
-          <td><code>:es:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇪🇹</td>
-          <td><code>:ethiopia:</code></td>
-          <td align="center">🇪🇺</td>
-          <td><code>:eu:</code> <br> <code>:european_union:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇫🇮</td>
-          <td><code>:finland:</code></td>
-          <td align="center">🇫🇯</td>
-          <td><code>:fiji:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇫🇰</td>
-          <td><code>:falkland_islands:</code></td>
-          <td align="center">🇫🇲</td>
-          <td><code>:micronesia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇫🇴</td>
-          <td><code>:faroe_islands:</code></td>
-          <td align="center">🇫🇷</td>
-          <td><code>:fr:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇦</td>
-          <td><code>:gabon:</code></td>
-          <td align="center">🇬🇧</td>
-          <td><code>:gb:</code> <br> <code>:uk:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇩</td>
-          <td><code>:grenada:</code></td>
-          <td align="center">🇬🇪</td>
-          <td><code>:georgia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇫</td>
-          <td><code>:french_guiana:</code></td>
-          <td align="center">🇬🇬</td>
-          <td><code>:guernsey:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇭</td>
-          <td><code>:ghana:</code></td>
-          <td align="center">🇬🇮</td>
-          <td><code>:gibraltar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇱</td>
-          <td><code>:greenland:</code></td>
-          <td align="center">🇬🇲</td>
-          <td><code>:gambia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇳</td>
-          <td><code>:guinea:</code></td>
-          <td align="center">🇬🇵</td>
-          <td><code>:guadeloupe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇶</td>
-          <td><code>:equatorial_guinea:</code></td>
-          <td align="center">🇬🇷</td>
-          <td><code>:greece:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇸</td>
-          <td><code>:south_georgia_south_sandwich_islands:</code></td>
-          <td align="center">🇬🇹</td>
-          <td><code>:guatemala:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇺</td>
-          <td><code>:guam:</code></td>
-          <td align="center">🇬🇼</td>
-          <td><code>:guinea_bissau:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇬🇾</td>
-          <td><code>:guyana:</code></td>
-          <td align="center">🇭🇰</td>
-          <td><code>:hong_kong:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇭🇲</td>
-          <td><code>:heard_mcdonald_islands:</code></td>
-          <td align="center">🇭🇳</td>
-          <td><code>:honduras:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇭🇷</td>
-          <td><code>:croatia:</code></td>
-          <td align="center">🇭🇹</td>
-          <td><code>:haiti:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇭🇺</td>
-          <td><code>:hungary:</code></td>
-          <td align="center">🇮🇨</td>
-          <td><code>:canary_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇮🇩</td>
-          <td><code>:indonesia:</code></td>
-          <td align="center">🇮🇪</td>
-          <td><code>:ireland:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇮🇱</td>
-          <td><code>:israel:</code></td>
-          <td align="center">🇮🇲</td>
-          <td><code>:isle_of_man:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇮🇳</td>
-          <td><code>:india:</code></td>
-          <td align="center">🇮🇴</td>
-          <td><code>:british_indian_ocean_territory:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇮🇶</td>
-          <td><code>:iraq:</code></td>
-          <td align="center">🇮🇷</td>
-          <td><code>:iran:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇮🇸</td>
-          <td><code>:iceland:</code></td>
-          <td align="center">🇮🇹</td>
-          <td><code>:it:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇯🇪</td>
-          <td><code>:jersey:</code></td>
-          <td align="center">🇯🇲</td>
-          <td><code>:jamaica:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇯🇴</td>
-          <td><code>:jordan:</code></td>
-          <td align="center">🇯🇵</td>
-          <td><code>:jp:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇪</td>
-          <td><code>:kenya:</code></td>
-          <td align="center">🇰🇬</td>
-          <td><code>:kyrgyzstan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇭</td>
-          <td><code>:cambodia:</code></td>
-          <td align="center">🇰🇮</td>
-          <td><code>:kiribati:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇲</td>
-          <td><code>:comoros:</code></td>
-          <td align="center">🇰🇳</td>
-          <td><code>:st_kitts_nevis:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇵</td>
-          <td><code>:north_korea:</code></td>
-          <td align="center">🇰🇷</td>
-          <td><code>:kr:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇼</td>
-          <td><code>:kuwait:</code></td>
-          <td align="center">🇰🇾</td>
-          <td><code>:cayman_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇰🇿</td>
-          <td><code>:kazakhstan:</code></td>
-          <td align="center">🇱🇦</td>
-          <td><code>:laos:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇱🇧</td>
-          <td><code>:lebanon:</code></td>
-          <td align="center">🇱🇨</td>
-          <td><code>:st_lucia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇱🇮</td>
-          <td><code>:liechtenstein:</code></td>
-          <td align="center">🇱🇰</td>
-          <td><code>:sri_lanka:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇱🇷</td>
-          <td><code>:liberia:</code></td>
-          <td align="center">🇱🇸</td>
-          <td><code>:lesotho:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇱🇹</td>
-          <td><code>:lithuania:</code></td>
-          <td align="center">🇱🇺</td>
-          <td><code>:luxembourg:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇱🇻</td>
-          <td><code>:latvia:</code></td>
-          <td align="center">🇱🇾</td>
-          <td><code>:libya:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇦</td>
-          <td><code>:morocco:</code></td>
-          <td align="center">🇲🇨</td>
-          <td><code>:monaco:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇩</td>
-          <td><code>:moldova:</code></td>
-          <td align="center">🇲🇪</td>
-          <td><code>:montenegro:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇫</td>
-          <td><code>:st_martin:</code></td>
-          <td align="center">🇲🇬</td>
-          <td><code>:madagascar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇭</td>
-          <td><code>:marshall_islands:</code></td>
-          <td align="center">🇲🇰</td>
-          <td><code>:macedonia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇱</td>
-          <td><code>:mali:</code></td>
-          <td align="center">🇲🇲</td>
-          <td><code>:myanmar:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇳</td>
-          <td><code>:mongolia:</code></td>
-          <td align="center">🇲🇴</td>
-          <td><code>:macau:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇵</td>
-          <td><code>:northern_mariana_islands:</code></td>
-          <td align="center">🇲🇶</td>
-          <td><code>:martinique:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇷</td>
-          <td><code>:mauritania:</code></td>
-          <td align="center">🇲🇸</td>
-          <td><code>:montserrat:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇹</td>
-          <td><code>:malta:</code></td>
-          <td align="center">🇲🇺</td>
-          <td><code>:mauritius:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇻</td>
-          <td><code>:maldives:</code></td>
-          <td align="center">🇲🇼</td>
-          <td><code>:malawi:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇽</td>
-          <td><code>:mexico:</code></td>
-          <td align="center">🇲🇾</td>
-          <td><code>:malaysia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇲🇿</td>
-          <td><code>:mozambique:</code></td>
-          <td align="center">🇳🇦</td>
-          <td><code>:namibia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇨</td>
-          <td><code>:new_caledonia:</code></td>
-          <td align="center">🇳🇪</td>
-          <td><code>:niger:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇫</td>
-          <td><code>:norfolk_island:</code></td>
-          <td align="center">🇳🇬</td>
-          <td><code>:nigeria:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇮</td>
-          <td><code>:nicaragua:</code></td>
-          <td align="center">🇳🇱</td>
-          <td><code>:netherlands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇴</td>
-          <td><code>:norway:</code></td>
-          <td align="center">🇳🇵</td>
-          <td><code>:nepal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇷</td>
-          <td><code>:nauru:</code></td>
-          <td align="center">🇳🇺</td>
-          <td><code>:niue:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇳🇿</td>
-          <td><code>:new_zealand:</code></td>
-          <td align="center">🇴🇲</td>
-          <td><code>:oman:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇦</td>
-          <td><code>:panama:</code></td>
-          <td align="center">🇵🇪</td>
-          <td><code>:peru:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇫</td>
-          <td><code>:french_polynesia:</code></td>
-          <td align="center">🇵🇬</td>
-          <td><code>:papua_new_guinea:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇭</td>
-          <td><code>:philippines:</code></td>
-          <td align="center">🇵🇰</td>
-          <td><code>:pakistan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇱</td>
-          <td><code>:poland:</code></td>
-          <td align="center">🇵🇲</td>
-          <td><code>:st_pierre_miquelon:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇳</td>
-          <td><code>:pitcairn_islands:</code></td>
-          <td align="center">🇵🇷</td>
-          <td><code>:puerto_rico:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇸</td>
-          <td><code>:palestinian_territories:</code></td>
-          <td align="center">🇵🇹</td>
-          <td><code>:portugal:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇵🇼</td>
-          <td><code>:palau:</code></td>
-          <td align="center">🇵🇾</td>
-          <td><code>:paraguay:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇶🇦</td>
-          <td><code>:qatar:</code></td>
-          <td align="center">🇷🇪</td>
-          <td><code>:reunion:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇷🇴</td>
-          <td><code>:romania:</code></td>
-          <td align="center">🇷🇸</td>
-          <td><code>:serbia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇷🇺</td>
-          <td><code>:ru:</code></td>
-          <td align="center">🇷🇼</td>
-          <td><code>:rwanda:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇦</td>
-          <td><code>:saudi_arabia:</code></td>
-          <td align="center">🇸🇧</td>
-          <td><code>:solomon_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇨</td>
-          <td><code>:seychelles:</code></td>
-          <td align="center">🇸🇩</td>
-          <td><code>:sudan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇪</td>
-          <td><code>:sweden:</code></td>
-          <td align="center">🇸🇬</td>
-          <td><code>:singapore:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇭</td>
-          <td><code>:st_helena:</code></td>
-          <td align="center">🇸🇮</td>
-          <td><code>:slovenia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇯</td>
-          <td><code>:svalbard_jan_mayen:</code></td>
-          <td align="center">🇸🇰</td>
-          <td><code>:slovakia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇱</td>
-          <td><code>:sierra_leone:</code></td>
-          <td align="center">🇸🇲</td>
-          <td><code>:san_marino:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇳</td>
-          <td><code>:senegal:</code></td>
-          <td align="center">🇸🇴</td>
-          <td><code>:somalia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇷</td>
-          <td><code>:suriname:</code></td>
-          <td align="center">🇸🇸</td>
-          <td><code>:south_sudan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇹</td>
-          <td><code>:sao_tome_principe:</code></td>
-          <td align="center">🇸🇻</td>
-          <td><code>:el_salvador:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇽</td>
-          <td><code>:sint_maarten:</code></td>
-          <td align="center">🇸🇾</td>
-          <td><code>:syria:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇸🇿</td>
-          <td><code>:swaziland:</code></td>
-          <td align="center">🇹🇦</td>
-          <td><code>:tristan_da_cunha:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇨</td>
-          <td><code>:turks_caicos_islands:</code></td>
-          <td align="center">🇹🇩</td>
-          <td><code>:chad:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇫</td>
-          <td><code>:french_southern_territories:</code></td>
-          <td align="center">🇹🇬</td>
-          <td><code>:togo:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇭</td>
-          <td><code>:thailand:</code></td>
-          <td align="center">🇹🇯</td>
-          <td><code>:tajikistan:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇰</td>
-          <td><code>:tokelau:</code></td>
-          <td align="center">🇹🇱</td>
-          <td><code>:timor_leste:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇲</td>
-          <td><code>:turkmenistan:</code></td>
-          <td align="center">🇹🇳</td>
-          <td><code>:tunisia:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇴</td>
-          <td><code>:tonga:</code></td>
-          <td align="center">🇹🇷</td>
-          <td><code>:tr:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇹</td>
-          <td><code>:trinidad_tobago:</code></td>
-          <td align="center">🇹🇻</td>
-          <td><code>:tuvalu:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇹🇼</td>
-          <td><code>:taiwan:</code></td>
-          <td align="center">🇹🇿</td>
-          <td><code>:tanzania:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇺🇦</td>
-          <td><code>:ukraine:</code></td>
-          <td align="center">🇺🇬</td>
-          <td><code>:uganda:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇺🇲</td>
-          <td><code>:us_outlying_islands:</code></td>
-          <td align="center">🇺🇳</td>
-          <td><code>:united_nations:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇺🇸</td>
-          <td><code>:us:</code></td>
-          <td align="center">🇺🇾</td>
-          <td><code>:uruguay:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇺🇿</td>
-          <td><code>:uzbekistan:</code></td>
-          <td align="center">🇻🇦</td>
-          <td><code>:vatican_city:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇻🇨</td>
-          <td><code>:st_vincent_grenadines:</code></td>
-          <td align="center">🇻🇪</td>
-          <td><code>:venezuela:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇻🇬</td>
-          <td><code>:british_virgin_islands:</code></td>
-          <td align="center">🇻🇮</td>
-          <td><code>:us_virgin_islands:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇻🇳</td>
-          <td><code>:vietnam:</code></td>
-          <td align="center">🇻🇺</td>
-          <td><code>:vanuatu:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇼🇫</td>
-          <td><code>:wallis_futuna:</code></td>
-          <td align="center">🇼🇸</td>
-          <td><code>:samoa:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇽🇰</td>
-          <td><code>:kosovo:</code></td>
-          <td align="center">🇾🇪</td>
-          <td><code>:yemen:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇾🇹</td>
-          <td><code>:mayotte:</code></td>
-          <td align="center">🇿🇦</td>
-          <td><code>:south_africa:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🇿🇲</td>
-          <td><code>:zambia:</code></td>
-          <td align="center">🇿🇼</td>
-          <td><code>:zimbabwe:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Subdivision Flag</h4><a id="subdivision-flag"
-      class="anchor" aria-label="Permalink: Subdivision Flag" href="#subdivision-flag"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🏴󠁧󠁢󠁥󠁮󠁧󠁿</td>
-          <td><code>:england:</code></td>
-          <td align="center">🏴󠁧󠁢󠁳󠁣󠁴󠁿</td>
-          <td><code>:scotland:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#flags">top</a></td>
-          <td align="center">🏴󠁧󠁢󠁷󠁬󠁳󠁿</td>
-          <td><code>:wales:</code></td>
-          <td align="center"></td>
-          <td></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-  <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">GitHub Custom Emoji</h3><a
-      id="github-custom-emoji" class="anchor" aria-label="Permalink: GitHub Custom Emoji"
-      href="#github-custom-emoji"></a>
-  </div>
-  <markdown-accessiblity-table data-catalyst="">
-    <table>
-      <thead>
-        <tr>
-          <th></th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th align="center">ico</th>
-          <th>shortcode</th>
-          <th></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":accessibility:" alt=":accessibility:"
-              src="https://github.githubassets.com/images/icons/emoji/accessibility.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:accessibility:</code></td>
-          <td align="center"><img class="emoji" title=":atom:" alt=":atom:"
-              src="https://github.githubassets.com/images/icons/emoji/atom.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:atom:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":basecamp:" alt=":basecamp:"
-              src="https://github.githubassets.com/images/icons/emoji/basecamp.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:basecamp:</code></td>
-          <td align="center"><img class="emoji" title=":basecampy:" alt=":basecampy:"
-              src="https://github.githubassets.com/images/icons/emoji/basecampy.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:basecampy:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":bowtie:" alt=":bowtie:"
-              src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:bowtie:</code></td>
-          <td align="center"><img class="emoji" title=":dependabot:" alt=":dependabot:"
-              src="https://github.githubassets.com/images/icons/emoji/dependabot.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:dependabot:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":electron:" alt=":electron:"
-              src="https://github.githubassets.com/images/icons/emoji/electron.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:electron:</code></td>
-          <td align="center"><img class="emoji" title=":feelsgood:" alt=":feelsgood:"
-              src="https://github.githubassets.com/images/icons/emoji/feelsgood.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:feelsgood:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":finnadie:" alt=":finnadie:"
-              src="https://github.githubassets.com/images/icons/emoji/finnadie.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:finnadie:</code></td>
-          <td align="center"><img class="emoji" title=":fishsticks:" alt=":fishsticks:"
-              src="https://github.githubassets.com/images/icons/emoji/fishsticks.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:fishsticks:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":goberserk:" alt=":goberserk:"
-              src="https://github.githubassets.com/images/icons/emoji/goberserk.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:goberserk:</code></td>
-          <td align="center"><img class="emoji" title=":godmode:" alt=":godmode:"
-              src="https://github.githubassets.com/images/icons/emoji/godmode.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:godmode:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":hurtrealbad:" alt=":hurtrealbad:"
-              src="https://github.githubassets.com/images/icons/emoji/hurtrealbad.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:hurtrealbad:</code></td>
-          <td align="center"><img class="emoji" title=":neckbeard:" alt=":neckbeard:"
-              src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:neckbeard:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":octocat:" alt=":octocat:"
-              src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:octocat:</code></td>
-          <td align="center"><img class="emoji" title=":rage1:" alt=":rage1:"
-              src="https://github.githubassets.com/images/icons/emoji/rage1.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:rage1:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":rage2:" alt=":rage2:"
-              src="https://github.githubassets.com/images/icons/emoji/rage2.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:rage2:</code></td>
-          <td align="center"><img class="emoji" title=":rage3:" alt=":rage3:"
-              src="https://github.githubassets.com/images/icons/emoji/rage3.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:rage3:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":rage4:" alt=":rage4:"
-              src="https://github.githubassets.com/images/icons/emoji/rage4.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:rage4:</code></td>
-          <td align="center"><img class="emoji" title=":shipit:" alt=":shipit:"
-              src="https://github.githubassets.com/images/icons/emoji/shipit.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:shipit:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-        <tr>
-          <td><a href="#github-custom-emoji">top</a></td>
-          <td align="center"><img class="emoji" title=":suspect:" alt=":suspect:"
-              src="https://github.githubassets.com/images/icons/emoji/suspect.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:suspect:</code></td>
-          <td align="center"><img class="emoji" title=":trollface:" alt=":trollface:"
-              src="https://github.githubassets.com/images/icons/emoji/trollface.png" height="20" width="20"
-              align="absmiddle"></td>
-          <td><code>:trollface:</code></td>
-          <td><a href="#table-of-contents">top</a></td>
-        </tr>
-      </tbody>
-    </table>
-  </markdown-accessiblity-table>
-</article>
+# emoji-cheat-sheet
+
+> From: [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+## Table of Contents
+
+- [Smileys & Emotion](#smileys--emotion)
+- [People & Body](#people--body)
+- [Animals & Nature](#animals--nature)
+- [Food & Drink](#food--drink)
+- [Travel & Places](#travel--places)
+- [Activities](#activities)
+- [Objects](#objects)
+- [Symbols](#symbols)
+- [Flags](#flags)
+- [GitHub Custom Emoji](#github-custom-emoji)
+
+### Smileys & Emotion
+
+- [Face Smiling](#face-smiling)
+- [Face Affection](#face-affection)
+- [Face Tongue](#face-tongue)
+- [Face Hand](#face-hand)
+- [Face Neutral Skeptical](#face-neutral-skeptical)
+- [Face Sleepy](#face-sleepy)
+- [Face Unwell](#face-unwell)
+- [Face Hat](#face-hat)
+- [Face Glasses](#face-glasses)
+- [Face Concerned](#face-concerned)
+- [Face Negative](#face-negative)
+- [Face Costume](#face-costume)
+- [Cat Face](#cat-face)
+- [Monkey Face](#monkey-face)
+- [Heart](#heart)
+- [Emotion](#emotion)
+
+#### Face Smiling
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smile: | `:smile:` | :grin: | `:grin:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :laughing: | `:laughing:` <br /> `:satisfied:` | :sweat_smile: | `:sweat_smile:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :rofl: | `:rofl:` | :joy: | `:joy:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :innocent: | `:innocent:` | | | [top](#table-of-contents) |
+
+#### Face Affection
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :star_struck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :kissing: | `:kissing:` | :relaxed: | `:relaxed:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smiling_face_with_tear: | `:smiling_face_with_tear:` | | | [top](#table-of-contents) |
+
+#### Face Tongue
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :yum: | `:yum:` | :stuck_out_tongue: | `:stuck_out_tongue:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :money_mouth_face: | `:money_mouth_face:` | [top](#table-of-contents) |
+
+#### Face Hand
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` | [top](#table-of-contents) |
+
+#### Face Neutral Skeptical
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :neutral_face: | `:neutral_face:` | :expressionless: | `:expressionless:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :no_mouth: | `:no_mouth:` | :face_in_clouds: | `:face_in_clouds:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smirk: | `:smirk:` | :unamused: | `:unamused:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :roll_eyes: | `:roll_eyes:` | :grimacing: | `:grimacing:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :face_exhaling: | `:face_exhaling:` | :lying_face: | `:lying_face:` | [top](#table-of-contents) |
+
+#### Face Sleepy
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :relieved: | `:relieved:` | :pensive: | `:pensive:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :sleeping: | `:sleeping:` | | | [top](#table-of-contents) |
+
+#### Face Unwell
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :mask: | `:mask:` | :face_with_thermometer: | `:face_with_thermometer:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :face_with_head_bandage: | `:face_with_head_bandage:` | :nauseated_face: | `:nauseated_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :vomiting_face: | `:vomiting_face:` | :sneezing_face: | `:sneezing_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :hot_face: | `:hot_face:` | :cold_face: | `:cold_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :woozy_face: | `:woozy_face:` | :dizzy_face: | `:dizzy_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :face_with_spiral_eyes: | `:face_with_spiral_eyes:` | :exploding_head: | `:exploding_head:` | [top](#table-of-contents) |
+
+#### Face Hat
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :disguised_face: | `:disguised_face:` | | | [top](#table-of-contents) |
+
+#### Face Glasses
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :monocle_face: | `:monocle_face:` | | | [top](#table-of-contents) |
+
+#### Face Concerned
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :confused: | `:confused:` | :worried: | `:worried:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :open_mouth: | `:open_mouth:` | :hushed: | `:hushed:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :astonished: | `:astonished:` | :flushed: | `:flushed:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :pleading_face: | `:pleading_face:` | :frowning: | `:frowning:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :anguished: | `:anguished:` | :fearful: | `:fearful:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :cold_sweat: | `:cold_sweat:` | :disappointed_relieved: | `:disappointed_relieved:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :cry: | `:cry:` | :sob: | `:sob:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :scream: | `:scream:` | :confounded: | `:confounded:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :persevere: | `:persevere:` | :disappointed: | `:disappointed:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :sweat: | `:sweat:` | :weary: | `:weary:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :tired_face: | `:tired_face:` | :yawning_face: | `:yawning_face:` | [top](#table-of-contents) |
+
+#### Face Negative
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :triumph: | `:triumph:` | :pout: | `:pout:` <br /> `:rage:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :angry: | `:angry:` | :cursing_face: | `:cursing_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smiling_imp: | `:smiling_imp:` | :imp: | `:imp:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :skull: | `:skull:` | :skull_and_crossbones: | `:skull_and_crossbones:` | [top](#table-of-contents) |
+
+#### Face Costume
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :hankey: | `:hankey:` <br /> `:poop:` <br /> `:shit:` | :clown_face: | `:clown_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :japanese_ogre: | `:japanese_ogre:` | :japanese_goblin: | `:japanese_goblin:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :ghost: | `:ghost:` | :alien: | `:alien:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :space_invader: | `:space_invader:` | :robot: | `:robot:` | [top](#table-of-contents) |
+
+#### Cat Face
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :smiley_cat: | `:smiley_cat:` | :smile_cat: | `:smile_cat:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :joy_cat: | `:joy_cat:` | :heart_eyes_cat: | `:heart_eyes_cat:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smirk_cat: | `:smirk_cat:` | :kissing_cat: | `:kissing_cat:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :scream_cat: | `:scream_cat:` | :crying_cat_face: | `:crying_cat_face:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :pouting_cat: | `:pouting_cat:` | | | [top](#table-of-contents) |
+
+#### Monkey Face
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :speak_no_evil: | `:speak_no_evil:` | | | [top](#table-of-contents) |
+
+#### Heart
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :love_letter: | `:love_letter:` | :cupid: | `:cupid:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :gift_heart: | `:gift_heart:` | :sparkling_heart: | `:sparkling_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :heartpulse: | `:heartpulse:` | :heartbeat: | `:heartbeat:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :revolving_hearts: | `:revolving_hearts:` | :two_hearts: | `:two_hearts:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :heart_decoration: | `:heart_decoration:` | :heavy_heart_exclamation: | `:heavy_heart_exclamation:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :broken_heart: | `:broken_heart:` | :heart_on_fire: | `:heart_on_fire:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :mending_heart: | `:mending_heart:` | :heart: | `:heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :orange_heart: | `:orange_heart:` | :yellow_heart: | `:yellow_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :green_heart: | `:green_heart:` | :blue_heart: | `:blue_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :purple_heart: | `:purple_heart:` | :brown_heart: | `:brown_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :black_heart: | `:black_heart:` | :white_heart: | `:white_heart:` | [top](#table-of-contents) |
+
+#### Emotion
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :kiss: | `:kiss:` | :100: | `:100:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :anger: | `:anger:` | :boom: | `:boom:` <br /> `:collision:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :dizzy: | `:dizzy:` | :sweat_drops: | `:sweat_drops:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :dash: | `:dash:` | :hole: | `:hole:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :speech_balloon: | `:speech_balloon:` | :eye_speech_bubble: | `:eye_speech_bubble:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :left_speech_bubble: | `:left_speech_bubble:` | :right_anger_bubble: | `:right_anger_bubble:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :thought_balloon: | `:thought_balloon:` | :zzz: | `:zzz:` | [top](#table-of-contents) |
+
+### People & Body
+
+- [Hand Fingers Open](#hand-fingers-open)
+- [Hand Fingers Partial](#hand-fingers-partial)
+- [Hand Single Finger](#hand-single-finger)
+- [Hand Fingers Closed](#hand-fingers-closed)
+- [Hands](#hands)
+- [Hand Prop](#hand-prop)
+- [Body Parts](#body-parts)
+- [Person](#person)
+- [Person Gesture](#person-gesture)
+- [Person Role](#person-role)
+- [Person Fantasy](#person-fantasy)
+- [Person Activity](#person-activity)
+- [Person Sport](#person-sport)
+- [Person Resting](#person-resting)
+- [Family](#family)
+- [Person Symbol](#person-symbol)
+
+#### Hand Fingers Open
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :wave: | `:wave:` | :raised_back_of_hand: | `:raised_back_of_hand:` | [top](#table-of-contents) |
+| [top](#people--body) | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` | [top](#table-of-contents) |
+| [top](#people--body) | :vulcan_salute: | `:vulcan_salute:` | | | [top](#table-of-contents) |
+
+#### Hand Fingers Partial
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :ok_hand: | `:ok_hand:` | :pinched_fingers: | `:pinched_fingers:` | [top](#table-of-contents) |
+| [top](#people--body) | :pinching_hand: | `:pinching_hand:` | :v: | `:v:` | [top](#table-of-contents) |
+| [top](#people--body) | :crossed_fingers: | `:crossed_fingers:` | :love_you_gesture: | `:love_you_gesture:` | [top](#table-of-contents) |
+| [top](#people--body) | :metal: | `:metal:` | :call_me_hand: | `:call_me_hand:` | [top](#table-of-contents) |
+
+#### Hand Single Finger
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :point_left: | `:point_left:` | :point_right: | `:point_right:` | [top](#table-of-contents) |
+| [top](#people--body) | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` | [top](#table-of-contents) |
+| [top](#people--body) | :point_down: | `:point_down:` | :point_up: | `:point_up:` | [top](#table-of-contents) |
+
+#### Hand Fingers Closed
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` | [top](#table-of-contents) |
+| [top](#people--body) | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` | [top](#table-of-contents) |
+| [top](#people--body) | :fist_left: | `:fist_left:` | :fist_right: | `:fist_right:` | [top](#table-of-contents) |
+
+#### Hands
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :clap: | `:clap:` | :raised_hands: | `:raised_hands:` | [top](#table-of-contents) |
+| [top](#people--body) | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` | [top](#table-of-contents) |
+| [top](#people--body) | :handshake: | `:handshake:` | :pray: | `:pray:` | [top](#table-of-contents) |
+
+#### Hand Prop
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` | [top](#table-of-contents) |
+| [top](#people--body) | :selfie: | `:selfie:` | | | [top](#table-of-contents) |
+
+#### Body Parts
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :muscle: | `:muscle:` | :mechanical_arm: | `:mechanical_arm:` | [top](#table-of-contents) |
+| [top](#people--body) | :mechanical_leg: | `:mechanical_leg:` | :leg: | `:leg:` | [top](#table-of-contents) |
+| [top](#people--body) | :foot: | `:foot:` | :ear: | `:ear:` | [top](#table-of-contents) |
+| [top](#people--body) | :ear_with_hearing_aid: | `:ear_with_hearing_aid:` | :nose: | `:nose:` | [top](#table-of-contents) |
+| [top](#people--body) | :brain: | `:brain:` | :anatomical_heart: | `:anatomical_heart:` | [top](#table-of-contents) |
+| [top](#people--body) | :lungs: | `:lungs:` | :tooth: | `:tooth:` | [top](#table-of-contents) |
+| [top](#people--body) | :bone: | `:bone:` | :eyes: | `:eyes:` | [top](#table-of-contents) |
+| [top](#people--body) | :eye: | `:eye:` | :tongue: | `:tongue:` | [top](#table-of-contents) |
+| [top](#people--body) | :lips: | `:lips:` | | | [top](#table-of-contents) |
+
+#### Person
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :baby: | `:baby:` | :child: | `:child:` | [top](#table-of-contents) |
+| [top](#people--body) | :boy: | `:boy:` | :girl: | `:girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :adult: | `:adult:` | :blond_haired_person: | `:blond_haired_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :man: | `:man:` | :bearded_person: | `:bearded_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_beard: | `:man_beard:` | :woman_beard: | `:woman_beard:` | [top](#table-of-contents) |
+| [top](#people--body) | :red_haired_man: | `:red_haired_man:` | :curly_haired_man: | `:curly_haired_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :white_haired_man: | `:white_haired_man:` | :bald_man: | `:bald_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman: | `:woman:` | :red_haired_woman: | `:red_haired_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_red_hair: | `:person_red_hair:` | :curly_haired_woman: | `:curly_haired_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_curly_hair: | `:person_curly_hair:` | :white_haired_woman: | `:white_haired_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_white_hair: | `:person_white_hair:` | :bald_woman: | `:bald_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_bald: | `:person_bald:` | :blond_haired_woman: | `:blond_haired_woman:` <br /> `:blonde_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :blond_haired_man: | `:blond_haired_man:` | :older_adult: | `:older_adult:` | [top](#table-of-contents) |
+| [top](#people--body) | :older_man: | `:older_man:` | :older_woman: | `:older_woman:` | [top](#table-of-contents) |
+
+#### Person Gesture
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :frowning_person: | `:frowning_person:` | :frowning_man: | `:frowning_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :frowning_woman: | `:frowning_woman:` | :pouting_face: | `:pouting_face:` | [top](#table-of-contents) |
+| [top](#people--body) | :pouting_man: | `:pouting_man:` | :pouting_woman: | `:pouting_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :no_good: | `:no_good:` | :ng_man: | `:ng_man:` <br /> `:no_good_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :ng_woman: | `:ng_woman:` <br /> `:no_good_woman:` | :ok_person: | `:ok_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :ok_man: | `:ok_man:` | :ok_woman: | `:ok_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :information_desk_person: | `:information_desk_person:` <br /> `:tipping_hand_person:` | :sassy_man: | `:sassy_man:` <br /> `:tipping_hand_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :sassy_woman: | `:sassy_woman:` <br /> `:tipping_hand_woman:` | :raising_hand: | `:raising_hand:` | [top](#table-of-contents) |
+| [top](#people--body) | :raising_hand_man: | `:raising_hand_man:` | :raising_hand_woman: | `:raising_hand_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :deaf_person: | `:deaf_person:` | :deaf_man: | `:deaf_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :deaf_woman: | `:deaf_woman:` | :bow: | `:bow:` | [top](#table-of-contents) |
+| [top](#people--body) | :bowing_man: | `:bowing_man:` | :bowing_woman: | `:bowing_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :facepalm: | `:facepalm:` | :man_facepalming: | `:man_facepalming:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_facepalming: | `:woman_facepalming:` | :shrug: | `:shrug:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_shrugging: | `:man_shrugging:` | :woman_shrugging: | `:woman_shrugging:` | [top](#table-of-contents) |
+
+#### Person Role
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :health_worker: | `:health_worker:` | :man_health_worker: | `:man_health_worker:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_health_worker: | `:woman_health_worker:` | :student: | `:student:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_student: | `:man_student:` | :woman_student: | `:woman_student:` | [top](#table-of-contents) |
+| [top](#people--body) | :teacher: | `:teacher:` | :man_teacher: | `:man_teacher:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_teacher: | `:woman_teacher:` | :judge: | `:judge:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_judge: | `:man_judge:` | :woman_judge: | `:woman_judge:` | [top](#table-of-contents) |
+| [top](#people--body) | :farmer: | `:farmer:` | :man_farmer: | `:man_farmer:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_farmer: | `:woman_farmer:` | :cook: | `:cook:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_cook: | `:man_cook:` | :woman_cook: | `:woman_cook:` | [top](#table-of-contents) |
+| [top](#people--body) | :mechanic: | `:mechanic:` | :man_mechanic: | `:man_mechanic:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_mechanic: | `:woman_mechanic:` | :factory_worker: | `:factory_worker:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_factory_worker: | `:man_factory_worker:` | :woman_factory_worker: | `:woman_factory_worker:` | [top](#table-of-contents) |
+| [top](#people--body) | :office_worker: | `:office_worker:` | :man_office_worker: | `:man_office_worker:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_office_worker: | `:woman_office_worker:` | :scientist: | `:scientist:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_scientist: | `:man_scientist:` | :woman_scientist: | `:woman_scientist:` | [top](#table-of-contents) |
+| [top](#people--body) | :technologist: | `:technologist:` | :man_technologist: | `:man_technologist:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_technologist: | `:woman_technologist:` | :singer: | `:singer:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_singer: | `:man_singer:` | :woman_singer: | `:woman_singer:` | [top](#table-of-contents) |
+| [top](#people--body) | :artist: | `:artist:` | :man_artist: | `:man_artist:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_artist: | `:woman_artist:` | :pilot: | `:pilot:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_pilot: | `:man_pilot:` | :woman_pilot: | `:woman_pilot:` | [top](#table-of-contents) |
+| [top](#people--body) | :astronaut: | `:astronaut:` | :man_astronaut: | `:man_astronaut:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_astronaut: | `:woman_astronaut:` | :firefighter: | `:firefighter:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_firefighter: | `:man_firefighter:` | :woman_firefighter: | `:woman_firefighter:` | [top](#table-of-contents) |
+| [top](#people--body) | :cop: | `:cop:` <br /> `:police_officer:` | :policeman: | `:policeman:` | [top](#table-of-contents) |
+| [top](#people--body) | :policewoman: | `:policewoman:` | :detective: | `:detective:` | [top](#table-of-contents) |
+| [top](#people--body) | :male_detective: | `:male_detective:` | :female_detective: | `:female_detective:` | [top](#table-of-contents) |
+| [top](#people--body) | :guard: | `:guard:` | :guardsman: | `:guardsman:` | [top](#table-of-contents) |
+| [top](#people--body) | :guardswoman: | `:guardswoman:` | :ninja: | `:ninja:` | [top](#table-of-contents) |
+| [top](#people--body) | :construction_worker: | `:construction_worker:` | :construction_worker_man: | `:construction_worker_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :construction_worker_woman: | `:construction_worker_woman:` | :prince: | `:prince:` | [top](#table-of-contents) |
+| [top](#people--body) | :princess: | `:princess:` | :person_with_turban: | `:person_with_turban:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_with_turban: | `:man_with_turban:` | :woman_with_turban: | `:woman_with_turban:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_with_gua_pi_mao: | `:man_with_gua_pi_mao:` | :woman_with_headscarf: | `:woman_with_headscarf:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_in_tuxedo: | `:person_in_tuxedo:` | :man_in_tuxedo: | `:man_in_tuxedo:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_in_tuxedo: | `:woman_in_tuxedo:` | :person_with_veil: | `:person_with_veil:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_with_veil: | `:man_with_veil:` | :bride_with_veil: | `:bride_with_veil:` <br /> `:woman_with_veil:` | [top](#table-of-contents) |
+| [top](#people--body) | :pregnant_woman: | `:pregnant_woman:` | :breast_feeding: | `:breast_feeding:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_feeding_baby: | `:woman_feeding_baby:` | :man_feeding_baby: | `:man_feeding_baby:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_feeding_baby: | `:person_feeding_baby:` | | | [top](#table-of-contents) |
+
+#### Person Fantasy
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :angel: | `:angel:` | :santa: | `:santa:` | [top](#table-of-contents) |
+| [top](#people--body) | :mrs_claus: | `:mrs_claus:` | :mx_claus: | `:mx_claus:` | [top](#table-of-contents) |
+| [top](#people--body) | :superhero: | `:superhero:` | :superhero_man: | `:superhero_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :superhero_woman: | `:superhero_woman:` | :supervillain: | `:supervillain:` | [top](#table-of-contents) |
+| [top](#people--body) | :supervillain_man: | `:supervillain_man:` | :supervillain_woman: | `:supervillain_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :mage: | `:mage:` | :mage_man: | `:mage_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :mage_woman: | `:mage_woman:` | :fairy: | `:fairy:` | [top](#table-of-contents) |
+| [top](#people--body) | :fairy_man: | `:fairy_man:` | :fairy_woman: | `:fairy_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :vampire: | `:vampire:` | :vampire_man: | `:vampire_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :vampire_woman: | `:vampire_woman:` | :merperson: | `:merperson:` | [top](#table-of-contents) |
+| [top](#people--body) | :merman: | `:merman:` | :mermaid: | `:mermaid:` | [top](#table-of-contents) |
+| [top](#people--body) | :elf: | `:elf:` | :elf_man: | `:elf_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :elf_woman: | `:elf_woman:` | :genie: | `:genie:` | [top](#table-of-contents) |
+| [top](#people--body) | :genie_man: | `:genie_man:` | :genie_woman: | `:genie_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :zombie: | `:zombie:` | :zombie_man: | `:zombie_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :zombie_woman: | `:zombie_woman:` | | | [top](#table-of-contents) |
+
+#### Person Activity
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :massage: | `:massage:` | :massage_man: | `:massage_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :massage_woman: | `:massage_woman:` | :haircut: | `:haircut:` | [top](#table-of-contents) |
+| [top](#people--body) | :haircut_man: | `:haircut_man:` | :haircut_woman: | `:haircut_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :walking: | `:walking:` | :walking_man: | `:walking_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :walking_woman: | `:walking_woman:` | :standing_person: | `:standing_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :standing_man: | `:standing_man:` | :standing_woman: | `:standing_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :kneeling_person: | `:kneeling_person:` | :kneeling_man: | `:kneeling_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :kneeling_woman: | `:kneeling_woman:` | :person_with_probing_cane: | `:person_with_probing_cane:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_with_probing_cane: | `:man_with_probing_cane:` | :woman_with_probing_cane: | `:woman_with_probing_cane:` | [top](#table-of-contents) |
+| [top](#people--body) | :person_in_motorized_wheelchair: | `:person_in_motorized_wheelchair:` | :man_in_motorized_wheelchair: | `:man_in_motorized_wheelchair:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_in_motorized_wheelchair: | `:woman_in_motorized_wheelchair:` | :person_in_manual_wheelchair: | `:person_in_manual_wheelchair:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_in_manual_wheelchair: | `:man_in_manual_wheelchair:` | :woman_in_manual_wheelchair: | `:woman_in_manual_wheelchair:` | [top](#table-of-contents) |
+| [top](#people--body) | :runner: | `:runner:` <br /> `:running:` | :running_man: | `:running_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :running_woman: | `:running_woman:` | :dancer: | `:dancer:` <br /> `:woman_dancing:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_dancing: | `:man_dancing:` | :business_suit_levitating: | `:business_suit_levitating:` | [top](#table-of-contents) |
+| [top](#people--body) | :dancers: | `:dancers:` | :dancing_men: | `:dancing_men:` | [top](#table-of-contents) |
+| [top](#people--body) | :dancing_women: | `:dancing_women:` | :sauna_person: | `:sauna_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :sauna_man: | `:sauna_man:` | :sauna_woman: | `:sauna_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :climbing: | `:climbing:` | :climbing_man: | `:climbing_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :climbing_woman: | `:climbing_woman:` | | | [top](#table-of-contents) |
+
+#### Person Sport
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :person_fencing: | `:person_fencing:` | :horse_racing: | `:horse_racing:` | [top](#table-of-contents) |
+| [top](#people--body) | :skier: | `:skier:` | :snowboarder: | `:snowboarder:` | [top](#table-of-contents) |
+| [top](#people--body) | :golfing: | `:golfing:` | :golfing_man: | `:golfing_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :golfing_woman: | `:golfing_woman:` | :surfer: | `:surfer:` | [top](#table-of-contents) |
+| [top](#people--body) | :surfing_man: | `:surfing_man:` | :surfing_woman: | `:surfing_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :rowboat: | `:rowboat:` | :rowing_man: | `:rowing_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :rowing_woman: | `:rowing_woman:` | :swimmer: | `:swimmer:` | [top](#table-of-contents) |
+| [top](#people--body) | :swimming_man: | `:swimming_man:` | :swimming_woman: | `:swimming_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :bouncing_ball_person: | `:bouncing_ball_person:` | :basketball_man: | `:basketball_man:` <br /> `:bouncing_ball_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :basketball_woman: | `:basketball_woman:` <br /> `:bouncing_ball_woman:` | :weight_lifting: | `:weight_lifting:` | [top](#table-of-contents) |
+| [top](#people--body) | :weight_lifting_man: | `:weight_lifting_man:` | :weight_lifting_woman: | `:weight_lifting_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :bicyclist: | `:bicyclist:` | :biking_man: | `:biking_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :biking_woman: | `:biking_woman:` | :mountain_bicyclist: | `:mountain_bicyclist:` | [top](#table-of-contents) |
+| [top](#people--body) | :mountain_biking_man: | `:mountain_biking_man:` | :mountain_biking_woman: | `:mountain_biking_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :cartwheeling: | `:cartwheeling:` | :man_cartwheeling: | `:man_cartwheeling:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_cartwheeling: | `:woman_cartwheeling:` | :wrestling: | `:wrestling:` | [top](#table-of-contents) |
+| [top](#people--body) | :men_wrestling: | `:men_wrestling:` | :women_wrestling: | `:women_wrestling:` | [top](#table-of-contents) |
+| [top](#people--body) | :water_polo: | `:water_polo:` | :man_playing_water_polo: | `:man_playing_water_polo:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_playing_water_polo: | `:woman_playing_water_polo:` | :handball_person: | `:handball_person:` | [top](#table-of-contents) |
+| [top](#people--body) | :man_playing_handball: | `:man_playing_handball:` | :woman_playing_handball: | `:woman_playing_handball:` | [top](#table-of-contents) |
+| [top](#people--body) | :juggling_person: | `:juggling_person:` | :man_juggling: | `:man_juggling:` | [top](#table-of-contents) |
+| [top](#people--body) | :woman_juggling: | `:woman_juggling:` | | | [top](#table-of-contents) |
+
+#### Person Resting
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :lotus_position: | `:lotus_position:` | :lotus_position_man: | `:lotus_position_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :lotus_position_woman: | `:lotus_position_woman:` | :bath: | `:bath:` | [top](#table-of-contents) |
+| [top](#people--body) | :sleeping_bed: | `:sleeping_bed:` | | | [top](#table-of-contents) |
+
+#### Family
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :people_holding_hands: | `:people_holding_hands:` | :two_women_holding_hands: | `:two_women_holding_hands:` | [top](#table-of-contents) |
+| [top](#people--body) | :couple: | `:couple:` | :two_men_holding_hands: | `:two_men_holding_hands:` | [top](#table-of-contents) |
+| [top](#people--body) | :couplekiss: | `:couplekiss:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :couple_with_heart: | `:couple_with_heart:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | [top](#table-of-contents) |
+| [top](#people--body) | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_boy: | `:family_man_woman_boy:` | :family_man_woman_girl: | `:family_man_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` | :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` | :family_man_man_boy: | `:family_man_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_girl: | `:family_man_man_girl:` | :family_man_man_girl_boy: | `:family_man_man_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_boy_boy: | `:family_man_man_boy_boy:` | :family_man_man_girl_girl: | `:family_man_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_boy: | `:family_woman_woman_boy:` | :family_woman_woman_girl: | `:family_woman_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` | :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` | :family_man_boy: | `:family_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_boy_boy: | `:family_man_boy_boy:` | :family_man_girl: | `:family_man_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_girl_boy: | `:family_man_girl_boy:` | :family_man_girl_girl: | `:family_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_boy: | `:family_woman_boy:` | :family_woman_boy_boy: | `:family_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl: | `:family_woman_girl:` | :family_woman_girl_boy: | `:family_woman_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl_girl: | `:family_woman_girl_girl:` | | | [top](#table-of-contents) |
+
+#### Person Symbol
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` | [top](#table-of-contents) |
+| [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` | [top](#table-of-contents) |
+| [top](#people--body) | :family: | `:family:` | :footprints: | `:footprints:` | [top](#table-of-contents) |
+
+### Animals & Nature
+
+- [Animal Mammal](#animal-mammal)
+- [Animal Bird](#animal-bird)
+- [Animal Amphibian](#animal-amphibian)
+- [Animal Reptile](#animal-reptile)
+- [Animal Marine](#animal-marine)
+- [Animal Bug](#animal-bug)
+- [Plant Flower](#plant-flower)
+- [Plant Other](#plant-other)
+
+#### Animal Mammal
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :monkey_face: | `:monkey_face:` | :monkey: | `:monkey:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :gorilla: | `:gorilla:` | :orangutan: | `:orangutan:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dog: | `:dog:` | :dog2: | `:dog2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :guide_dog: | `:guide_dog:` | :service_dog: | `:service_dog:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :poodle: | `:poodle:` | :wolf: | `:wolf:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :fox_face: | `:fox_face:` | :raccoon: | `:raccoon:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cat: | `:cat:` | :cat2: | `:cat2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :black_cat: | `:black_cat:` | :lion: | `:lion:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :tiger: | `:tiger:` | :tiger2: | `:tiger2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :leopard: | `:leopard:` | :horse: | `:horse:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :racehorse: | `:racehorse:` | :unicorn: | `:unicorn:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :zebra: | `:zebra:` | :deer: | `:deer:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bison: | `:bison:` | :cow: | `:cow:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :ox: | `:ox:` | :water_buffalo: | `:water_buffalo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cow2: | `:cow2:` | :pig: | `:pig:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :pig2: | `:pig2:` | :boar: | `:boar:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :pig_nose: | `:pig_nose:` | :ram: | `:ram:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :sheep: | `:sheep:` | :goat: | `:goat:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dromedary_camel: | `:dromedary_camel:` | :camel: | `:camel:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :llama: | `:llama:` | :giraffe: | `:giraffe:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :elephant: | `:elephant:` | :mammoth: | `:mammoth:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rhinoceros: | `:rhinoceros:` | :hippopotamus: | `:hippopotamus:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :mouse: | `:mouse:` | :mouse2: | `:mouse2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rat: | `:rat:` | :hamster: | `:hamster:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rabbit: | `:rabbit:` | :rabbit2: | `:rabbit2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :chipmunk: | `:chipmunk:` | :beaver: | `:beaver:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hedgehog: | `:hedgehog:` | :bat: | `:bat:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bear: | `:bear:` | :polar_bear: | `:polar_bear:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :koala: | `:koala:` | :panda_face: | `:panda_face:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :sloth: | `:sloth:` | :otter: | `:otter:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :skunk: | `:skunk:` | :kangaroo: | `:kangaroo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :badger: | `:badger:` | :feet: | `:feet:` <br /> `:paw_prints:` | [top](#table-of-contents) |
+
+#### Animal Bird
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :turkey: | `:turkey:` | :chicken: | `:chicken:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rooster: | `:rooster:` | :hatching_chick: | `:hatching_chick:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :baby_chick: | `:baby_chick:` | :hatched_chick: | `:hatched_chick:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bird: | `:bird:` | :penguin: | `:penguin:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dove: | `:dove:` | :eagle: | `:eagle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :duck: | `:duck:` | :swan: | `:swan:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :owl: | `:owl:` | :dodo: | `:dodo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :feather: | `:feather:` | :flamingo: | `:flamingo:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :peacock: | `:peacock:` | :parrot: | `:parrot:` | [top](#table-of-contents) |
+
+#### Animal Amphibian
+
+| | ico | shortcode | |
+| - | :-: | - | - |
+| [top](#animals--nature) | :frog: | `:frog:` | [top](#table-of-contents) |
+
+#### Animal Reptile
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :crocodile: | `:crocodile:` | :turtle: | `:turtle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :lizard: | `:lizard:` | :snake: | `:snake:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :sauropod: | `:sauropod:` | :t-rex: | `:t-rex:` | [top](#table-of-contents) |
+
+#### Animal Marine
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :whale: | `:whale:` | :whale2: | `:whale2:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :dolphin: | `:dolphin:` <br /> `:flipper:` | :seal: | `:seal:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :fish: | `:fish:` | :tropical_fish: | `:tropical_fish:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :blowfish: | `:blowfish:` | :shark: | `:shark:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :octopus: | `:octopus:` | :shell: | `:shell:` | [top](#table-of-contents) |
+
+#### Animal Bug
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :snail: | `:snail:` | :butterfly: | `:butterfly:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bug: | `:bug:` | :ant: | `:ant:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bee: | `:bee:` <br /> `:honeybee:` | :beetle: | `:beetle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :lady_beetle: | `:lady_beetle:` | :cricket: | `:cricket:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :cockroach: | `:cockroach:` | :spider: | `:spider:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :spider_web: | `:spider_web:` | :scorpion: | `:scorpion:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :mosquito: | `:mosquito:` | :fly: | `:fly:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :worm: | `:worm:` | :microbe: | `:microbe:` | [top](#table-of-contents) |
+
+#### Plant Flower
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :bouquet: | `:bouquet:` | :cherry_blossom: | `:cherry_blossom:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :white_flower: | `:white_flower:` | :rosette: | `:rosette:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :rose: | `:rose:` | :wilted_flower: | `:wilted_flower:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :hibiscus: | `:hibiscus:` | :sunflower: | `:sunflower:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :blossom: | `:blossom:` | :tulip: | `:tulip:` | [top](#table-of-contents) |
+
+#### Plant Other
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#animals--nature) | :seedling: | `:seedling:` | :potted_plant: | `:potted_plant:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :evergreen_tree: | `:evergreen_tree:` | :deciduous_tree: | `:deciduous_tree:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :palm_tree: | `:palm_tree:` | :cactus: | `:cactus:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :ear_of_rice: | `:ear_of_rice:` | :herb: | `:herb:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :shamrock: | `:shamrock:` | :four_leaf_clover: | `:four_leaf_clover:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :maple_leaf: | `:maple_leaf:` | :fallen_leaf: | `:fallen_leaf:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :leaves: | `:leaves:` | :mushroom: | `:mushroom:` | [top](#table-of-contents) |
+
+### Food & Drink
+
+- [Food Fruit](#food-fruit)
+- [Food Vegetable](#food-vegetable)
+- [Food Prepared](#food-prepared)
+- [Food Asian](#food-asian)
+- [Food Marine](#food-marine)
+- [Food Sweet](#food-sweet)
+- [Drink](#drink)
+- [Dishware](#dishware)
+
+#### Food Fruit
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :grapes: | `:grapes:` | :melon: | `:melon:` | [top](#table-of-contents) |
+| [top](#food--drink) | :watermelon: | `:watermelon:` | :mandarin: | `:mandarin:` <br /> `:orange:` <br /> `:tangerine:` | [top](#table-of-contents) |
+| [top](#food--drink) | :lemon: | `:lemon:` | :banana: | `:banana:` | [top](#table-of-contents) |
+| [top](#food--drink) | :pineapple: | `:pineapple:` | :mango: | `:mango:` | [top](#table-of-contents) |
+| [top](#food--drink) | :apple: | `:apple:` | :green_apple: | `:green_apple:` | [top](#table-of-contents) |
+| [top](#food--drink) | :pear: | `:pear:` | :peach: | `:peach:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cherries: | `:cherries:` | :strawberry: | `:strawberry:` | [top](#table-of-contents) |
+| [top](#food--drink) | :blueberries: | `:blueberries:` | :kiwi_fruit: | `:kiwi_fruit:` | [top](#table-of-contents) |
+| [top](#food--drink) | :tomato: | `:tomato:` | :olive: | `:olive:` | [top](#table-of-contents) |
+| [top](#food--drink) | :coconut: | `:coconut:` | | | [top](#table-of-contents) |
+
+#### Food Vegetable
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :avocado: | `:avocado:` | :eggplant: | `:eggplant:` | [top](#table-of-contents) |
+| [top](#food--drink) | :potato: | `:potato:` | :carrot: | `:carrot:` | [top](#table-of-contents) |
+| [top](#food--drink) | :corn: | `:corn:` | :hot_pepper: | `:hot_pepper:` | [top](#table-of-contents) |
+| [top](#food--drink) | :bell_pepper: | `:bell_pepper:` | :cucumber: | `:cucumber:` | [top](#table-of-contents) |
+| [top](#food--drink) | :leafy_green: | `:leafy_green:` | :broccoli: | `:broccoli:` | [top](#table-of-contents) |
+| [top](#food--drink) | :garlic: | `:garlic:` | :onion: | `:onion:` | [top](#table-of-contents) |
+| [top](#food--drink) | :peanuts: | `:peanuts:` | :chestnut: | `:chestnut:` | [top](#table-of-contents) |
+
+#### Food Prepared
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :bread: | `:bread:` | :croissant: | `:croissant:` | [top](#table-of-contents) |
+| [top](#food--drink) | :baguette_bread: | `:baguette_bread:` | :flatbread: | `:flatbread:` | [top](#table-of-contents) |
+| [top](#food--drink) | :pretzel: | `:pretzel:` | :bagel: | `:bagel:` | [top](#table-of-contents) |
+| [top](#food--drink) | :pancakes: | `:pancakes:` | :waffle: | `:waffle:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cheese: | `:cheese:` | :meat_on_bone: | `:meat_on_bone:` | [top](#table-of-contents) |
+| [top](#food--drink) | :poultry_leg: | `:poultry_leg:` | :cut_of_meat: | `:cut_of_meat:` | [top](#table-of-contents) |
+| [top](#food--drink) | :bacon: | `:bacon:` | :hamburger: | `:hamburger:` | [top](#table-of-contents) |
+| [top](#food--drink) | :fries: | `:fries:` | :pizza: | `:pizza:` | [top](#table-of-contents) |
+| [top](#food--drink) | :hotdog: | `:hotdog:` | :sandwich: | `:sandwich:` | [top](#table-of-contents) |
+| [top](#food--drink) | :taco: | `:taco:` | :burrito: | `:burrito:` | [top](#table-of-contents) |
+| [top](#food--drink) | :tamale: | `:tamale:` | :stuffed_flatbread: | `:stuffed_flatbread:` | [top](#table-of-contents) |
+| [top](#food--drink) | :falafel: | `:falafel:` | :egg: | `:egg:` | [top](#table-of-contents) |
+| [top](#food--drink) | :fried_egg: | `:fried_egg:` | :shallow_pan_of_food: | `:shallow_pan_of_food:` | [top](#table-of-contents) |
+| [top](#food--drink) | :stew: | `:stew:` | :fondue: | `:fondue:` | [top](#table-of-contents) |
+| [top](#food--drink) | :bowl_with_spoon: | `:bowl_with_spoon:` | :green_salad: | `:green_salad:` | [top](#table-of-contents) |
+| [top](#food--drink) | :popcorn: | `:popcorn:` | :butter: | `:butter:` | [top](#table-of-contents) |
+| [top](#food--drink) | :salt: | `:salt:` | :canned_food: | `:canned_food:` | [top](#table-of-contents) |
+
+#### Food Asian
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :bento: | `:bento:` | :rice_cracker: | `:rice_cracker:` | [top](#table-of-contents) |
+| [top](#food--drink) | :rice_ball: | `:rice_ball:` | :rice: | `:rice:` | [top](#table-of-contents) |
+| [top](#food--drink) | :curry: | `:curry:` | :ramen: | `:ramen:` | [top](#table-of-contents) |
+| [top](#food--drink) | :spaghetti: | `:spaghetti:` | :sweet_potato: | `:sweet_potato:` | [top](#table-of-contents) |
+| [top](#food--drink) | :oden: | `:oden:` | :sushi: | `:sushi:` | [top](#table-of-contents) |
+| [top](#food--drink) | :fried_shrimp: | `:fried_shrimp:` | :fish_cake: | `:fish_cake:` | [top](#table-of-contents) |
+| [top](#food--drink) | :moon_cake: | `:moon_cake:` | :dango: | `:dango:` | [top](#table-of-contents) |
+| [top](#food--drink) | :dumpling: | `:dumpling:` | :fortune_cookie: | `:fortune_cookie:` | [top](#table-of-contents) |
+| [top](#food--drink) | :takeout_box: | `:takeout_box:` | | | [top](#table-of-contents) |
+
+#### Food Marine
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :crab: | `:crab:` | :lobster: | `:lobster:` | [top](#table-of-contents) |
+| [top](#food--drink) | :shrimp: | `:shrimp:` | :squid: | `:squid:` | [top](#table-of-contents) |
+| [top](#food--drink) | :oyster: | `:oyster:` | | | [top](#table-of-contents) |
+
+#### Food Sweet
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :icecream: | `:icecream:` | :shaved_ice: | `:shaved_ice:` | [top](#table-of-contents) |
+| [top](#food--drink) | :ice_cream: | `:ice_cream:` | :doughnut: | `:doughnut:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cookie: | `:cookie:` | :birthday: | `:birthday:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cake: | `:cake:` | :cupcake: | `:cupcake:` | [top](#table-of-contents) |
+| [top](#food--drink) | :pie: | `:pie:` | :chocolate_bar: | `:chocolate_bar:` | [top](#table-of-contents) |
+| [top](#food--drink) | :candy: | `:candy:` | :lollipop: | `:lollipop:` | [top](#table-of-contents) |
+| [top](#food--drink) | :custard: | `:custard:` | :honey_pot: | `:honey_pot:` | [top](#table-of-contents) |
+
+#### Drink
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :baby_bottle: | `:baby_bottle:` | :milk_glass: | `:milk_glass:` | [top](#table-of-contents) |
+| [top](#food--drink) | :coffee: | `:coffee:` | :teapot: | `:teapot:` | [top](#table-of-contents) |
+| [top](#food--drink) | :tea: | `:tea:` | :sake: | `:sake:` | [top](#table-of-contents) |
+| [top](#food--drink) | :champagne: | `:champagne:` | :wine_glass: | `:wine_glass:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cocktail: | `:cocktail:` | :tropical_drink: | `:tropical_drink:` | [top](#table-of-contents) |
+| [top](#food--drink) | :beer: | `:beer:` | :beers: | `:beers:` | [top](#table-of-contents) |
+| [top](#food--drink) | :clinking_glasses: | `:clinking_glasses:` | :tumbler_glass: | `:tumbler_glass:` | [top](#table-of-contents) |
+| [top](#food--drink) | :cup_with_straw: | `:cup_with_straw:` | :bubble_tea: | `:bubble_tea:` | [top](#table-of-contents) |
+| [top](#food--drink) | :beverage_box: | `:beverage_box:` | :mate: | `:mate:` | [top](#table-of-contents) |
+| [top](#food--drink) | :ice_cube: | `:ice_cube:` | | | [top](#table-of-contents) |
+
+#### Dishware
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#food--drink) | :chopsticks: | `:chopsticks:` | :plate_with_cutlery: | `:plate_with_cutlery:` | [top](#table-of-contents) |
+| [top](#food--drink) | :fork_and_knife: | `:fork_and_knife:` | :spoon: | `:spoon:` | [top](#table-of-contents) |
+| [top](#food--drink) | :hocho: | `:hocho:` <br /> `:knife:` | :amphora: | `:amphora:` | [top](#table-of-contents) |
+
+### Travel & Places
+
+- [Place Map](#place-map)
+- [Place Geographic](#place-geographic)
+- [Place Building](#place-building)
+- [Place Religious](#place-religious)
+- [Place Other](#place-other)
+- [Transport Ground](#transport-ground)
+- [Transport Water](#transport-water)
+- [Transport Air](#transport-air)
+- [Hotel](#hotel)
+- [Time](#time)
+- [Sky & Weather](#sky--weather)
+
+#### Place Map
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :earth_africa: | `:earth_africa:` | :earth_americas: | `:earth_americas:` | [top](#table-of-contents) |
+| [top](#travel--places) | :earth_asia: | `:earth_asia:` | :globe_with_meridians: | `:globe_with_meridians:` | [top](#table-of-contents) |
+| [top](#travel--places) | :world_map: | `:world_map:` | :japan: | `:japan:` | [top](#table-of-contents) |
+| [top](#travel--places) | :compass: | `:compass:` | | | [top](#table-of-contents) |
+
+#### Place Geographic
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :mountain_snow: | `:mountain_snow:` | :mountain: | `:mountain:` | [top](#table-of-contents) |
+| [top](#travel--places) | :volcano: | `:volcano:` | :mount_fuji: | `:mount_fuji:` | [top](#table-of-contents) |
+| [top](#travel--places) | :camping: | `:camping:` | :beach_umbrella: | `:beach_umbrella:` | [top](#table-of-contents) |
+| [top](#travel--places) | :desert: | `:desert:` | :desert_island: | `:desert_island:` | [top](#table-of-contents) |
+| [top](#travel--places) | :national_park: | `:national_park:` | | | [top](#table-of-contents) |
+
+#### Place Building
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :stadium: | `:stadium:` | :classical_building: | `:classical_building:` | [top](#table-of-contents) |
+| [top](#travel--places) | :building_construction: | `:building_construction:` | :bricks: | `:bricks:` | [top](#table-of-contents) |
+| [top](#travel--places) | :rock: | `:rock:` | :wood: | `:wood:` | [top](#table-of-contents) |
+| [top](#travel--places) | :hut: | `:hut:` | :houses: | `:houses:` | [top](#table-of-contents) |
+| [top](#travel--places) | :derelict_house: | `:derelict_house:` | :house: | `:house:` | [top](#table-of-contents) |
+| [top](#travel--places) | :house_with_garden: | `:house_with_garden:` | :office: | `:office:` | [top](#table-of-contents) |
+| [top](#travel--places) | :post_office: | `:post_office:` | :european_post_office: | `:european_post_office:` | [top](#table-of-contents) |
+| [top](#travel--places) | :hospital: | `:hospital:` | :bank: | `:bank:` | [top](#table-of-contents) |
+| [top](#travel--places) | :hotel: | `:hotel:` | :love_hotel: | `:love_hotel:` | [top](#table-of-contents) |
+| [top](#travel--places) | :convenience_store: | `:convenience_store:` | :school: | `:school:` | [top](#table-of-contents) |
+| [top](#travel--places) | :department_store: | `:department_store:` | :factory: | `:factory:` | [top](#table-of-contents) |
+| [top](#travel--places) | :japanese_castle: | `:japanese_castle:` | :european_castle: | `:european_castle:` | [top](#table-of-contents) |
+| [top](#travel--places) | :wedding: | `:wedding:` | :tokyo_tower: | `:tokyo_tower:` | [top](#table-of-contents) |
+| [top](#travel--places) | :statue_of_liberty: | `:statue_of_liberty:` | | | [top](#table-of-contents) |
+
+#### Place Religious
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :church: | `:church:` | :mosque: | `:mosque:` | [top](#table-of-contents) |
+| [top](#travel--places) | :hindu_temple: | `:hindu_temple:` | :synagogue: | `:synagogue:` | [top](#table-of-contents) |
+| [top](#travel--places) | :shinto_shrine: | `:shinto_shrine:` | :kaaba: | `:kaaba:` | [top](#table-of-contents) |
+
+#### Place Other
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :fountain: | `:fountain:` | :tent: | `:tent:` | [top](#table-of-contents) |
+| [top](#travel--places) | :foggy: | `:foggy:` | :night_with_stars: | `:night_with_stars:` | [top](#table-of-contents) |
+| [top](#travel--places) | :cityscape: | `:cityscape:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` | [top](#table-of-contents) |
+| [top](#travel--places) | :sunrise: | `:sunrise:` | :city_sunset: | `:city_sunset:` | [top](#table-of-contents) |
+| [top](#travel--places) | :city_sunrise: | `:city_sunrise:` | :bridge_at_night: | `:bridge_at_night:` | [top](#table-of-contents) |
+| [top](#travel--places) | :hotsprings: | `:hotsprings:` | :carousel_horse: | `:carousel_horse:` | [top](#table-of-contents) |
+| [top](#travel--places) | :ferris_wheel: | `:ferris_wheel:` | :roller_coaster: | `:roller_coaster:` | [top](#table-of-contents) |
+| [top](#travel--places) | :barber: | `:barber:` | :circus_tent: | `:circus_tent:` | [top](#table-of-contents) |
+
+#### Transport Ground
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :steam_locomotive: | `:steam_locomotive:` | :railway_car: | `:railway_car:` | [top](#table-of-contents) |
+| [top](#travel--places) | :bullettrain_side: | `:bullettrain_side:` | :bullettrain_front: | `:bullettrain_front:` | [top](#table-of-contents) |
+| [top](#travel--places) | :train2: | `:train2:` | :metro: | `:metro:` | [top](#table-of-contents) |
+| [top](#travel--places) | :light_rail: | `:light_rail:` | :station: | `:station:` | [top](#table-of-contents) |
+| [top](#travel--places) | :tram: | `:tram:` | :monorail: | `:monorail:` | [top](#table-of-contents) |
+| [top](#travel--places) | :mountain_railway: | `:mountain_railway:` | :train: | `:train:` | [top](#table-of-contents) |
+| [top](#travel--places) | :bus: | `:bus:` | :oncoming_bus: | `:oncoming_bus:` | [top](#table-of-contents) |
+| [top](#travel--places) | :trolleybus: | `:trolleybus:` | :minibus: | `:minibus:` | [top](#table-of-contents) |
+| [top](#travel--places) | :ambulance: | `:ambulance:` | :fire_engine: | `:fire_engine:` | [top](#table-of-contents) |
+| [top](#travel--places) | :police_car: | `:police_car:` | :oncoming_police_car: | `:oncoming_police_car:` | [top](#table-of-contents) |
+| [top](#travel--places) | :taxi: | `:taxi:` | :oncoming_taxi: | `:oncoming_taxi:` | [top](#table-of-contents) |
+| [top](#travel--places) | :car: | `:car:` <br /> `:red_car:` | :oncoming_automobile: | `:oncoming_automobile:` | [top](#table-of-contents) |
+| [top](#travel--places) | :blue_car: | `:blue_car:` | :pickup_truck: | `:pickup_truck:` | [top](#table-of-contents) |
+| [top](#travel--places) | :truck: | `:truck:` | :articulated_lorry: | `:articulated_lorry:` | [top](#table-of-contents) |
+| [top](#travel--places) | :tractor: | `:tractor:` | :racing_car: | `:racing_car:` | [top](#table-of-contents) |
+| [top](#travel--places) | :motorcycle: | `:motorcycle:` | :motor_scooter: | `:motor_scooter:` | [top](#table-of-contents) |
+| [top](#travel--places) | :manual_wheelchair: | `:manual_wheelchair:` | :motorized_wheelchair: | `:motorized_wheelchair:` | [top](#table-of-contents) |
+| [top](#travel--places) | :auto_rickshaw: | `:auto_rickshaw:` | :bike: | `:bike:` | [top](#table-of-contents) |
+| [top](#travel--places) | :kick_scooter: | `:kick_scooter:` | :skateboard: | `:skateboard:` | [top](#table-of-contents) |
+| [top](#travel--places) | :roller_skate: | `:roller_skate:` | :busstop: | `:busstop:` | [top](#table-of-contents) |
+| [top](#travel--places) | :motorway: | `:motorway:` | :railway_track: | `:railway_track:` | [top](#table-of-contents) |
+| [top](#travel--places) | :oil_drum: | `:oil_drum:` | :fuelpump: | `:fuelpump:` | [top](#table-of-contents) |
+| [top](#travel--places) | :rotating_light: | `:rotating_light:` | :traffic_light: | `:traffic_light:` | [top](#table-of-contents) |
+| [top](#travel--places) | :vertical_traffic_light: | `:vertical_traffic_light:` | :stop_sign: | `:stop_sign:` | [top](#table-of-contents) |
+| [top](#travel--places) | :construction: | `:construction:` | | | [top](#table-of-contents) |
+
+#### Transport Water
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :anchor: | `:anchor:` | :boat: | `:boat:` <br /> `:sailboat:` | [top](#table-of-contents) |
+| [top](#travel--places) | :canoe: | `:canoe:` | :speedboat: | `:speedboat:` | [top](#table-of-contents) |
+| [top](#travel--places) | :passenger_ship: | `:passenger_ship:` | :ferry: | `:ferry:` | [top](#table-of-contents) |
+| [top](#travel--places) | :motor_boat: | `:motor_boat:` | :ship: | `:ship:` | [top](#table-of-contents) |
+
+#### Transport Air
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :airplane: | `:airplane:` | :small_airplane: | `:small_airplane:` | [top](#table-of-contents) |
+| [top](#travel--places) | :flight_departure: | `:flight_departure:` | :flight_arrival: | `:flight_arrival:` | [top](#table-of-contents) |
+| [top](#travel--places) | :parachute: | `:parachute:` | :seat: | `:seat:` | [top](#table-of-contents) |
+| [top](#travel--places) | :helicopter: | `:helicopter:` | :suspension_railway: | `:suspension_railway:` | [top](#table-of-contents) |
+| [top](#travel--places) | :mountain_cableway: | `:mountain_cableway:` | :aerial_tramway: | `:aerial_tramway:` | [top](#table-of-contents) |
+| [top](#travel--places) | :artificial_satellite: | `:artificial_satellite:` | :rocket: | `:rocket:` | [top](#table-of-contents) |
+| [top](#travel--places) | :flying_saucer: | `:flying_saucer:` | | | [top](#table-of-contents) |
+
+#### Hotel
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :bellhop_bell: | `:bellhop_bell:` | :luggage: | `:luggage:` | [top](#table-of-contents) |
+
+#### Time
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :hourglass: | `:hourglass:` | :hourglass_flowing_sand: | `:hourglass_flowing_sand:` | [top](#table-of-contents) |
+| [top](#travel--places) | :watch: | `:watch:` | :alarm_clock: | `:alarm_clock:` | [top](#table-of-contents) |
+| [top](#travel--places) | :stopwatch: | `:stopwatch:` | :timer_clock: | `:timer_clock:` | [top](#table-of-contents) |
+| [top](#travel--places) | :mantelpiece_clock: | `:mantelpiece_clock:` | :clock12: | `:clock12:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock1230: | `:clock1230:` | :clock1: | `:clock1:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock130: | `:clock130:` | :clock2: | `:clock2:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock230: | `:clock230:` | :clock3: | `:clock3:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock330: | `:clock330:` | :clock4: | `:clock4:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock430: | `:clock430:` | :clock5: | `:clock5:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock530: | `:clock530:` | :clock6: | `:clock6:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock630: | `:clock630:` | :clock7: | `:clock7:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock730: | `:clock730:` | :clock8: | `:clock8:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock830: | `:clock830:` | :clock9: | `:clock9:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock930: | `:clock930:` | :clock10: | `:clock10:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock1030: | `:clock1030:` | :clock11: | `:clock11:` | [top](#table-of-contents) |
+| [top](#travel--places) | :clock1130: | `:clock1130:` | | | [top](#table-of-contents) |
+
+#### Sky & Weather
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#travel--places) | :new_moon: | `:new_moon:` | :waxing_crescent_moon: | `:waxing_crescent_moon:` | [top](#table-of-contents) |
+| [top](#travel--places) | :first_quarter_moon: | `:first_quarter_moon:` | :moon: | `:moon:` <br /> `:waxing_gibbous_moon:` | [top](#table-of-contents) |
+| [top](#travel--places) | :full_moon: | `:full_moon:` | :waning_gibbous_moon: | `:waning_gibbous_moon:` | [top](#table-of-contents) |
+| [top](#travel--places) | :last_quarter_moon: | `:last_quarter_moon:` | :waning_crescent_moon: | `:waning_crescent_moon:` | [top](#table-of-contents) |
+| [top](#travel--places) | :crescent_moon: | `:crescent_moon:` | :new_moon_with_face: | `:new_moon_with_face:` | [top](#table-of-contents) |
+| [top](#travel--places) | :first_quarter_moon_with_face: | `:first_quarter_moon_with_face:` | :last_quarter_moon_with_face: | `:last_quarter_moon_with_face:` | [top](#table-of-contents) |
+| [top](#travel--places) | :thermometer: | `:thermometer:` | :sunny: | `:sunny:` | [top](#table-of-contents) |
+| [top](#travel--places) | :full_moon_with_face: | `:full_moon_with_face:` | :sun_with_face: | `:sun_with_face:` | [top](#table-of-contents) |
+| [top](#travel--places) | :ringed_planet: | `:ringed_planet:` | :star: | `:star:` | [top](#table-of-contents) |
+| [top](#travel--places) | :star2: | `:star2:` | :stars: | `:stars:` | [top](#table-of-contents) |
+| [top](#travel--places) | :milky_way: | `:milky_way:` | :cloud: | `:cloud:` | [top](#table-of-contents) |
+| [top](#travel--places) | :partly_sunny: | `:partly_sunny:` | :cloud_with_lightning_and_rain: | `:cloud_with_lightning_and_rain:` | [top](#table-of-contents) |
+| [top](#travel--places) | :sun_behind_small_cloud: | `:sun_behind_small_cloud:` | :sun_behind_large_cloud: | `:sun_behind_large_cloud:` | [top](#table-of-contents) |
+| [top](#travel--places) | :sun_behind_rain_cloud: | `:sun_behind_rain_cloud:` | :cloud_with_rain: | `:cloud_with_rain:` | [top](#table-of-contents) |
+| [top](#travel--places) | :cloud_with_snow: | `:cloud_with_snow:` | :cloud_with_lightning: | `:cloud_with_lightning:` | [top](#table-of-contents) |
+| [top](#travel--places) | :tornado: | `:tornado:` | :fog: | `:fog:` | [top](#table-of-contents) |
+| [top](#travel--places) | :wind_face: | `:wind_face:` | :cyclone: | `:cyclone:` | [top](#table-of-contents) |
+| [top](#travel--places) | :rainbow: | `:rainbow:` | :closed_umbrella: | `:closed_umbrella:` | [top](#table-of-contents) |
+| [top](#travel--places) | :open_umbrella: | `:open_umbrella:` | :umbrella: | `:umbrella:` | [top](#table-of-contents) |
+| [top](#travel--places) | :parasol_on_ground: | `:parasol_on_ground:` | :zap: | `:zap:` | [top](#table-of-contents) |
+| [top](#travel--places) | :snowflake: | `:snowflake:` | :snowman_with_snow: | `:snowman_with_snow:` | [top](#table-of-contents) |
+| [top](#travel--places) | :snowman: | `:snowman:` | :comet: | `:comet:` | [top](#table-of-contents) |
+| [top](#travel--places) | :fire: | `:fire:` | :droplet: | `:droplet:` | [top](#table-of-contents) |
+| [top](#travel--places) | :ocean: | `:ocean:` | | | [top](#table-of-contents) |
+
+### Activities
+
+- [Event](#event)
+- [Award Medal](#award-medal)
+- [Sport](#sport)
+- [Game](#game)
+- [Arts & Crafts](#arts--crafts)
+
+#### Event
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#activities) | :jack_o_lantern: | `:jack_o_lantern:` | :christmas_tree: | `:christmas_tree:` | [top](#table-of-contents) |
+| [top](#activities) | :fireworks: | `:fireworks:` | :sparkler: | `:sparkler:` | [top](#table-of-contents) |
+| [top](#activities) | :firecracker: | `:firecracker:` | :sparkles: | `:sparkles:` | [top](#table-of-contents) |
+| [top](#activities) | :balloon: | `:balloon:` | :tada: | `:tada:` | [top](#table-of-contents) |
+| [top](#activities) | :confetti_ball: | `:confetti_ball:` | :tanabata_tree: | `:tanabata_tree:` | [top](#table-of-contents) |
+| [top](#activities) | :bamboo: | `:bamboo:` | :dolls: | `:dolls:` | [top](#table-of-contents) |
+| [top](#activities) | :flags: | `:flags:` | :wind_chime: | `:wind_chime:` | [top](#table-of-contents) |
+| [top](#activities) | :rice_scene: | `:rice_scene:` | :red_envelope: | `:red_envelope:` | [top](#table-of-contents) |
+| [top](#activities) | :ribbon: | `:ribbon:` | :gift: | `:gift:` | [top](#table-of-contents) |
+| [top](#activities) | :reminder_ribbon: | `:reminder_ribbon:` | :tickets: | `:tickets:` | [top](#table-of-contents) |
+| [top](#activities) | :ticket: | `:ticket:` | | | [top](#table-of-contents) |
+
+#### Award Medal
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#activities) | :medal_military: | `:medal_military:` | :trophy: | `:trophy:` | [top](#table-of-contents) |
+| [top](#activities) | :medal_sports: | `:medal_sports:` | :1st_place_medal: | `:1st_place_medal:` | [top](#table-of-contents) |
+| [top](#activities) | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` | [top](#table-of-contents) |
+
+#### Sport
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#activities) | :soccer: | `:soccer:` | :baseball: | `:baseball:` | [top](#table-of-contents) |
+| [top](#activities) | :softball: | `:softball:` | :basketball: | `:basketball:` | [top](#table-of-contents) |
+| [top](#activities) | :volleyball: | `:volleyball:` | :football: | `:football:` | [top](#table-of-contents) |
+| [top](#activities) | :rugby_football: | `:rugby_football:` | :tennis: | `:tennis:` | [top](#table-of-contents) |
+| [top](#activities) | :flying_disc: | `:flying_disc:` | :bowling: | `:bowling:` | [top](#table-of-contents) |
+| [top](#activities) | :cricket_game: | `:cricket_game:` | :field_hockey: | `:field_hockey:` | [top](#table-of-contents) |
+| [top](#activities) | :ice_hockey: | `:ice_hockey:` | :lacrosse: | `:lacrosse:` | [top](#table-of-contents) |
+| [top](#activities) | :ping_pong: | `:ping_pong:` | :badminton: | `:badminton:` | [top](#table-of-contents) |
+| [top](#activities) | :boxing_glove: | `:boxing_glove:` | :martial_arts_uniform: | `:martial_arts_uniform:` | [top](#table-of-contents) |
+| [top](#activities) | :goal_net: | `:goal_net:` | :golf: | `:golf:` | [top](#table-of-contents) |
+| [top](#activities) | :ice_skate: | `:ice_skate:` | :fishing_pole_and_fish: | `:fishing_pole_and_fish:` | [top](#table-of-contents) |
+| [top](#activities) | :diving_mask: | `:diving_mask:` | :running_shirt_with_sash: | `:running_shirt_with_sash:` | [top](#table-of-contents) |
+| [top](#activities) | :ski: | `:ski:` | :sled: | `:sled:` | [top](#table-of-contents) |
+| [top](#activities) | :curling_stone: | `:curling_stone:` | | | [top](#table-of-contents) |
+
+#### Game
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#activities) | :dart: | `:dart:` | :yo_yo: | `:yo_yo:` | [top](#table-of-contents) |
+| [top](#activities) | :kite: | `:kite:` | :gun: | `:gun:` | [top](#table-of-contents) |
+| [top](#activities) | :8ball: | `:8ball:` | :crystal_ball: | `:crystal_ball:` | [top](#table-of-contents) |
+| [top](#activities) | :magic_wand: | `:magic_wand:` | :video_game: | `:video_game:` | [top](#table-of-contents) |
+| [top](#activities) | :joystick: | `:joystick:` | :slot_machine: | `:slot_machine:` | [top](#table-of-contents) |
+| [top](#activities) | :game_die: | `:game_die:` | :jigsaw: | `:jigsaw:` | [top](#table-of-contents) |
+| [top](#activities) | :teddy_bear: | `:teddy_bear:` | :pinata: | `:pinata:` | [top](#table-of-contents) |
+| [top](#activities) | :nesting_dolls: | `:nesting_dolls:` | :spades: | `:spades:` | [top](#table-of-contents) |
+| [top](#activities) | :hearts: | `:hearts:` | :diamonds: | `:diamonds:` | [top](#table-of-contents) |
+| [top](#activities) | :clubs: | `:clubs:` | :chess_pawn: | `:chess_pawn:` | [top](#table-of-contents) |
+| [top](#activities) | :black_joker: | `:black_joker:` | :mahjong: | `:mahjong:` | [top](#table-of-contents) |
+| [top](#activities) | :flower_playing_cards: | `:flower_playing_cards:` | | | [top](#table-of-contents) |
+
+#### Arts & Crafts
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#activities) | :performing_arts: | `:performing_arts:` | :framed_picture: | `:framed_picture:` | [top](#table-of-contents) |
+| [top](#activities) | :art: | `:art:` | :thread: | `:thread:` | [top](#table-of-contents) |
+| [top](#activities) | :sewing_needle: | `:sewing_needle:` | :yarn: | `:yarn:` | [top](#table-of-contents) |
+| [top](#activities) | :knot: | `:knot:` | | | [top](#table-of-contents) |
+
+### Objects
+
+- [Clothing](#clothing)
+- [Sound](#sound)
+- [Music](#music)
+- [Musical Instrument](#musical-instrument)
+- [Phone](#phone)
+- [Computer](#computer)
+- [Light & Video](#light--video)
+- [Book Paper](#book-paper)
+- [Money](#money)
+- [Mail](#mail)
+- [Writing](#writing)
+- [Office](#office)
+- [Lock](#lock)
+- [Tool](#tool)
+- [Science](#science)
+- [Medical](#medical)
+- [Household](#household)
+- [Other Object](#other-object)
+
+#### Clothing
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :eyeglasses: | `:eyeglasses:` | :dark_sunglasses: | `:dark_sunglasses:` | [top](#table-of-contents) |
+| [top](#objects) | :goggles: | `:goggles:` | :lab_coat: | `:lab_coat:` | [top](#table-of-contents) |
+| [top](#objects) | :safety_vest: | `:safety_vest:` | :necktie: | `:necktie:` | [top](#table-of-contents) |
+| [top](#objects) | :shirt: | `:shirt:` <br /> `:tshirt:` | :jeans: | `:jeans:` | [top](#table-of-contents) |
+| [top](#objects) | :scarf: | `:scarf:` | :gloves: | `:gloves:` | [top](#table-of-contents) |
+| [top](#objects) | :coat: | `:coat:` | :socks: | `:socks:` | [top](#table-of-contents) |
+| [top](#objects) | :dress: | `:dress:` | :kimono: | `:kimono:` | [top](#table-of-contents) |
+| [top](#objects) | :sari: | `:sari:` | :one_piece_swimsuit: | `:one_piece_swimsuit:` | [top](#table-of-contents) |
+| [top](#objects) | :swim_brief: | `:swim_brief:` | :shorts: | `:shorts:` | [top](#table-of-contents) |
+| [top](#objects) | :bikini: | `:bikini:` | :womans_clothes: | `:womans_clothes:` | [top](#table-of-contents) |
+| [top](#objects) | :purse: | `:purse:` | :handbag: | `:handbag:` | [top](#table-of-contents) |
+| [top](#objects) | :pouch: | `:pouch:` | :shopping: | `:shopping:` | [top](#table-of-contents) |
+| [top](#objects) | :school_satchel: | `:school_satchel:` | :thong_sandal: | `:thong_sandal:` | [top](#table-of-contents) |
+| [top](#objects) | :mans_shoe: | `:mans_shoe:` <br /> `:shoe:` | :athletic_shoe: | `:athletic_shoe:` | [top](#table-of-contents) |
+| [top](#objects) | :hiking_boot: | `:hiking_boot:` | :flat_shoe: | `:flat_shoe:` | [top](#table-of-contents) |
+| [top](#objects) | :high_heel: | `:high_heel:` | :sandal: | `:sandal:` | [top](#table-of-contents) |
+| [top](#objects) | :ballet_shoes: | `:ballet_shoes:` | :boot: | `:boot:` | [top](#table-of-contents) |
+| [top](#objects) | :crown: | `:crown:` | :womans_hat: | `:womans_hat:` | [top](#table-of-contents) |
+| [top](#objects) | :tophat: | `:tophat:` | :mortar_board: | `:mortar_board:` | [top](#table-of-contents) |
+| [top](#objects) | :billed_cap: | `:billed_cap:` | :military_helmet: | `:military_helmet:` | [top](#table-of-contents) |
+| [top](#objects) | :rescue_worker_helmet: | `:rescue_worker_helmet:` | :prayer_beads: | `:prayer_beads:` | [top](#table-of-contents) |
+| [top](#objects) | :lipstick: | `:lipstick:` | :ring: | `:ring:` | [top](#table-of-contents) |
+| [top](#objects) | :gem: | `:gem:` | | | [top](#table-of-contents) |
+
+#### Sound
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :mute: | `:mute:` | :speaker: | `:speaker:` | [top](#table-of-contents) |
+| [top](#objects) | :sound: | `:sound:` | :loud_sound: | `:loud_sound:` | [top](#table-of-contents) |
+| [top](#objects) | :loudspeaker: | `:loudspeaker:` | :mega: | `:mega:` | [top](#table-of-contents) |
+| [top](#objects) | :postal_horn: | `:postal_horn:` | :bell: | `:bell:` | [top](#table-of-contents) |
+| [top](#objects) | :no_bell: | `:no_bell:` | | | [top](#table-of-contents) |
+
+#### Music
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :musical_score: | `:musical_score:` | :musical_note: | `:musical_note:` | [top](#table-of-contents) |
+| [top](#objects) | :notes: | `:notes:` | :studio_microphone: | `:studio_microphone:` | [top](#table-of-contents) |
+| [top](#objects) | :level_slider: | `:level_slider:` | :control_knobs: | `:control_knobs:` | [top](#table-of-contents) |
+| [top](#objects) | :microphone: | `:microphone:` | :headphones: | `:headphones:` | [top](#table-of-contents) |
+| [top](#objects) | :radio: | `:radio:` | | | [top](#table-of-contents) |
+
+#### Musical Instrument
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :saxophone: | `:saxophone:` | :accordion: | `:accordion:` | [top](#table-of-contents) |
+| [top](#objects) | :guitar: | `:guitar:` | :musical_keyboard: | `:musical_keyboard:` | [top](#table-of-contents) |
+| [top](#objects) | :trumpet: | `:trumpet:` | :violin: | `:violin:` | [top](#table-of-contents) |
+| [top](#objects) | :banjo: | `:banjo:` | :drum: | `:drum:` | [top](#table-of-contents) |
+| [top](#objects) | :long_drum: | `:long_drum:` | | | [top](#table-of-contents) |
+
+#### Phone
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :iphone: | `:iphone:` | :calling: | `:calling:` | [top](#table-of-contents) |
+| [top](#objects) | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` | [top](#table-of-contents) |
+| [top](#objects) | :pager: | `:pager:` | :fax: | `:fax:` | [top](#table-of-contents) |
+
+#### Computer
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :battery: | `:battery:` | :electric_plug: | `:electric_plug:` | [top](#table-of-contents) |
+| [top](#objects) | :computer: | `:computer:` | :desktop_computer: | `:desktop_computer:` | [top](#table-of-contents) |
+| [top](#objects) | :printer: | `:printer:` | :keyboard: | `:keyboard:` | [top](#table-of-contents) |
+| [top](#objects) | :computer_mouse: | `:computer_mouse:` | :trackball: | `:trackball:` | [top](#table-of-contents) |
+| [top](#objects) | :minidisc: | `:minidisc:` | :floppy_disk: | `:floppy_disk:` | [top](#table-of-contents) |
+| [top](#objects) | :cd: | `:cd:` | :dvd: | `:dvd:` | [top](#table-of-contents) |
+| [top](#objects) | :abacus: | `:abacus:` | | | [top](#table-of-contents) |
+
+#### Light & Video
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :movie_camera: | `:movie_camera:` | :film_strip: | `:film_strip:` | [top](#table-of-contents) |
+| [top](#objects) | :film_projector: | `:film_projector:` | :clapper: | `:clapper:` | [top](#table-of-contents) |
+| [top](#objects) | :tv: | `:tv:` | :camera: | `:camera:` | [top](#table-of-contents) |
+| [top](#objects) | :camera_flash: | `:camera_flash:` | :video_camera: | `:video_camera:` | [top](#table-of-contents) |
+| [top](#objects) | :vhs: | `:vhs:` | :mag: | `:mag:` | [top](#table-of-contents) |
+| [top](#objects) | :mag_right: | `:mag_right:` | :candle: | `:candle:` | [top](#table-of-contents) |
+| [top](#objects) | :bulb: | `:bulb:` | :flashlight: | `:flashlight:` | [top](#table-of-contents) |
+| [top](#objects) | :izakaya_lantern: | `:izakaya_lantern:` <br /> `:lantern:` | :diya_lamp: | `:diya_lamp:` | [top](#table-of-contents) |
+
+#### Book Paper
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` | :closed_book: | `:closed_book:` | [top](#table-of-contents) |
+| [top](#objects) | :book: | `:book:` <br /> `:open_book:` | :green_book: | `:green_book:` | [top](#table-of-contents) |
+| [top](#objects) | :blue_book: | `:blue_book:` | :orange_book: | `:orange_book:` | [top](#table-of-contents) |
+| [top](#objects) | :books: | `:books:` | :notebook: | `:notebook:` | [top](#table-of-contents) |
+| [top](#objects) | :ledger: | `:ledger:` | :page_with_curl: | `:page_with_curl:` | [top](#table-of-contents) |
+| [top](#objects) | :scroll: | `:scroll:` | :page_facing_up: | `:page_facing_up:` | [top](#table-of-contents) |
+| [top](#objects) | :newspaper: | `:newspaper:` | :newspaper_roll: | `:newspaper_roll:` | [top](#table-of-contents) |
+| [top](#objects) | :bookmark_tabs: | `:bookmark_tabs:` | :bookmark: | `:bookmark:` | [top](#table-of-contents) |
+| [top](#objects) | :label: | `:label:` | | | [top](#table-of-contents) |
+
+#### Money
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :moneybag: | `:moneybag:` | :coin: | `:coin:` | [top](#table-of-contents) |
+| [top](#objects) | :yen: | `:yen:` | :dollar: | `:dollar:` | [top](#table-of-contents) |
+| [top](#objects) | :euro: | `:euro:` | :pound: | `:pound:` | [top](#table-of-contents) |
+| [top](#objects) | :money_with_wings: | `:money_with_wings:` | :credit_card: | `:credit_card:` | [top](#table-of-contents) |
+| [top](#objects) | :receipt: | `:receipt:` | :chart: | `:chart:` | [top](#table-of-contents) |
+
+#### Mail
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :envelope: | `:envelope:` | :e-mail: | `:e-mail:` <br /> `:email:` | [top](#table-of-contents) |
+| [top](#objects) | :incoming_envelope: | `:incoming_envelope:` | :envelope_with_arrow: | `:envelope_with_arrow:` | [top](#table-of-contents) |
+| [top](#objects) | :outbox_tray: | `:outbox_tray:` | :inbox_tray: | `:inbox_tray:` | [top](#table-of-contents) |
+| [top](#objects) | :package: | `:package:` | :mailbox: | `:mailbox:` | [top](#table-of-contents) |
+| [top](#objects) | :mailbox_closed: | `:mailbox_closed:` | :mailbox_with_mail: | `:mailbox_with_mail:` | [top](#table-of-contents) |
+| [top](#objects) | :mailbox_with_no_mail: | `:mailbox_with_no_mail:` | :postbox: | `:postbox:` | [top](#table-of-contents) |
+| [top](#objects) | :ballot_box: | `:ballot_box:` | | | [top](#table-of-contents) |
+
+#### Writing
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :pencil2: | `:pencil2:` | :black_nib: | `:black_nib:` | [top](#table-of-contents) |
+| [top](#objects) | :fountain_pen: | `:fountain_pen:` | :pen: | `:pen:` | [top](#table-of-contents) |
+| [top](#objects) | :paintbrush: | `:paintbrush:` | :crayon: | `:crayon:` | [top](#table-of-contents) |
+| [top](#objects) | :memo: | `:memo:` <br /> `:pencil:` | | | [top](#table-of-contents) |
+
+#### Office
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :briefcase: | `:briefcase:` | :file_folder: | `:file_folder:` | [top](#table-of-contents) |
+| [top](#objects) | :open_file_folder: | `:open_file_folder:` | :card_index_dividers: | `:card_index_dividers:` | [top](#table-of-contents) |
+| [top](#objects) | :date: | `:date:` | :calendar: | `:calendar:` | [top](#table-of-contents) |
+| [top](#objects) | :spiral_notepad: | `:spiral_notepad:` | :spiral_calendar: | `:spiral_calendar:` | [top](#table-of-contents) |
+| [top](#objects) | :card_index: | `:card_index:` | :chart_with_upwards_trend: | `:chart_with_upwards_trend:` | [top](#table-of-contents) |
+| [top](#objects) | :chart_with_downwards_trend: | `:chart_with_downwards_trend:` | :bar_chart: | `:bar_chart:` | [top](#table-of-contents) |
+| [top](#objects) | :clipboard: | `:clipboard:` | :pushpin: | `:pushpin:` | [top](#table-of-contents) |
+| [top](#objects) | :round_pushpin: | `:round_pushpin:` | :paperclip: | `:paperclip:` | [top](#table-of-contents) |
+| [top](#objects) | :paperclips: | `:paperclips:` | :straight_ruler: | `:straight_ruler:` | [top](#table-of-contents) |
+| [top](#objects) | :triangular_ruler: | `:triangular_ruler:` | :scissors: | `:scissors:` | [top](#table-of-contents) |
+| [top](#objects) | :card_file_box: | `:card_file_box:` | :file_cabinet: | `:file_cabinet:` | [top](#table-of-contents) |
+| [top](#objects) | :wastebasket: | `:wastebasket:` | | | [top](#table-of-contents) |
+
+#### Lock
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :lock: | `:lock:` | :unlock: | `:unlock:` | [top](#table-of-contents) |
+| [top](#objects) | :lock_with_ink_pen: | `:lock_with_ink_pen:` | :closed_lock_with_key: | `:closed_lock_with_key:` | [top](#table-of-contents) |
+| [top](#objects) | :key: | `:key:` | :old_key: | `:old_key:` | [top](#table-of-contents) |
+
+#### Tool
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :hammer: | `:hammer:` | :axe: | `:axe:` | [top](#table-of-contents) |
+| [top](#objects) | :pick: | `:pick:` | :hammer_and_pick: | `:hammer_and_pick:` | [top](#table-of-contents) |
+| [top](#objects) | :hammer_and_wrench: | `:hammer_and_wrench:` | :dagger: | `:dagger:` | [top](#table-of-contents) |
+| [top](#objects) | :crossed_swords: | `:crossed_swords:` | :bomb: | `:bomb:` | [top](#table-of-contents) |
+| [top](#objects) | :boomerang: | `:boomerang:` | :bow_and_arrow: | `:bow_and_arrow:` | [top](#table-of-contents) |
+| [top](#objects) | :shield: | `:shield:` | :carpentry_saw: | `:carpentry_saw:` | [top](#table-of-contents) |
+| [top](#objects) | :wrench: | `:wrench:` | :screwdriver: | `:screwdriver:` | [top](#table-of-contents) |
+| [top](#objects) | :nut_and_bolt: | `:nut_and_bolt:` | :gear: | `:gear:` | [top](#table-of-contents) |
+| [top](#objects) | :clamp: | `:clamp:` | :balance_scale: | `:balance_scale:` | [top](#table-of-contents) |
+| [top](#objects) | :probing_cane: | `:probing_cane:` | :link: | `:link:` | [top](#table-of-contents) |
+| [top](#objects) | :chains: | `:chains:` | :hook: | `:hook:` | [top](#table-of-contents) |
+| [top](#objects) | :toolbox: | `:toolbox:` | :magnet: | `:magnet:` | [top](#table-of-contents) |
+| [top](#objects) | :ladder: | `:ladder:` | | | [top](#table-of-contents) |
+
+#### Science
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :alembic: | `:alembic:` | :test_tube: | `:test_tube:` | [top](#table-of-contents) |
+| [top](#objects) | :petri_dish: | `:petri_dish:` | :dna: | `:dna:` | [top](#table-of-contents) |
+| [top](#objects) | :microscope: | `:microscope:` | :telescope: | `:telescope:` | [top](#table-of-contents) |
+| [top](#objects) | :satellite: | `:satellite:` | | | [top](#table-of-contents) |
+
+#### Medical
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :syringe: | `:syringe:` | :drop_of_blood: | `:drop_of_blood:` | [top](#table-of-contents) |
+| [top](#objects) | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` | [top](#table-of-contents) |
+| [top](#objects) | :stethoscope: | `:stethoscope:` | | | [top](#table-of-contents) |
+
+#### Household
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :door: | `:door:` | :elevator: | `:elevator:` | [top](#table-of-contents) |
+| [top](#objects) | :mirror: | `:mirror:` | :window: | `:window:` | [top](#table-of-contents) |
+| [top](#objects) | :bed: | `:bed:` | :couch_and_lamp: | `:couch_and_lamp:` | [top](#table-of-contents) |
+| [top](#objects) | :chair: | `:chair:` | :toilet: | `:toilet:` | [top](#table-of-contents) |
+| [top](#objects) | :plunger: | `:plunger:` | :shower: | `:shower:` | [top](#table-of-contents) |
+| [top](#objects) | :bathtub: | `:bathtub:` | :mouse_trap: | `:mouse_trap:` | [top](#table-of-contents) |
+| [top](#objects) | :razor: | `:razor:` | :lotion_bottle: | `:lotion_bottle:` | [top](#table-of-contents) |
+| [top](#objects) | :safety_pin: | `:safety_pin:` | :broom: | `:broom:` | [top](#table-of-contents) |
+| [top](#objects) | :basket: | `:basket:` | :roll_of_paper: | `:roll_of_paper:` | [top](#table-of-contents) |
+| [top](#objects) | :bucket: | `:bucket:` | :soap: | `:soap:` | [top](#table-of-contents) |
+| [top](#objects) | :toothbrush: | `:toothbrush:` | :sponge: | `:sponge:` | [top](#table-of-contents) |
+| [top](#objects) | :fire_extinguisher: | `:fire_extinguisher:` | :shopping_cart: | `:shopping_cart:` | [top](#table-of-contents) |
+
+#### Other Object
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#objects) | :smoking: | `:smoking:` | :coffin: | `:coffin:` | [top](#table-of-contents) |
+| [top](#objects) | :headstone: | `:headstone:` | :funeral_urn: | `:funeral_urn:` | [top](#table-of-contents) |
+| [top](#objects) | :nazar_amulet: | `:nazar_amulet:` | :moyai: | `:moyai:` | [top](#table-of-contents) |
+| [top](#objects) | :placard: | `:placard:` | | | [top](#table-of-contents) |
+
+### Symbols
+
+- [Transport Sign](#transport-sign)
+- [Warning](#warning)
+- [Arrow](#arrow)
+- [Religion](#religion)
+- [Zodiac](#zodiac)
+- [Av Symbol](#av-symbol)
+- [Gender](#gender)
+- [Math](#math)
+- [Punctuation](#punctuation)
+- [Currency](#currency)
+- [Other Symbol](#other-symbol)
+- [Keycap](#keycap)
+- [Alphanum](#alphanum)
+- [Geometric](#geometric)
+
+#### Transport Sign
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :atm: | `:atm:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` | [top](#table-of-contents) |
+| [top](#symbols) | :potable_water: | `:potable_water:` | :wheelchair: | `:wheelchair:` | [top](#table-of-contents) |
+| [top](#symbols) | :mens: | `:mens:` | :womens: | `:womens:` | [top](#table-of-contents) |
+| [top](#symbols) | :restroom: | `:restroom:` | :baby_symbol: | `:baby_symbol:` | [top](#table-of-contents) |
+| [top](#symbols) | :wc: | `:wc:` | :passport_control: | `:passport_control:` | [top](#table-of-contents) |
+| [top](#symbols) | :customs: | `:customs:` | :baggage_claim: | `:baggage_claim:` | [top](#table-of-contents) |
+| [top](#symbols) | :left_luggage: | `:left_luggage:` | | | [top](#table-of-contents) |
+
+#### Warning
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :warning: | `:warning:` | :children_crossing: | `:children_crossing:` | [top](#table-of-contents) |
+| [top](#symbols) | :no_entry: | `:no_entry:` | :no_entry_sign: | `:no_entry_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :no_bicycles: | `:no_bicycles:` | :no_smoking: | `:no_smoking:` | [top](#table-of-contents) |
+| [top](#symbols) | :do_not_litter: | `:do_not_litter:` | :non-potable_water: | `:non-potable_water:` | [top](#table-of-contents) |
+| [top](#symbols) | :no_pedestrians: | `:no_pedestrians:` | :no_mobile_phones: | `:no_mobile_phones:` | [top](#table-of-contents) |
+| [top](#symbols) | :underage: | `:underage:` | :radioactive: | `:radioactive:` | [top](#table-of-contents) |
+| [top](#symbols) | :biohazard: | `:biohazard:` | | | [top](#table-of-contents) |
+
+#### Arrow
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :arrow_up: | `:arrow_up:` | :arrow_upper_right: | `:arrow_upper_right:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_right: | `:arrow_right:` | :arrow_lower_right: | `:arrow_lower_right:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_down: | `:arrow_down:` | :arrow_lower_left: | `:arrow_lower_left:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_left: | `:arrow_left:` | :arrow_upper_left: | `:arrow_upper_left:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_up_down: | `:arrow_up_down:` | :left_right_arrow: | `:left_right_arrow:` | [top](#table-of-contents) |
+| [top](#symbols) | :leftwards_arrow_with_hook: | `:leftwards_arrow_with_hook:` | :arrow_right_hook: | `:arrow_right_hook:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_heading_up: | `:arrow_heading_up:` | :arrow_heading_down: | `:arrow_heading_down:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrows_clockwise: | `:arrows_clockwise:` | :arrows_counterclockwise: | `:arrows_counterclockwise:` | [top](#table-of-contents) |
+| [top](#symbols) | :back: | `:back:` | :end: | `:end:` | [top](#table-of-contents) |
+| [top](#symbols) | :on: | `:on:` | :soon: | `:soon:` | [top](#table-of-contents) |
+| [top](#symbols) | :top: | `:top:` | | | [top](#table-of-contents) |
+
+#### Religion
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :place_of_worship: | `:place_of_worship:` | :atom_symbol: | `:atom_symbol:` | [top](#table-of-contents) |
+| [top](#symbols) | :om: | `:om:` | :star_of_david: | `:star_of_david:` | [top](#table-of-contents) |
+| [top](#symbols) | :wheel_of_dharma: | `:wheel_of_dharma:` | :yin_yang: | `:yin_yang:` | [top](#table-of-contents) |
+| [top](#symbols) | :latin_cross: | `:latin_cross:` | :orthodox_cross: | `:orthodox_cross:` | [top](#table-of-contents) |
+| [top](#symbols) | :star_and_crescent: | `:star_and_crescent:` | :peace_symbol: | `:peace_symbol:` | [top](#table-of-contents) |
+| [top](#symbols) | :menorah: | `:menorah:` | :six_pointed_star: | `:six_pointed_star:` | [top](#table-of-contents) |
+
+#### Zodiac
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :aries: | `:aries:` | :taurus: | `:taurus:` | [top](#table-of-contents) |
+| [top](#symbols) | :gemini: | `:gemini:` | :cancer: | `:cancer:` | [top](#table-of-contents) |
+| [top](#symbols) | :leo: | `:leo:` | :virgo: | `:virgo:` | [top](#table-of-contents) |
+| [top](#symbols) | :libra: | `:libra:` | :scorpius: | `:scorpius:` | [top](#table-of-contents) |
+| [top](#symbols) | :sagittarius: | `:sagittarius:` | :capricorn: | `:capricorn:` | [top](#table-of-contents) |
+| [top](#symbols) | :aquarius: | `:aquarius:` | :pisces: | `:pisces:` | [top](#table-of-contents) |
+| [top](#symbols) | :ophiuchus: | `:ophiuchus:` | | | [top](#table-of-contents) |
+
+#### Av Symbol
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | :repeat: | `:repeat:` | [top](#table-of-contents) |
+| [top](#symbols) | :repeat_one: | `:repeat_one:` | :arrow_forward: | `:arrow_forward:` | [top](#table-of-contents) |
+| [top](#symbols) | :fast_forward: | `:fast_forward:` | :next_track_button: | `:next_track_button:` | [top](#table-of-contents) |
+| [top](#symbols) | :play_or_pause_button: | `:play_or_pause_button:` | :arrow_backward: | `:arrow_backward:` | [top](#table-of-contents) |
+| [top](#symbols) | :rewind: | `:rewind:` | :previous_track_button: | `:previous_track_button:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_up_small: | `:arrow_up_small:` | :arrow_double_up: | `:arrow_double_up:` | [top](#table-of-contents) |
+| [top](#symbols) | :arrow_down_small: | `:arrow_down_small:` | :arrow_double_down: | `:arrow_double_down:` | [top](#table-of-contents) |
+| [top](#symbols) | :pause_button: | `:pause_button:` | :stop_button: | `:stop_button:` | [top](#table-of-contents) |
+| [top](#symbols) | :record_button: | `:record_button:` | :eject_button: | `:eject_button:` | [top](#table-of-contents) |
+| [top](#symbols) | :cinema: | `:cinema:` | :low_brightness: | `:low_brightness:` | [top](#table-of-contents) |
+| [top](#symbols) | :high_brightness: | `:high_brightness:` | :signal_strength: | `:signal_strength:` | [top](#table-of-contents) |
+| [top](#symbols) | :vibration_mode: | `:vibration_mode:` | :mobile_phone_off: | `:mobile_phone_off:` | [top](#table-of-contents) |
+
+#### Gender
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :female_sign: | `:female_sign:` | :male_sign: | `:male_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :transgender_symbol: | `:transgender_symbol:` | | | [top](#table-of-contents) |
+
+#### Math
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :heavy_multiplication_x: | `:heavy_multiplication_x:` | :heavy_plus_sign: | `:heavy_plus_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` | [top](#table-of-contents) |
+| [top](#symbols) | :infinity: | `:infinity:` | | | [top](#table-of-contents) |
+
+#### Punctuation
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :bangbang: | `:bangbang:` | :interrobang: | `:interrobang:` | [top](#table-of-contents) |
+| [top](#symbols) | :question: | `:question:` | :grey_question: | `:grey_question:` | [top](#table-of-contents) |
+| [top](#symbols) | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` | [top](#table-of-contents) |
+| [top](#symbols) | :wavy_dash: | `:wavy_dash:` | | | [top](#table-of-contents) |
+
+#### Currency
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` | [top](#table-of-contents) |
+
+#### Other Symbol
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :medical_symbol: | `:medical_symbol:` | :recycle: | `:recycle:` | [top](#table-of-contents) |
+| [top](#symbols) | :fleur_de_lis: | `:fleur_de_lis:` | :trident: | `:trident:` | [top](#table-of-contents) |
+| [top](#symbols) | :name_badge: | `:name_badge:` | :beginner: | `:beginner:` | [top](#table-of-contents) |
+| [top](#symbols) | :o: | `:o:` | :white_check_mark: | `:white_check_mark:` | [top](#table-of-contents) |
+| [top](#symbols) | :ballot_box_with_check: | `:ballot_box_with_check:` | :heavy_check_mark: | `:heavy_check_mark:` | [top](#table-of-contents) |
+| [top](#symbols) | :x: | `:x:` | :negative_squared_cross_mark: | `:negative_squared_cross_mark:` | [top](#table-of-contents) |
+| [top](#symbols) | :curly_loop: | `:curly_loop:` | :loop: | `:loop:` | [top](#table-of-contents) |
+| [top](#symbols) | :part_alternation_mark: | `:part_alternation_mark:` | :eight_spoked_asterisk: | `:eight_spoked_asterisk:` | [top](#table-of-contents) |
+| [top](#symbols) | :eight_pointed_black_star: | `:eight_pointed_black_star:` | :sparkle: | `:sparkle:` | [top](#table-of-contents) |
+| [top](#symbols) | :copyright: | `:copyright:` | :registered: | `:registered:` | [top](#table-of-contents) |
+| [top](#symbols) | :tm: | `:tm:` | | | [top](#table-of-contents) |
+
+#### Keycap
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :hash: | `:hash:` | :asterisk: | `:asterisk:` | [top](#table-of-contents) |
+| [top](#symbols) | :zero: | `:zero:` | :one: | `:one:` | [top](#table-of-contents) |
+| [top](#symbols) | :two: | `:two:` | :three: | `:three:` | [top](#table-of-contents) |
+| [top](#symbols) | :four: | `:four:` | :five: | `:five:` | [top](#table-of-contents) |
+| [top](#symbols) | :six: | `:six:` | :seven: | `:seven:` | [top](#table-of-contents) |
+| [top](#symbols) | :eight: | `:eight:` | :nine: | `:nine:` | [top](#table-of-contents) |
+| [top](#symbols) | :keycap_ten: | `:keycap_ten:` | | | [top](#table-of-contents) |
+
+#### Alphanum
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :capital_abcd: | `:capital_abcd:` | :abcd: | `:abcd:` | [top](#table-of-contents) |
+| [top](#symbols) | :1234: | `:1234:` | :symbols: | `:symbols:` | [top](#table-of-contents) |
+| [top](#symbols) | :abc: | `:abc:` | :a: | `:a:` | [top](#table-of-contents) |
+| [top](#symbols) | :ab: | `:ab:` | :b: | `:b:` | [top](#table-of-contents) |
+| [top](#symbols) | :cl: | `:cl:` | :cool: | `:cool:` | [top](#table-of-contents) |
+| [top](#symbols) | :free: | `:free:` | :information_source: | `:information_source:` | [top](#table-of-contents) |
+| [top](#symbols) | :id: | `:id:` | :m: | `:m:` | [top](#table-of-contents) |
+| [top](#symbols) | :new: | `:new:` | :ng: | `:ng:` | [top](#table-of-contents) |
+| [top](#symbols) | :o2: | `:o2:` | :ok: | `:ok:` | [top](#table-of-contents) |
+| [top](#symbols) | :parking: | `:parking:` | :sos: | `:sos:` | [top](#table-of-contents) |
+| [top](#symbols) | :up: | `:up:` | :vs: | `:vs:` | [top](#table-of-contents) |
+| [top](#symbols) | :koko: | `:koko:` | :sa: | `:sa:` | [top](#table-of-contents) |
+| [top](#symbols) | :u6708: | `:u6708:` | :u6709: | `:u6709:` | [top](#table-of-contents) |
+| [top](#symbols) | :u6307: | `:u6307:` | :ideograph_advantage: | `:ideograph_advantage:` | [top](#table-of-contents) |
+| [top](#symbols) | :u5272: | `:u5272:` | :u7121: | `:u7121:` | [top](#table-of-contents) |
+| [top](#symbols) | :u7981: | `:u7981:` | :accept: | `:accept:` | [top](#table-of-contents) |
+| [top](#symbols) | :u7533: | `:u7533:` | :u5408: | `:u5408:` | [top](#table-of-contents) |
+| [top](#symbols) | :u7a7a: | `:u7a7a:` | :congratulations: | `:congratulations:` | [top](#table-of-contents) |
+| [top](#symbols) | :secret: | `:secret:` | :u55b6: | `:u55b6:` | [top](#table-of-contents) |
+| [top](#symbols) | :u6e80: | `:u6e80:` | | | [top](#table-of-contents) |
+
+#### Geometric
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#symbols) | :red_circle: | `:red_circle:` | :orange_circle: | `:orange_circle:` | [top](#table-of-contents) |
+| [top](#symbols) | :yellow_circle: | `:yellow_circle:` | :green_circle: | `:green_circle:` | [top](#table-of-contents) |
+| [top](#symbols) | :large_blue_circle: | `:large_blue_circle:` | :purple_circle: | `:purple_circle:` | [top](#table-of-contents) |
+| [top](#symbols) | :brown_circle: | `:brown_circle:` | :black_circle: | `:black_circle:` | [top](#table-of-contents) |
+| [top](#symbols) | :white_circle: | `:white_circle:` | :red_square: | `:red_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :orange_square: | `:orange_square:` | :yellow_square: | `:yellow_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :green_square: | `:green_square:` | :blue_square: | `:blue_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :purple_square: | `:purple_square:` | :brown_square: | `:brown_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :black_large_square: | `:black_large_square:` | :white_large_square: | `:white_large_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :black_medium_square: | `:black_medium_square:` | :white_medium_square: | `:white_medium_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :black_medium_small_square: | `:black_medium_small_square:` | :white_medium_small_square: | `:white_medium_small_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :black_small_square: | `:black_small_square:` | :white_small_square: | `:white_small_square:` | [top](#table-of-contents) |
+| [top](#symbols) | :large_orange_diamond: | `:large_orange_diamond:` | :large_blue_diamond: | `:large_blue_diamond:` | [top](#table-of-contents) |
+| [top](#symbols) | :small_orange_diamond: | `:small_orange_diamond:` | :small_blue_diamond: | `:small_blue_diamond:` | [top](#table-of-contents) |
+| [top](#symbols) | :small_red_triangle: | `:small_red_triangle:` | :small_red_triangle_down: | `:small_red_triangle_down:` | [top](#table-of-contents) |
+| [top](#symbols) | :diamond_shape_with_a_dot_inside: | `:diamond_shape_with_a_dot_inside:` | :radio_button: | `:radio_button:` | [top](#table-of-contents) |
+| [top](#symbols) | :white_square_button: | `:white_square_button:` | :black_square_button: | `:black_square_button:` | [top](#table-of-contents) |
+
+### Flags
+
+- [Flag](#flag)
+- [Country Flag](#country-flag)
+- [Subdivision Flag](#subdivision-flag)
+
+#### Flag
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#flags) | :checkered_flag: | `:checkered_flag:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` | [top](#table-of-contents) |
+| [top](#flags) | :crossed_flags: | `:crossed_flags:` | :black_flag: | `:black_flag:` | [top](#table-of-contents) |
+| [top](#flags) | :white_flag: | `:white_flag:` | :rainbow_flag: | `:rainbow_flag:` | [top](#table-of-contents) |
+| [top](#flags) | :transgender_flag: | `:transgender_flag:` | :pirate_flag: | `:pirate_flag:` | [top](#table-of-contents) |
+
+#### Country Flag
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#flags) | :ascension_island: | `:ascension_island:` | :andorra: | `:andorra:` | [top](#table-of-contents) |
+| [top](#flags) | :united_arab_emirates: | `:united_arab_emirates:` | :afghanistan: | `:afghanistan:` | [top](#table-of-contents) |
+| [top](#flags) | :antigua_barbuda: | `:antigua_barbuda:` | :anguilla: | `:anguilla:` | [top](#table-of-contents) |
+| [top](#flags) | :albania: | `:albania:` | :armenia: | `:armenia:` | [top](#table-of-contents) |
+| [top](#flags) | :angola: | `:angola:` | :antarctica: | `:antarctica:` | [top](#table-of-contents) |
+| [top](#flags) | :argentina: | `:argentina:` | :american_samoa: | `:american_samoa:` | [top](#table-of-contents) |
+| [top](#flags) | :austria: | `:austria:` | :australia: | `:australia:` | [top](#table-of-contents) |
+| [top](#flags) | :aruba: | `:aruba:` | :aland_islands: | `:aland_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :azerbaijan: | `:azerbaijan:` | :bosnia_herzegovina: | `:bosnia_herzegovina:` | [top](#table-of-contents) |
+| [top](#flags) | :barbados: | `:barbados:` | :bangladesh: | `:bangladesh:` | [top](#table-of-contents) |
+| [top](#flags) | :belgium: | `:belgium:` | :burkina_faso: | `:burkina_faso:` | [top](#table-of-contents) |
+| [top](#flags) | :bulgaria: | `:bulgaria:` | :bahrain: | `:bahrain:` | [top](#table-of-contents) |
+| [top](#flags) | :burundi: | `:burundi:` | :benin: | `:benin:` | [top](#table-of-contents) |
+| [top](#flags) | :st_barthelemy: | `:st_barthelemy:` | :bermuda: | `:bermuda:` | [top](#table-of-contents) |
+| [top](#flags) | :brunei: | `:brunei:` | :bolivia: | `:bolivia:` | [top](#table-of-contents) |
+| [top](#flags) | :caribbean_netherlands: | `:caribbean_netherlands:` | :brazil: | `:brazil:` | [top](#table-of-contents) |
+| [top](#flags) | :bahamas: | `:bahamas:` | :bhutan: | `:bhutan:` | [top](#table-of-contents) |
+| [top](#flags) | :bouvet_island: | `:bouvet_island:` | :botswana: | `:botswana:` | [top](#table-of-contents) |
+| [top](#flags) | :belarus: | `:belarus:` | :belize: | `:belize:` | [top](#table-of-contents) |
+| [top](#flags) | :canada: | `:canada:` | :cocos_islands: | `:cocos_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :congo_kinshasa: | `:congo_kinshasa:` | :central_african_republic: | `:central_african_republic:` | [top](#table-of-contents) |
+| [top](#flags) | :congo_brazzaville: | `:congo_brazzaville:` | :switzerland: | `:switzerland:` | [top](#table-of-contents) |
+| [top](#flags) | :cote_divoire: | `:cote_divoire:` | :cook_islands: | `:cook_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :chile: | `:chile:` | :cameroon: | `:cameroon:` | [top](#table-of-contents) |
+| [top](#flags) | :cn: | `:cn:` | :colombia: | `:colombia:` | [top](#table-of-contents) |
+| [top](#flags) | :clipperton_island: | `:clipperton_island:` | :costa_rica: | `:costa_rica:` | [top](#table-of-contents) |
+| [top](#flags) | :cuba: | `:cuba:` | :cape_verde: | `:cape_verde:` | [top](#table-of-contents) |
+| [top](#flags) | :curacao: | `:curacao:` | :christmas_island: | `:christmas_island:` | [top](#table-of-contents) |
+| [top](#flags) | :cyprus: | `:cyprus:` | :czech_republic: | `:czech_republic:` | [top](#table-of-contents) |
+| [top](#flags) | :de: | `:de:` | :diego_garcia: | `:diego_garcia:` | [top](#table-of-contents) |
+| [top](#flags) | :djibouti: | `:djibouti:` | :denmark: | `:denmark:` | [top](#table-of-contents) |
+| [top](#flags) | :dominica: | `:dominica:` | :dominican_republic: | `:dominican_republic:` | [top](#table-of-contents) |
+| [top](#flags) | :algeria: | `:algeria:` | :ceuta_melilla: | `:ceuta_melilla:` | [top](#table-of-contents) |
+| [top](#flags) | :ecuador: | `:ecuador:` | :estonia: | `:estonia:` | [top](#table-of-contents) |
+| [top](#flags) | :egypt: | `:egypt:` | :western_sahara: | `:western_sahara:` | [top](#table-of-contents) |
+| [top](#flags) | :eritrea: | `:eritrea:` | :es: | `:es:` | [top](#table-of-contents) |
+| [top](#flags) | :ethiopia: | `:ethiopia:` | :eu: | `:eu:` <br /> `:european_union:` | [top](#table-of-contents) |
+| [top](#flags) | :finland: | `:finland:` | :fiji: | `:fiji:` | [top](#table-of-contents) |
+| [top](#flags) | :falkland_islands: | `:falkland_islands:` | :micronesia: | `:micronesia:` | [top](#table-of-contents) |
+| [top](#flags) | :faroe_islands: | `:faroe_islands:` | :fr: | `:fr:` | [top](#table-of-contents) |
+| [top](#flags) | :gabon: | `:gabon:` | :gb: | `:gb:` <br /> `:uk:` | [top](#table-of-contents) |
+| [top](#flags) | :grenada: | `:grenada:` | :georgia: | `:georgia:` | [top](#table-of-contents) |
+| [top](#flags) | :french_guiana: | `:french_guiana:` | :guernsey: | `:guernsey:` | [top](#table-of-contents) |
+| [top](#flags) | :ghana: | `:ghana:` | :gibraltar: | `:gibraltar:` | [top](#table-of-contents) |
+| [top](#flags) | :greenland: | `:greenland:` | :gambia: | `:gambia:` | [top](#table-of-contents) |
+| [top](#flags) | :guinea: | `:guinea:` | :guadeloupe: | `:guadeloupe:` | [top](#table-of-contents) |
+| [top](#flags) | :equatorial_guinea: | `:equatorial_guinea:` | :greece: | `:greece:` | [top](#table-of-contents) |
+| [top](#flags) | :south_georgia_south_sandwich_islands: | `:south_georgia_south_sandwich_islands:` | :guatemala: | `:guatemala:` | [top](#table-of-contents) |
+| [top](#flags) | :guam: | `:guam:` | :guinea_bissau: | `:guinea_bissau:` | [top](#table-of-contents) |
+| [top](#flags) | :guyana: | `:guyana:` | :hong_kong: | `:hong_kong:` | [top](#table-of-contents) |
+| [top](#flags) | :heard_mcdonald_islands: | `:heard_mcdonald_islands:` | :honduras: | `:honduras:` | [top](#table-of-contents) |
+| [top](#flags) | :croatia: | `:croatia:` | :haiti: | `:haiti:` | [top](#table-of-contents) |
+| [top](#flags) | :hungary: | `:hungary:` | :canary_islands: | `:canary_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :indonesia: | `:indonesia:` | :ireland: | `:ireland:` | [top](#table-of-contents) |
+| [top](#flags) | :israel: | `:israel:` | :isle_of_man: | `:isle_of_man:` | [top](#table-of-contents) |
+| [top](#flags) | :india: | `:india:` | :british_indian_ocean_territory: | `:british_indian_ocean_territory:` | [top](#table-of-contents) |
+| [top](#flags) | :iraq: | `:iraq:` | :iran: | `:iran:` | [top](#table-of-contents) |
+| [top](#flags) | :iceland: | `:iceland:` | :it: | `:it:` | [top](#table-of-contents) |
+| [top](#flags) | :jersey: | `:jersey:` | :jamaica: | `:jamaica:` | [top](#table-of-contents) |
+| [top](#flags) | :jordan: | `:jordan:` | :jp: | `:jp:` | [top](#table-of-contents) |
+| [top](#flags) | :kenya: | `:kenya:` | :kyrgyzstan: | `:kyrgyzstan:` | [top](#table-of-contents) |
+| [top](#flags) | :cambodia: | `:cambodia:` | :kiribati: | `:kiribati:` | [top](#table-of-contents) |
+| [top](#flags) | :comoros: | `:comoros:` | :st_kitts_nevis: | `:st_kitts_nevis:` | [top](#table-of-contents) |
+| [top](#flags) | :north_korea: | `:north_korea:` | :kr: | `:kr:` | [top](#table-of-contents) |
+| [top](#flags) | :kuwait: | `:kuwait:` | :cayman_islands: | `:cayman_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :kazakhstan: | `:kazakhstan:` | :laos: | `:laos:` | [top](#table-of-contents) |
+| [top](#flags) | :lebanon: | `:lebanon:` | :st_lucia: | `:st_lucia:` | [top](#table-of-contents) |
+| [top](#flags) | :liechtenstein: | `:liechtenstein:` | :sri_lanka: | `:sri_lanka:` | [top](#table-of-contents) |
+| [top](#flags) | :liberia: | `:liberia:` | :lesotho: | `:lesotho:` | [top](#table-of-contents) |
+| [top](#flags) | :lithuania: | `:lithuania:` | :luxembourg: | `:luxembourg:` | [top](#table-of-contents) |
+| [top](#flags) | :latvia: | `:latvia:` | :libya: | `:libya:` | [top](#table-of-contents) |
+| [top](#flags) | :morocco: | `:morocco:` | :monaco: | `:monaco:` | [top](#table-of-contents) |
+| [top](#flags) | :moldova: | `:moldova:` | :montenegro: | `:montenegro:` | [top](#table-of-contents) |
+| [top](#flags) | :st_martin: | `:st_martin:` | :madagascar: | `:madagascar:` | [top](#table-of-contents) |
+| [top](#flags) | :marshall_islands: | `:marshall_islands:` | :macedonia: | `:macedonia:` | [top](#table-of-contents) |
+| [top](#flags) | :mali: | `:mali:` | :myanmar: | `:myanmar:` | [top](#table-of-contents) |
+| [top](#flags) | :mongolia: | `:mongolia:` | :macau: | `:macau:` | [top](#table-of-contents) |
+| [top](#flags) | :northern_mariana_islands: | `:northern_mariana_islands:` | :martinique: | `:martinique:` | [top](#table-of-contents) |
+| [top](#flags) | :mauritania: | `:mauritania:` | :montserrat: | `:montserrat:` | [top](#table-of-contents) |
+| [top](#flags) | :malta: | `:malta:` | :mauritius: | `:mauritius:` | [top](#table-of-contents) |
+| [top](#flags) | :maldives: | `:maldives:` | :malawi: | `:malawi:` | [top](#table-of-contents) |
+| [top](#flags) | :mexico: | `:mexico:` | :malaysia: | `:malaysia:` | [top](#table-of-contents) |
+| [top](#flags) | :mozambique: | `:mozambique:` | :namibia: | `:namibia:` | [top](#table-of-contents) |
+| [top](#flags) | :new_caledonia: | `:new_caledonia:` | :niger: | `:niger:` | [top](#table-of-contents) |
+| [top](#flags) | :norfolk_island: | `:norfolk_island:` | :nigeria: | `:nigeria:` | [top](#table-of-contents) |
+| [top](#flags) | :nicaragua: | `:nicaragua:` | :netherlands: | `:netherlands:` | [top](#table-of-contents) |
+| [top](#flags) | :norway: | `:norway:` | :nepal: | `:nepal:` | [top](#table-of-contents) |
+| [top](#flags) | :nauru: | `:nauru:` | :niue: | `:niue:` | [top](#table-of-contents) |
+| [top](#flags) | :new_zealand: | `:new_zealand:` | :oman: | `:oman:` | [top](#table-of-contents) |
+| [top](#flags) | :panama: | `:panama:` | :peru: | `:peru:` | [top](#table-of-contents) |
+| [top](#flags) | :french_polynesia: | `:french_polynesia:` | :papua_new_guinea: | `:papua_new_guinea:` | [top](#table-of-contents) |
+| [top](#flags) | :philippines: | `:philippines:` | :pakistan: | `:pakistan:` | [top](#table-of-contents) |
+| [top](#flags) | :poland: | `:poland:` | :st_pierre_miquelon: | `:st_pierre_miquelon:` | [top](#table-of-contents) |
+| [top](#flags) | :pitcairn_islands: | `:pitcairn_islands:` | :puerto_rico: | `:puerto_rico:` | [top](#table-of-contents) |
+| [top](#flags) | :palestinian_territories: | `:palestinian_territories:` | :portugal: | `:portugal:` | [top](#table-of-contents) |
+| [top](#flags) | :palau: | `:palau:` | :paraguay: | `:paraguay:` | [top](#table-of-contents) |
+| [top](#flags) | :qatar: | `:qatar:` | :reunion: | `:reunion:` | [top](#table-of-contents) |
+| [top](#flags) | :romania: | `:romania:` | :serbia: | `:serbia:` | [top](#table-of-contents) |
+| [top](#flags) | :ru: | `:ru:` | :rwanda: | `:rwanda:` | [top](#table-of-contents) |
+| [top](#flags) | :saudi_arabia: | `:saudi_arabia:` | :solomon_islands: | `:solomon_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :seychelles: | `:seychelles:` | :sudan: | `:sudan:` | [top](#table-of-contents) |
+| [top](#flags) | :sweden: | `:sweden:` | :singapore: | `:singapore:` | [top](#table-of-contents) |
+| [top](#flags) | :st_helena: | `:st_helena:` | :slovenia: | `:slovenia:` | [top](#table-of-contents) |
+| [top](#flags) | :svalbard_jan_mayen: | `:svalbard_jan_mayen:` | :slovakia: | `:slovakia:` | [top](#table-of-contents) |
+| [top](#flags) | :sierra_leone: | `:sierra_leone:` | :san_marino: | `:san_marino:` | [top](#table-of-contents) |
+| [top](#flags) | :senegal: | `:senegal:` | :somalia: | `:somalia:` | [top](#table-of-contents) |
+| [top](#flags) | :suriname: | `:suriname:` | :south_sudan: | `:south_sudan:` | [top](#table-of-contents) |
+| [top](#flags) | :sao_tome_principe: | `:sao_tome_principe:` | :el_salvador: | `:el_salvador:` | [top](#table-of-contents) |
+| [top](#flags) | :sint_maarten: | `:sint_maarten:` | :syria: | `:syria:` | [top](#table-of-contents) |
+| [top](#flags) | :swaziland: | `:swaziland:` | :tristan_da_cunha: | `:tristan_da_cunha:` | [top](#table-of-contents) |
+| [top](#flags) | :turks_caicos_islands: | `:turks_caicos_islands:` | :chad: | `:chad:` | [top](#table-of-contents) |
+| [top](#flags) | :french_southern_territories: | `:french_southern_territories:` | :togo: | `:togo:` | [top](#table-of-contents) |
+| [top](#flags) | :thailand: | `:thailand:` | :tajikistan: | `:tajikistan:` | [top](#table-of-contents) |
+| [top](#flags) | :tokelau: | `:tokelau:` | :timor_leste: | `:timor_leste:` | [top](#table-of-contents) |
+| [top](#flags) | :turkmenistan: | `:turkmenistan:` | :tunisia: | `:tunisia:` | [top](#table-of-contents) |
+| [top](#flags) | :tonga: | `:tonga:` | :tr: | `:tr:` | [top](#table-of-contents) |
+| [top](#flags) | :trinidad_tobago: | `:trinidad_tobago:` | :tuvalu: | `:tuvalu:` | [top](#table-of-contents) |
+| [top](#flags) | :taiwan: | `:taiwan:` | :tanzania: | `:tanzania:` | [top](#table-of-contents) |
+| [top](#flags) | :ukraine: | `:ukraine:` | :uganda: | `:uganda:` | [top](#table-of-contents) |
+| [top](#flags) | :us_outlying_islands: | `:us_outlying_islands:` | :united_nations: | `:united_nations:` | [top](#table-of-contents) |
+| [top](#flags) | :us: | `:us:` | :uruguay: | `:uruguay:` | [top](#table-of-contents) |
+| [top](#flags) | :uzbekistan: | `:uzbekistan:` | :vatican_city: | `:vatican_city:` | [top](#table-of-contents) |
+| [top](#flags) | :st_vincent_grenadines: | `:st_vincent_grenadines:` | :venezuela: | `:venezuela:` | [top](#table-of-contents) |
+| [top](#flags) | :british_virgin_islands: | `:british_virgin_islands:` | :us_virgin_islands: | `:us_virgin_islands:` | [top](#table-of-contents) |
+| [top](#flags) | :vietnam: | `:vietnam:` | :vanuatu: | `:vanuatu:` | [top](#table-of-contents) |
+| [top](#flags) | :wallis_futuna: | `:wallis_futuna:` | :samoa: | `:samoa:` | [top](#table-of-contents) |
+| [top](#flags) | :kosovo: | `:kosovo:` | :yemen: | `:yemen:` | [top](#table-of-contents) |
+| [top](#flags) | :mayotte: | `:mayotte:` | :south_africa: | `:south_africa:` | [top](#table-of-contents) |
+| [top](#flags) | :zambia: | `:zambia:` | :zimbabwe: | `:zimbabwe:` | [top](#table-of-contents) |
+
+#### Subdivision Flag
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#flags) | :england: | `:england:` | :scotland: | `:scotland:` | [top](#table-of-contents) |
+| [top](#flags) | :wales: | `:wales:` | | | [top](#table-of-contents) |
+
+### GitHub Custom Emoji
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#github-custom-emoji) | :accessibility: | `:accessibility:` | :atom: | `:atom:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :basecamp: | `:basecamp:` | :basecampy: | `:basecampy:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :fishsticks: | `:fishsticks:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :goberserk: | `:goberserk:` | :godmode: | `:godmode:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :hurtrealbad: | `:hurtrealbad:` | :neckbeard: | `:neckbeard:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :octocat: | `:octocat:` | :rage1: | `:rage1:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage2: | `:rage2:` | :rage3: | `:rage3:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage4: | `:rage4:` | :shipit: | `:shipit:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :suspect: | `:suspect:` | :trollface: | `:trollface:` | [top](#table-of-contents) |
