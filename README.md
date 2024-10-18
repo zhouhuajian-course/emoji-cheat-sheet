@@ -7266,7 +7266,7 @@
     <li><a href="#arrow">Arrow</a></li>
     <li><a href="#religion">Religion</a></li>
     <li><a href="#zodiac">Zodiac</a></li>
-    <li><a href="#audio-video-symbol">Audio/Video</a></li>
+    <li><a href="#audio-video-symbol">Audio & Video</a></li>
     <li><a href="#gender">Gender</a></li>
     <li><a href="#math">Math</a></li>
     <li><a href="#punctuation">Punctuation</a></li>
@@ -7681,8 +7681,8 @@
     </table>
   </markdown-accessiblity-table>
   <div class="markdown-heading" dir="auto">
-    <h4 tabindex="-1" class="heading-element" dir="auto">Audio/Video</h4><a id="audio-video-symbol" class="anchor"
-      aria-label="Permalink: Audio/Video" href="#audio-video-symbol"></a>
+    <h4 tabindex="-1" class="heading-element" dir="auto">Audio & Video</h4><a id="audio-video-symbol" class="anchor"
+      aria-label="Permalink: Audio & Video" href="#audio-video-symbol"></a>
   </div>
   <markdown-accessiblity-table data-catalyst="">
     <table>
